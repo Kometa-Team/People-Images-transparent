@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Transparent (transparent) - Q (8 Images)
+![Grid](grid.jpg)
 
 * [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Queen%20Latifah.png)
 * [Quentin Dupieux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quentin%20Dupieux.png)

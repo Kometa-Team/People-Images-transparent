@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - T (424 Images)
+# Plex Meta Manager People - Transparent (transparent) - T (425 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -221,6 +221,7 @@
 * [Tobe Hooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tobe%20Hooper.png)
 * [Tobey Maguire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tobey%20Maguire.png)
 * [Tobias Menzies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tobias%20Menzies.png)
+* [Tobias Santelmann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tobias%20Santelmann.png)
 * [Tobias Segal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tobias%20Segal.png)
 * [Tobin Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tobin%20Bell.png)
 * [Toby Huss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Toby%20Huss.png)

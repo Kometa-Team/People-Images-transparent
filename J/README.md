@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - J (1094 Images)
+# Plex Meta Manager People - Transparent (transparent) - J (1096 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/J%27Dvonte.png)
@@ -111,6 +111,7 @@
 * [Jake Tapper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Jake%20Tapper.png)
 * [Jake Weiner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Jake%20Weiner.png)
 * [Jakob Eklund](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Jakob%20Eklund.png)
+* [Jakob Oftebro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Jakob%20Oftebro.png)
 * [Jameela Jamil](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Jameela%20Jamil.png)
 * [James Acaster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/James%20Acaster.png)
 * [James Algar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/James%20Algar.png)
@@ -924,6 +925,7 @@
 * [Josef Altin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Josef%20Altin.png)
 * [Josef Davies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Josef%20Davies.png)
 * [Josef Sommer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Josef%20Sommer.png)
+* [Josefin Asplund](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Josefin%20Asplund.png)
 * [Joseph Balderrama](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Joseph%20Balderrama.png)
 * [Joseph Bono](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Joseph%20Bono.png)
 * [Joseph Cotten](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/Joseph%20Cotten.png)

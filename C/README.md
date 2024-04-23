@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - C (585 Images)
+# Plex Meta Manager People - Transparent (transparent) - C (586 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -510,6 +510,7 @@
 * [Colm Meaney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Colm%20Meaney.png)
 * [Colman Domingo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Colman%20Domingo.png)
 * [Colonel Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Colonel%20Burton.png)
+* [Colt Johnson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Colt%20Johnson.png)
 * [Colton Dunn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Colton%20Dunn.png)
 * [Colton Haynes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Colton%20Haynes.png)
 * [Common](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/C/Images/Common.png)

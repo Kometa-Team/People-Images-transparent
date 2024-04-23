@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - R (571 Images)
+# Plex Meta Manager People - Transparent (transparent) - R (572 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -188,6 +188,7 @@
 * [Richard Brooks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Brooks.png)
 * [Richard Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Burton.png)
 * [Richard Carter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Carter.png)
+* [Richard Claus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Claus.png)
 * [Richard Conte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Conte.png)
 * [Richard Coyle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Coyle.png)
 * [Richard Curtis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Richard%20Curtis.png)

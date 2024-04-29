@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (588 Images)
+# Kometa People Images - Transparent (transparent) - C (589 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -131,6 +131,7 @@
 * [Cathryn Michon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cathryn%20Michon.png)
 * [Cathy Ang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cathy%20Ang.png)
 * [Cathy Belton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cathy%20Belton.png)
+* [Cathy Cavadini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cathy%20Cavadini.png)
 * [Cathy Konrad](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cathy%20Konrad.png)
 * [Cathy Yan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cathy%20Yan.png)
 * [Catriona MacColl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Catriona%20MacColl.png)

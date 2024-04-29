@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (307 Images)
+# Kometa People Images - Transparent (transparent) - G (308 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -307,4 +307,5 @@
 * [Gwyneth Paltrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gwyneth%20Paltrow.png)
 * [Gérard Depardieu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A9rard%20Depardieu.png)
 * [Götz Otto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%B6tz%20Otto.png)
+* [Günter Lamprecht](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%BCnter%20Lamprecht.png)
 * [Günther Stoll](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%BCnther%20Stoll.png)

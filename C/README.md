@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (586 Images)
+# Kometa People Images - Transparent (transparent) - C (588 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -136,6 +136,7 @@
 * [Catriona MacColl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Catriona%20MacColl.png)
 * [Cec Linder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cec%20Linder.png)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cecil%20B.%20DeMille.png)
+* [Cecily Strong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cecily%20Strong.png)
 * [Cedric Yarbrough](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cedric%20Yarbrough.png)
 * [Cedric the Entertainer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cedric%20the%20Entertainer.png)
 * [Celeste O'Connor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Celeste%20O%27Connor.png)
@@ -177,6 +178,7 @@
 * [Charles Finch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Finch.png)
 * [Charles Fournier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Fournier.png)
 * [Charles Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Gray.png)
+* [Charles Grosvenor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Grosvenor.png)
 * [Charles Lamont](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Lamont.png)
 * [Charles Laughton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Laughton.png)
 * [Charles M. Schulz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20M.%20Schulz.png)

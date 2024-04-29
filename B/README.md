@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (452 Images)
+# Kometa People Images - Transparent (transparent) - B (454 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -118,6 +118,7 @@
 * [Benny Safdie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benny%20Safdie.png)
 * [Bentley Kalu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bentley%20Kalu.png)
 * [Berkely Mather](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Berkely%20Mather.png)
+* [Bernadette Peters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bernadette%20Peters.png)
 * [Bernard Bullen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bernard%20Bullen.png)
 * [Bernard Herrmann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bernard%20Herrmann.png)
 * [Bernard Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bernard%20Hill.png)
@@ -394,6 +395,7 @@
 * [Brittany Raymond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brittany%20Raymond.png)
 * [Brittany Snow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brittany%20Snow.png)
 * [Broadus Mattison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Broadus%20Mattison.png)
+* [Broden Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Broden%20Kelly.png)
 * [Broderick Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Broderick%20Johnson.png)
 * [Bronson Webb](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bronson%20Webb.png)
 * [Bronte Carmichael](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bronte%20Carmichael.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (454 Images)
+# Kometa People Images - Transparent (transparent) - B (456 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -85,6 +85,7 @@
 * [Ben Knox Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Knox%20Miller.png)
 * [Ben Lamb](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Lamb.png)
 * [Ben Lambert](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Lambert.png)
+* [Ben LeClair](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20LeClair.png)
 * [Ben Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Lewis.png)
 * [Ben Mendelsohn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Mendelsohn.png)
 * [Ben Miles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Miles.png)
@@ -264,6 +265,7 @@
 * [Boluwatife Treasure Bankole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boluwatife%20Treasure%20Bankole.png)
 * [Boman Irani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boman%20Irani.png)
 * [Bong Joon-ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bong%20Joon-ho.png)
+* [Bonnie Arnold](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Arnold.png)
 * [Bonnie Bedelia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Bedelia.png)
 * [Bonnie Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Hunt.png)
 * [Bonnie Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Wright.png)

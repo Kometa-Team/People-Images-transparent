@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (589 Images)
+# Kometa People Images - Transparent (transparent) - C (590 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -535,6 +535,7 @@
 * [Coral Peña](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Coral%20Pe%C3%B1a.png)
 * [Corbin Bernsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corbin%20Bernsen.png)
 * [Corbin Bleu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corbin%20Bleu.png)
+* [Cord Jefferson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cord%20Jefferson.png)
 * [Corey Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Burton.png)
 * [Corey Hawkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Hawkins.png)
 * [Corey Hendrix](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Hendrix.png)

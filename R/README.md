@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (575 Images)
+# Kometa People Images - Transparent (transparent) - R (576 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -380,6 +380,7 @@
 * [Roberto Benigni](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roberto%20Benigni.png)
 * [Roberto De Feo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roberto%20De%20Feo.png)
 * [Roberto Orci](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roberto%20Orci.png)
+* [Roberto Proia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roberto%20Proia.png)
 * [Roberts Blossom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roberts%20Blossom.png)
 * [Robin Atkin Downes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robin%20Atkin%20Downes.png)
 * [Robin Dunne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robin%20Dunne.png)

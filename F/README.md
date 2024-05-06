@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (164 Images)
+# Kometa People Images - Transparent (transparent) - F (166 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
@@ -17,6 +17,8 @@
 * [Fakkah Fuzz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fakkah%20Fuzz.png)
 * [Famke Janssen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Famke%20Janssen.png)
 * [Faran Tahir](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Faran%20Tahir.png)
+* [Fares Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fares%20Fares.png)
+* [Fares Rahoma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fares%20Rahoma.png)
 * [Farida Dadi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Farida%20Dadi.png)
 * [Farrah Aviva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Farrah%20Aviva.png)
 * [Farrah Forke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Farrah%20Forke.png)

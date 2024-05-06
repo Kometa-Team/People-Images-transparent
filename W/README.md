@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (157 Images)
+# Kometa People Images - Transparent (transparent) - W (158 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -142,6 +142,7 @@
 * [Winslow Fegley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Winslow%20Fegley.png)
 * [Winston Duke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Winston%20Duke.png)
 * [Winston Groom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Winston%20Groom.png)
+* [Wissam Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wissam%20Fares.png)
 * [Wladyslaw Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wladyslaw%20Szpilman.png)
 * [Wolf Kahler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolf%20Kahler.png)
 * [Wolf Roth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolf%20Roth.png)

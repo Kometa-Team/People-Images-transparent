@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (49 Images)
+# Kometa People Images - Transparent (transparent) - Z (50 Images)
 ![Grid](grid.jpg)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
@@ -12,6 +12,7 @@
 * [Zach Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Lewis.png)
 * [Zach McGowan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20McGowan.png)
 * [Zach Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Shields.png)
+* [Zach Tyler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Tyler.png)
 * [Zach Woods](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Woods.png)
 * [Zachary Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zachary%20Gordon.png)
 * [Zachary Levi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zachary%20Levi.png)

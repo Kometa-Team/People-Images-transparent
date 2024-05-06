@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (619 Images)
+# Kometa People Images - Transparent (transparent) - S (620 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -41,6 +41,7 @@
 * [Sam Hazeldine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Hazeldine.png)
 * [Sam Heughan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Heughan.png)
 * [Sam Jaeger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Jaeger.png)
+* [Sam Jaimes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Jaimes.png)
 * [Sam Jay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Jay.png)
 * [Sam Johnston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Johnston.png)
 * [Sam Kinison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sam%20Kinison.png)

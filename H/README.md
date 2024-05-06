@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (197 Images)
+# Kometa People Images - Transparent (transparent) - H (199 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -59,6 +59,7 @@
 * [Harper Dill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harper%20Dill.png)
 * [Harpo Marx](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harpo%20Marx.png)
 * [Harriet Sansom Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harriet%20Sansom%20Harris.png)
+* [Harriet Slater](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harriet%20Slater.png)
 * [Harriet Walter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harriet%20Walter.png)
 * [Harris Dickinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harris%20Dickinson.png)
 * [Harris Yulin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harris%20Yulin.png)
@@ -170,6 +171,7 @@
 * [Hope Easterbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hope%20Easterbrook.png)
 * [Horatio Sanz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Horatio%20Sanz.png)
 * [Horst Buchholz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Horst%20Buchholz.png)
+* [Hossam Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hossam%20Fares.png)
 * [Hovik Keuchkerian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hovik%20Keuchkerian.png)
 * [Howard Deutch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Howard%20Deutch.png)
 * [Howard G. Kazanjian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Howard%20G.%20Kazanjian.png)

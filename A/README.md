@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (733 Images)
+# Kometa People Images - Transparent (transparent) - A (734 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
@@ -134,6 +134,7 @@
 * [Aki Kaurismäki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aki%20Kaurism%C3%A4ki.png)
 * [Akie Kotabe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akie%20Kotabe.png)
 * [Akiel Julien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akiel%20Julien.png)
+* [Akiko Yajima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akiko%20Yajima.png)
 * [Akin Gazi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akin%20Gazi.png)
 * [Akira Akbar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akira%20Akbar.png)
 * [Akira Kurosawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akira%20Kurosawa.png)

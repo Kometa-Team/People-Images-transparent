@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (428 Images)
+# Kometa People Images - Transparent (transparent) - T (430 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -12,6 +12,7 @@
 * [Taika Waititi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taika%20Waititi.png)
 * [Tait Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tait%20Fletcher.png)
 * [Takashi Miike](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takashi%20Miike.png)
+* [Takehito Koyasu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takehito%20Koyasu.png)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeshi%20Kitano.png)
 * [Taku Yashiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taku%20Yashiro.png)
 * [Talia Shire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Talia%20Shire.png)
@@ -115,6 +116,7 @@
 * [Terry Winsor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20Winsor.png)
 * [Teruo Ishii](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teruo%20Ishii.png)
 * [Tessa Thompson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tessa%20Thompson.png)
+* [Tessyo Genda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tessyo%20Genda.png)
 * [Tetsuro Kodama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetsuro%20Kodama.png)
 * [Teyonah Parris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teyonah%20Parris.png)
 * [Thandiwe Newton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thandiwe%20Newton.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - U (15 Images)
+# Kometa People Images - Transparent (transparent) - U (16 Images)
 ![Grid](grid.jpg)
 
 * [Uday Krishna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uday%20Krishna.png)
@@ -11,6 +11,7 @@
 * [Uma Thurman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uma%20Thurman.png)
 * [Umberto Lenzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Umberto%20Lenzi.png)
 * [Umit Ulgen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Umit%20Ulgen.png)
+* [Unsho Ishizuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Unsho%20Ishizuka.png)
 * [Urbano Barberini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Urbano%20Barberini.png)
 * [Ursula Andress](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ursula%20Andress.png)
 * [Utkarsh Ambudkar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Utkarsh%20Ambudkar.png)

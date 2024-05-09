@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (49 Images)
+# Kometa People Images - Transparent (transparent) - Y (51 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
@@ -20,6 +20,7 @@
 * [Yi Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yi%20Han.png)
 * [Yogi Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yogi%20Babu.png)
 * [Yoji Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoji%20Tanaka.png)
+* [Yoji Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoji%20Yamada.png)
 * [Yolanda Lynes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yolanda%20Lynes.png)
 * [Yon González](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yon%20Gonz%C3%A1lez.png)
 * [Yonas Kibreab](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yonas%20Kibreab.png)
@@ -33,6 +34,7 @@
 * [Yoson An](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoson%20An.png)
 * [You Seong-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/You%20Seong-joo.png)
 * [Youssef Kerkour](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Youssef%20Kerkour.png)
+* [Yu Aoi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yu%20Aoi.png)
 * [Yuichi Nakamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuichi%20Nakamura.png)
 * [Yuji Okumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuji%20Okumoto.png)
 * [Yuki Kaji](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuki%20Kaji.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (576 Images)
+# Kometa People Images - Transparent (transparent) - R (578 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -575,5 +575,7 @@
 * [Ryan Stiles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Stiles.png)
 * [Ryan Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Whitney.png)
 * [Ryen McPherson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryen%20McPherson.png)
+* [Ryo Kase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryo%20Kase.png)
+* [Ryuichi Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryuichi%20Hiroki.png)
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryunosuke%20Kamiki.png)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryusuke%20Hamaguchi.png)

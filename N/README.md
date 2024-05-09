@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - N (249 Images)
+# Kometa People Images - Transparent (transparent) - N (251 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
@@ -10,6 +10,7 @@
 * [Nadine Labaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nadine%20Labaki.png)
 * [Nadja Regin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nadja%20Regin.png)
 * [Nagisa Morimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nagisa%20Morimoto.png)
+* [Nagisa Ōshima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nagisa%20%C5%8Cshima.png)
 * [Naheem Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naheem%20Garcia.png)
 * [Naika Toussaint](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naika%20Toussaint.png)
 * [Najwa Nimri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Najwa%20Nimri.png)
@@ -19,6 +20,7 @@
 * [Naoko Mori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naoko%20Mori.png)
 * [Naoko Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naoko%20Yamada.png)
 * [Naomi Frenette](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naomi%20Frenette.png)
+* [Naomi Kawase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naomi%20Kawase.png)
 * [Naomi Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naomi%20Scott.png)
 * [Naomi Watts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naomi%20Watts.png)
 * [Naomie Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naomie%20Harris.png)

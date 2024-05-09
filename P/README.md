@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (354 Images)
+# Kometa People Images - Transparent (transparent) - P (355 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -126,6 +126,7 @@
 * [Paul Maxwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Maxwell.png)
 * [Paul McCartney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20McCartney.png)
 * [Paul McGann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20McGann.png)
+* [Paul Merton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Merton.png)
 * [Paul Mooney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Mooney.png)
 * [Paul Newman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Newman.png)
 * [Paul Perri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Perri.png)

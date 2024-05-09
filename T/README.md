@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (430 Images)
+# Kometa People Images - Transparent (transparent) - T (432 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -11,6 +11,7 @@
 * [Tahmoh Penikett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tahmoh%20Penikett.png)
 * [Taika Waititi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taika%20Waititi.png)
 * [Tait Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tait%20Fletcher.png)
+* [Takahisa Zeze](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takahisa%20Zeze.png)
 * [Takashi Miike](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takashi%20Miike.png)
 * [Takehito Koyasu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takehito%20Koyasu.png)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeshi%20Kitano.png)
@@ -361,6 +362,7 @@
 * [Topo Wresniwiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Topo%20Wresniwiro.png)
 * [Tora Hallström](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tora%20Hallstr%C3%B6m.png)
 * [Tori Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tori%20Anderson.png)
+* [Tori Matsuzaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tori%20Matsuzaka.png)
 * [Tori Spelling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tori%20Spelling.png)
 * [Torrey DeVitto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Torrey%20DeVitto.png)
 * [Tory Kittles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tory%20Kittles.png)

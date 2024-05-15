@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (737 Images)
+# Kometa People Images - Transparent (transparent) - A (738 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
@@ -216,6 +216,7 @@
 * [Alessandro Borghi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alessandro%20Borghi.png)
 * [Alessandro Nivola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alessandro%20Nivola.png)
 * [Alex Brightman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Brightman.png)
+* [Alex Edelman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Edelman.png)
 * [Alex Ferns](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Ferns.png)
 * [Alex Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Garcia.png)
 * [Alex Garland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Garland.png)

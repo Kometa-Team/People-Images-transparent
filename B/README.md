@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (456 Images)
+# Kometa People Images - Transparent (transparent) - B (457 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -367,6 +367,7 @@
 * [Brian Regan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Regan.png)
 * [Brian Rogers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Rogers.png)
 * [Brian Schaeffer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Schaeffer.png)
+* [Brian Simpson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Simpson.png)
 * [Brian Smyj](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Smyj.png)
 * [Brian Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Taylor.png)
 * [Brian Trenchard-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Trenchard-Smith.png)

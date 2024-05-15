@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (590 Images)
+# Kometa People Images - Transparent (transparent) - C (591 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -32,6 +32,7 @@
 * [Camille Guaty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Camille%20Guaty.png)
 * [Camille Kostek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Camille%20Kostek.png)
 * [Camillo Mastrocinque](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Camillo%20Mastrocinque.png)
+* [Campbell Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Campbell%20Scott.png)
 * [Candace Cameron Bure](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Candace%20Cameron%20Bure.png)
 * [Candi Milo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Candi%20Milo.png)
 * [Candice Bergen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Candice%20Bergen.png)

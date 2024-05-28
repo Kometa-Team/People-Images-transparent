@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (591 Images)
+# Kometa People Images - Transparent (transparent) - C (592 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -542,6 +542,7 @@
 * [Corey Hendrix](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Hendrix.png)
 * [Corey Holcomb](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Holcomb.png)
 * [Corey Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Johnson.png)
+* [Corey Reynolds](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Reynolds.png)
 * [Corey Rodrigues](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Rodrigues.png)
 * [Corey Saucier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Saucier.png)
 * [Corey Sevier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corey%20Sevier.png)

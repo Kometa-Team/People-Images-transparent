@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (203 Images)
+# Kometa People Images - Transparent (transparent) - H (204 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -97,6 +97,7 @@
 * [Heath McIvor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heath%20McIvor.png)
 * [Heather Graham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heather%20Graham.png)
 * [Heather Hemmens](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heather%20Hemmens.png)
+* [Heather North](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heather%20North.png)
 * [Hector Elias](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hector%20Elias.png)
 * [Hector Elizondo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hector%20Elizondo.png)
 * [Heidi Klum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heidi%20Klum.png)

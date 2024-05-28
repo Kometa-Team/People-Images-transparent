@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1108 Images)
+# Kometa People Images - Transparent (transparent) - J (1110 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -353,6 +353,8 @@
 * [Jeff Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Bennett.png)
 * [Jeff Bridges](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Bridges.png)
 * [Jeff Burkes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Burkes.png)
+* [Jeff Chan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Chan.png)
+* [Jeff Chang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Chang.png)
 * [Jeff Corey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Corey.png)
 * [Jeff Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Daniels.png)
 * [Jeff Dunham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeff%20Dunham.png)

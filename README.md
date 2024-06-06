@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (8981 Images)
+# Kometa People Images - Transparent (transparent) (8983 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -745,7 +745,7 @@
 * [Azhar Usman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Azhar%20Usman.png)
 * [Aziz Ansari](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aziz%20Ansari.png)
 </details>
-<details><summary><a href="B">B (457 Images)</a></summary>
+<details><summary><a href="B">B (458 Images)</a></summary>
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
 * [BD Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/BD%20Wong.png)
@@ -1059,6 +1059,7 @@
 * [Brendan Conroy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Conroy.png)
 * [Brendan Fraser](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Fraser.png)
 * [Brendan Gleeson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Gleeson.png)
+* [Brendan Hines](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Hines.png)
 * [Brendan Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Hunt.png)
 * [Brendan Penny](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Penny.png)
 * [Brendan Schaub](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Schaub.png)
@@ -1800,7 +1801,7 @@
 * [Cédric Klapisch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C%C3%A9dric%20Klapisch.png)
 * [Céline Sciamma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C%C3%A9line%20Sciamma.png)
 </details>
-<details><summary><a href="D">D (600 Images)</a></summary>
+<details><summary><a href="D">D (601 Images)</a></summary>
 
 * [D.L. Hughley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.L.%20Hughley.png)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.R.%20Nanayakkara.png)
@@ -2150,6 +2151,7 @@
 * [Dean Stockwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean%20Stockwell.png)
 * [Dean Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean%20Winters.png)
 * [Dean-Charles Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean-Charles%20Chapman.png)
+* [Deanna Russo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deanna%20Russo.png)
 * [Debbie Isitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debbie%20Isitt.png)
 * [Debbon Ayer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debbon%20Ayer.png)
 * [Debi Derryberry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debi%20Derryberry.png)

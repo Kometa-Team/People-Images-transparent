@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (600 Images)
+# Kometa People Images - Transparent (transparent) - D (601 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.L.%20Hughley.png)
@@ -349,6 +349,7 @@
 * [Dean Stockwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean%20Stockwell.png)
 * [Dean Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean%20Winters.png)
 * [Dean-Charles Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean-Charles%20Chapman.png)
+* [Deanna Russo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deanna%20Russo.png)
 * [Debbie Isitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debbie%20Isitt.png)
 * [Debbon Ayer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debbon%20Ayer.png)
 * [Debi Derryberry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debi%20Derryberry.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (457 Images)
+# Kometa People Images - Transparent (transparent) - B (458 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -313,6 +313,7 @@
 * [Brendan Conroy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Conroy.png)
 * [Brendan Fraser](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Fraser.png)
 * [Brendan Gleeson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Gleeson.png)
+* [Brendan Hines](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Hines.png)
 * [Brendan Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Hunt.png)
 * [Brendan Penny](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Penny.png)
 * [Brendan Schaub](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brendan%20Schaub.png)

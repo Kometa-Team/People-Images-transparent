@@ -1,8 +1,9 @@
-# Kometa People Images - Transparent (transparent) - Y (51 Images)
+# Kometa People Images - Transparent (transparent) - Y (52 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yahya%20Abdul-Mateen%20II.png)
+* [Yancey Arias](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yancey%20Arias.png)
 * [Yang Liang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yang%20Liang.png)
 * [Yann Gael](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yann%20Gael.png)
 * [Yaphet Kotto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yaphet%20Kotto.png)

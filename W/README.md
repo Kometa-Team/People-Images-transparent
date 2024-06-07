@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (158 Images)
+# Kometa People Images - Transparent (transparent) - W (160 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -108,6 +108,7 @@
 * [William Hootkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Hootkins.png)
 * [William Hope](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Hope.png)
 * [William Hurt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Hurt.png)
+* [William J. Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20J.%20Kelly.png)
 * [William Jackson Harper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Jackson%20Harper.png)
 * [William Joyce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Joyce.png)
 * [William Kircher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Kircher.png)
@@ -158,4 +159,5 @@
 * [Wyatt Oleff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyatt%20Oleff.png)
 * [Wyatt Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyatt%20Russell.png)
 * [Wyck Godfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyck%20Godfrey.png)
+* [Wynn Everett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wynn%20Everett.png)
 * [Władysław Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W%C5%82adys%C5%82aw%20Szpilman.png)

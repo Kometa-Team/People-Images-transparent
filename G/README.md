@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (309 Images)
+# Kometa People Images - Transparent (transparent) - G (311 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -92,6 +92,7 @@
 * [Geoffrey Holder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Holder.png)
 * [Geoffrey Keen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Keen.png)
 * [Geoffrey Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Lewis.png)
+* [Geoffrey Palmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Palmer.png)
 * [Geoffrey Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Rush.png)
 * [Geoffrey Whitehead](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Whitehead.png)
 * [George A. Romero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20A.%20Romero.png)
@@ -281,6 +282,7 @@
 * [Greta Gerwig](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Greta%20Gerwig.png)
 * [Gretchen Koerner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gretchen%20Koerner.png)
 * [Grey DeLisle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grey%20DeLisle.png)
+* [Griff Rhys Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Griff%20Rhys%20Jones.png)
 * [Griffin Dunne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Griffin%20Dunne.png)
 * [Griffin Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Griffin%20Kane.png)
 * [Griffin Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Griffin%20Matthews.png)

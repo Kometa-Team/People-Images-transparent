@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (601 Images)
+# Kometa People Images - Transparent (transparent) - D (602 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.L.%20Hughley.png)
@@ -569,6 +569,7 @@
 * [Dr. Seuss](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dr.%20Seuss.png)
 * [Drea de Matteo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Drea%20de%20Matteo.png)
 * [Drew Barrymore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Drew%20Barrymore.png)
+* [Drew Carey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Drew%20Carey.png)
 * [Drew Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Drew%20Matthews.png)
 * [Drew Michael](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Drew%20Michael.png)
 * [Drew Pearce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Drew%20Pearce.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (387 Images)
+# Kometa People Images - Transparent (transparent) - L (388 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -381,6 +381,7 @@
 * [Lyndsy Fonseca](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lyndsy%20Fonseca.png)
 * [Lynn Cohen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lynn%20Cohen.png)
 * [Lynn Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lynn%20Harris.png)
+* [Lynn Marocola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lynn%20Marocola.png)
 * [Lynn Redgrave](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lynn%20Redgrave.png)
 * [Lynn-Holly Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lynn-Holly%20Johnson.png)
 * [Lynne Marie Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lynne%20Marie%20Stewart.png)

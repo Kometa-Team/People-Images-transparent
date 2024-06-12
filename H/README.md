@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (204 Images)
+# Kometa People Images - Transparent (transparent) - H (206 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -163,6 +163,7 @@
 * [Hiroyuki Morita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroyuki%20Morita.png)
 * [Hiroyuki Sanada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroyuki%20Sanada.png)
 * [Hiten Patel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiten%20Patel.png)
+* [Hitoshi Matsumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hitoshi%20Matsumoto.png)
 * [Holden William Hagelberger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Holden%20William%20Hagelberger.png)
 * [Holland Roden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Holland%20Roden.png)
 * [Holland Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Holland%20Taylor.png)
@@ -205,3 +206,4 @@
 * [Hutch Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hutch%20Parker.png)
 * [Hwang Jung-min](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hwang%20Jung-min.png)
 * [Héctor Aníbal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H%C3%A9ctor%20An%C3%ADbal.png)
+* [Héctor Mercado](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H%C3%A9ctor%20Mercado.png)

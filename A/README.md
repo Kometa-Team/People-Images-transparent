@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (738 Images)
+# Kometa People Images - Transparent (transparent) - A (739 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
@@ -624,6 +624,7 @@
 * [Aramis Knight](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aramis%20Knight.png)
 * [Arata Iura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arata%20Iura.png)
 * [Aravind SA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aravind%20SA.png)
+* [Archie Panjabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Archie%20Panjabi.png)
 * [Ardalan Esmaili](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ardalan%20Esmaili.png)
 * [Ari Aster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ari%20Aster.png)
 * [Ari Eldjárn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ari%20Eldj%C3%A1rn.png)

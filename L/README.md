@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (388 Images)
+# Kometa People Images - Transparent (transparent) - L (389 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -251,6 +251,7 @@
 * [Liu Yifei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Yifei.png)
 * [Liv Tyler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liv%20Tyler.png)
 * [Livvy Stubenrauch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Livvy%20Stubenrauch.png)
+* [Liz Friedlander](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liz%20Friedlander.png)
 * [Liz Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liz%20Smith.png)
 * [Liza Chasin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liza%20Chasin.png)
 * [Liza Colón-Zayas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liza%20Col%C3%B3n-Zayas.png)

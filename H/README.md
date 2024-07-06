@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (206 Images)
+# Kometa People Images - Transparent (transparent) - H (207 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -190,6 +190,7 @@
 * [Hoyte van Hoytema](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hoyte%20van%20Hoytema.png)
 * [Hubert Selby Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hubert%20Selby%20Jr..png)
 * [Hugh Bonneville](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hugh%20Bonneville.png)
+* [Hugh Coles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hugh%20Coles.png)
 * [Hugh Dancy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hugh%20Dancy.png)
 * [Hugh Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hugh%20Dennis.png)
 * [Hugh Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hugh%20Grant.png)

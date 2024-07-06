@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (328 Images)
+# Kometa People Images - Transparent (transparent) - E (330 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -228,6 +228,7 @@
 * [Eric Edelstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Edelstein.png)
 * [Eric Etebari](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Etebari.png)
 * [Eric Fellner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Fellner.png)
+* [Eric Friedler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Friedler.png)
 * [Eric Gold](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Gold.png)
 * [Eric Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Goldberg.png)
 * [Eric Idle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Idle.png)
@@ -305,6 +306,7 @@
 * [Eva Melander](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eva%20Melander.png)
 * [Eva Mendes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eva%20Mendes.png)
 * [Eva Rueber-Staier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eva%20Rueber-Staier.png)
+* [Eva-Maria Grein von Friedl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eva-Maria%20Grein%20von%20Friedl.png)
 * [Evan Agos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Evan%20Agos.png)
 * [Evan Assante](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Evan%20Assante.png)
 * [Evan Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Evan%20Goldberg.png)

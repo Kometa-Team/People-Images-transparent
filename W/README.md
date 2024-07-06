@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (160 Images)
+# Kometa People Images - Transparent (transparent) - W (161 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -69,6 +69,7 @@
 * [Will Ferrell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Ferrell.png)
 * [Will Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Fletcher.png)
 * [Will Forte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Forte.png)
+* [Will Friedle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Friedle.png)
 * [Will Hare](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Hare.png)
 * [Will Hay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Hay.png)
 * [Will Kemp](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Kemp.png)

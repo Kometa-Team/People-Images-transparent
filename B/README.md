@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (458 Images)
+# Kometa People Images - Transparent (transparent) - B (459 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -152,6 +152,7 @@
 * [Bhushan Kumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bhushan%20Kumar.png)
 * [Bianca Bethune](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bianca%20Bethune.png)
 * [Bianca Nappi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bianca%20Nappi.png)
+* [Bibo Bergeron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bibo%20Bergeron.png)
 * [Biff Wiff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Biff%20Wiff.png)
 * [Bilall Fallah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bilall%20Fallah.png)
 * [Bill Allison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Allison.png)

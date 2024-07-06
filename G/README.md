@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (311 Images)
+# Kometa People Images - Transparent (transparent) - G (313 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -121,6 +121,7 @@
 * [George Nolfi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Nolfi.png)
 * [George Pastell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Pastell.png)
 * [George Peppard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Peppard.png)
+* [George Plimpton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Plimpton.png)
 * [George Roy Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Roy%20Hill.png)
 * [George Sanders](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Sanders.png)
 * [George Sear](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Sear.png)
@@ -168,6 +169,7 @@
 * [Gianpiero Pumo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gianpiero%20Pumo.png)
 * [Gigi Pritzker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gigi%20Pritzker.png)
 * [Gigio Alberti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gigio%20Alberti.png)
+* [Gil Bellows](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20Bellows.png)
 * [Gil Perez-Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20Perez-Abraham.png)
 * [Gilbert Gottfried](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gilbert%20Gottfried.png)
 * [Gill Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gill%20Dennis.png)

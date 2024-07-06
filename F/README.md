@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (166 Images)
+# Kometa People Images - Transparent (transparent) - F (167 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
@@ -166,4 +166,5 @@
 * [Fridrik Thor Fridriksson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fridrik%20Thor%20Fridriksson.png)
 * [Friedrich von Thun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Friedrich%20von%20Thun.png)
 * [Fritz Lang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fritz%20Lang.png)
+* [Fritz von Friedl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fritz%20von%20Friedl.png)
 * [Frédéric North](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fr%C3%A9d%C3%A9ric%20North.png)

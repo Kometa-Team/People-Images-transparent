@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (459 Images)
+# Kometa People Images - Transparent (transparent) - B (460 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -14,6 +14,7 @@
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bam%20Margera.png)
 * [Bambadjan Bamba](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bambadjan%20Bamba.png)
 * [Barack Obama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barack%20Obama.png)
+* [Barbara Białowąs](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Bia%C5%82ow%C4%85s.png)
 * [Barbara Bouchet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Bouchet.png)
 * [Barbara Broccoli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Broccoli.png)
 * [Barbara Carrera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Carrera.png)

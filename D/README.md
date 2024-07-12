@@ -1,6 +1,7 @@
-# Kometa People Images - Transparent (transparent) - D (602 Images)
+# Kometa People Images - Transparent (transparent) - D (603 Images)
 ![Grid](grid.jpg)
 
+* [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
 * [D.L. Hughley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.L.%20Hughley.png)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.R.%20Nanayakkara.png)
 * [D.W. Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.W.%20Brown.png)

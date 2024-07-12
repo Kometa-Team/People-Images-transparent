@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (330 Images)
+# Kometa People Images - Transparent (transparent) - E (332 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -101,6 +101,7 @@
 * [Eliza Dushku](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eliza%20Dushku.png)
 * [Eliza Scanlen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eliza%20Scanlen.png)
 * [Eliza Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eliza%20Taylor.png)
+* [Elizabeth Avellan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Avellan.png)
 * [Elizabeth Banks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Banks.png)
 * [Elizabeth Bowen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Bowen.png)
 * [Elizabeth Debicki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Debicki.png)
@@ -211,6 +212,7 @@
 * [Enrico Maria Salerno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enrico%20Maria%20Salerno.png)
 * [Enrique Arce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enrique%20Arce.png)
 * [Enrique López Lavigne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enrique%20L%C3%B3pez%20Lavigne.png)
+* [Enrique Murciano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enrique%20Murciano.png)
 * [Enver Gjokaj](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enver%20Gjokaj.png)
 * [Enzo G. Castellari](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enzo%20G.%20Castellari.png)
 * [Enzo Milioni](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enzo%20Milioni.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (840 Images)
+# Kometa People Images - Transparent (transparent) - M (841 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -317,6 +317,7 @@
 * [Mary Sheila](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mary%20Sheila.png)
 * [Mary Steenburgen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mary%20Steenburgen.png)
 * [Mary Tyler Moore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mary%20Tyler%20Moore.png)
+* [Mary Wiseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mary%20Wiseman.png)
 * [Mary-Margaret Humes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mary-Margaret%20Humes.png)
 * [Maryam d'Abo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maryam%20d%27Abo.png)
 * [Maryann Plunkett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maryann%20Plunkett.png)

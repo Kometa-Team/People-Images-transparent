@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (207 Images)
+# Kometa People Images - Transparent (transparent) - H (210 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -81,6 +81,8 @@
 * [Hart Bochner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hart%20Bochner.png)
 * [Haru Kuroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haru%20Kuroki.png)
 * [Haruka Ayase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruka%20Ayase.png)
+* [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harve%20Bennett.png)
+* [Harvey Kahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harvey%20Kahn.png)
 * [Harvey Keitel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harvey%20Keitel.png)
 * [Harvey Korman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harvey%20Korman.png)
 * [Hasan Ceylan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hasan%20Ceylan.png)
@@ -137,6 +139,7 @@
 * [Herbert Lom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Herbert%20Lom.png)
 * [Herbert Ross](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Herbert%20Ross.png)
 * [Herbert Siguenza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Herbert%20Siguenza.png)
+* [Herizen F. Guardiola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Herizen%20F.%20Guardiola.png)
 * [Hermione Norris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hermione%20Norris.png)
 * [Hero Fiennes Tiffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hero%20Fiennes%20Tiffin.png)
 * [Herschell Gordon Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Herschell%20Gordon%20Lewis.png)

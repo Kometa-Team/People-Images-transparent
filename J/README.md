@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1129 Images)
+# Kometa People Images - Transparent (transparent) - J (1130 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -1101,6 +1101,7 @@
 * [June Foray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/June%20Foray.png)
 * [June Squibb](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/June%20Squibb.png)
 * [Jung Ho-yeon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jung%20Ho-yeon.png)
+* [Junichi Suwabe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Junichi%20Suwabe.png)
 * [Junior dos Santos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Junior%20dos%20Santos.png)
 * [Junko Takeuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Junko%20Takeuchi.png)
 * [Juno Temple](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Juno%20Temple.png)

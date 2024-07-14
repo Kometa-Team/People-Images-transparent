@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (603 Images)
+# Kometa People Images - Transparent (transparent) - D (606 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -12,7 +12,10 @@
 * [Dabney Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dabney%20Coleman.png)
 * [Dacre Montgomery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dacre%20Montgomery.png)
 * [Dafne Keen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dafne%20Keen.png)
+* [Daiki Yamashita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daiki%20Yamashita.png)
+* [Daisuke Namikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Namikawa.png)
 * [Daisuke Nishio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Nishio.png)
+* [Daisuke Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Ono.png)
 * [Daisy Haggard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisy%20Haggard.png)
 * [Daisy May Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisy%20May%20Cooper.png)
 * [Daisy Ridley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisy%20Ridley.png)

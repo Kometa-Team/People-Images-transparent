@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (332 Images)
+# Kometa People Images - Transparent (transparent) - E (333 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -219,6 +219,7 @@
 * [Enzo Robutti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enzo%20Robutti.png)
 * [Enzo Tarascio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Enzo%20Tarascio.png)
 * [Eoin Macken](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eoin%20Macken.png)
+* [Eri Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eri%20Kitamura.png)
 * [Eric André](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Andr%C3%A9.png)
 * [Eric Bana](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Bana.png)
 * [Eric Bauza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Bauza.png)

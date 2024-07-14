@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (598 Images)
+# Kometa People Images - Transparent (transparent) - C (599 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -154,6 +154,7 @@
 * [Chad Rook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Rook.png)
 * [Chad Stahelski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Stahelski.png)
 * [Chadwick Boseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chadwick%20Boseman.png)
+* [Chafurin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chafurin.png)
 * [Chaim Topol](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chaim%20Topol.png)
 * [Chance Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chance%20Kelly.png)
 * [Chandler Head](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chandler%20Head.png)

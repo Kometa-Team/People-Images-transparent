@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (591 Images)
+# Kometa People Images - Transparent (transparent) - R (593 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -280,6 +280,7 @@
 * [Rio Hackford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rio%20Hackford.png)
 * [Rip Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rip%20Taylor.png)
 * [Rip Torn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rip%20Torn.png)
+* [Risa Taneda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Taneda.png)
 * [Rish Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rish%20Shah.png)
 * [Rishi Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rishi%20Kapoor.png)
 * [Risteard Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risteard%20Cooper.png)
@@ -586,6 +587,7 @@
 * [Ryan Stiles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Stiles.png)
 * [Ryan Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Whitney.png)
 * [Ryen McPherson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryen%20McPherson.png)
+* [Ryo Horikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryo%20Horikawa.png)
 * [Ryo Kase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryo%20Kase.png)
 * [Ryohei Kimura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryohei%20Kimura.png)
 * [Ryota Osaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryota%20Osaka.png)

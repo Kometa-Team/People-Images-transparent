@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (79 Images)
+# Kometa People Images - Transparent (transparent) - O (80 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
@@ -9,6 +9,7 @@
 * [Odessa Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Odessa%20Young.png)
 * [Odette Annable](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Odette%20Annable.png)
 * [Odeya Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Odeya%20Rush.png)
+* [Oh Eui-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Eui-sik.png)
 * [Oh Young-soo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Young-soo.png)
 * [Okieriete Onaodowan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Okieriete%20Onaodowan.png)
 * [Olalla Hernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Olalla%20Hern%C3%A1ndez.png)

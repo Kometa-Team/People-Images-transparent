@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (451 Images)
+# Kometa People Images - Transparent (transparent) - T (452 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -431,6 +431,7 @@
 * [Troy Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Troy%20Roberts.png)
 * [Trystan Gravelle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Trystan%20Gravelle.png)
 * [Tsai Chin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tsai%20Chin.png)
+* [Tsui Hark](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tsui%20Hark.png)
 * [Tuppence Middleton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tuppence%20Middleton.png)
 * [Turner Clay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Turner%20Clay.png)
 * [Ty Burrell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Ty%20Burrell.png)

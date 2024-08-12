@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (466 Images)
+# Kometa People Images - Transparent (transparent) - B (467 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -140,6 +140,7 @@
 * [Bertie Carvel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bertie%20Carvel.png)
 * [Bess Flowers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bess%20Flowers.png)
 * [Beth Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Beth%20Grant.png)
+* [Beth Riesgraf](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Beth%20Riesgraf.png)
 * [Bethany Joy Lenz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bethany%20Joy%20Lenz.png)
 * [Bethlehem Million](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bethlehem%20Million.png)
 * [Betsy Brandt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Betsy%20Brandt.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1150 Images)
+# Kometa People Images - Transparent (transparent) - J (1151 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -839,6 +839,7 @@
 * [John Turturro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Turturro.png)
 * [John Ventimiglia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Ventimiglia.png)
 * [John Waters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Waters.png)
+* [John Waters2](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Waters2.png)
 * [John Wayne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Wayne.png)
 * [John Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Williams.png)
 * [John Wisniski Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Wisniski%20Jr..png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (166 Images)
+# Kometa People Images - Transparent (transparent) - W (167 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -142,6 +142,7 @@
 * [Willow Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willow%20Shields.png)
 * [Wilmar Zimosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wilmar%20Zimosa.png)
 * [Wilmer Valderrama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wilmer%20Valderrama.png)
+* [Wilson Bethel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wilson%20Bethel.png)
 * [Wilson Yip](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wilson%20Yip.png)
 * [Wim Wenders](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wim%20Wenders.png)
 * [Winona Ryder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Winona%20Ryder.png)

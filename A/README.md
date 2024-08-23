@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (763 Images)
+# Kometa People Images - Transparent (transparent) - A (764 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
@@ -686,6 +686,7 @@
 * [Arthur Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Lee.png)
 * [Arthur Lubin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Lubin.png)
 * [Arthur M. Sarkissian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20M.%20Sarkissian.png)
+* [Arthur Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Miller.png)
 * [Arthur Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Penn.png)
 * [Arthur Q. Bryan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Q.%20Bryan.png)
 * [Arthur Rankin, Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Rankin%2C%20Jr..png)

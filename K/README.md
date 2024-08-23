@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (447 Images)
+# Kometa People Images - Transparent (transparent) - K (450 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -352,6 +352,7 @@
 * [Kiran Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kiran%20Shah.png)
 * [Kirby Howell-Baptiste](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirby%20Howell-Baptiste.png)
 * [Kirill Nikiforov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirill%20Nikiforov.png)
+* [Kirin Kiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirin%20Kiki.png)
 * [Kirk Baily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Baily.png)
 * [Kirk Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Cameron.png)
 * [Kirk DeMicco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20DeMicco.png)
@@ -377,6 +378,7 @@
 * [Kofi Yiadom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kofi%20Yiadom.png)
 * [Kohsuke Toriumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kohsuke%20Toriumi.png)
 * [Koichi Yamadera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koichi%20Yamadera.png)
+* [Koji Yakusho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koji%20Yakusho.png)
 * [Koki Mitani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koki%20Mitani.png)
 * [Koki Uchiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koki%20Uchiyama.png)
 * [Kola Bokinni](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kola%20Bokinni.png)
@@ -448,3 +450,4 @@
 * [Kym Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kym%20Miller.png)
 * [Kyra Sedgwick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyra%20Sedgwick.png)
 * [Kyung Soo-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyung%20Soo-jin.png)
+* [Kō Nakahira](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8D%20Nakahira.png)

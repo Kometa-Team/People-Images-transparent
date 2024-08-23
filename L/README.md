@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (400 Images)
+# Kometa People Images - Transparent (transparent) - L (401 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -45,6 +45,7 @@
 * [Larry Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Miller.png)
 * [Larry Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Mitchell.png)
 * [Larry Storch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Storch.png)
+* [Larry Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Wilson.png)
 * [Larry the Cable Guy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20the%20Cable%20Guy.png)
 * [Lars Eidinger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lars%20Eidinger.png)
 * [Lars Mikkelsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lars%20Mikkelsen.png)

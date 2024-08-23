@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (866 Images)
+# Kometa People Images - Transparent (transparent) - M (868 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -58,6 +58,7 @@
 * [Maisie Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maisie%20Williams.png)
 * [Maja Bloom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maja%20Bloom.png)
 * [Maja Schöne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maja%20Sch%C3%B6ne.png)
+* [Majel Barrett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Majel%20Barrett.png)
 * [Majid Majidi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Majid%20Majidi.png)
 * [Maki Kawase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maki%20Kawase.png)
 * [Makoto Furukawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Makoto%20Furukawa.png)
@@ -532,6 +533,7 @@
 * [Micael Borges](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Micael%20Borges.png)
 * [Micah A. Hauptman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Micah%20A.%20Hauptman.png)
 * [Michael A. Cook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Michael%20A.%20Cook.png)
+* [Michael Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Michael%20Anderson.png)
 * [Michael Angelis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Michael%20Angelis.png)
 * [Michael Apted](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Michael%20Apted.png)
 * [Michael Arndt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Michael%20Arndt.png)

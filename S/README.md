@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (669 Images)
+# Kometa People Images - Transparent (transparent) - S (671 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -76,6 +76,7 @@
 * [Sammi Rotibi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sammi%20Rotibi.png)
 * [Samuel Adewunmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Adewunmi.png)
 * [Samuel Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Anderson.png)
+* [Samuel Fuller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Fuller.png)
 * [Samuel L. Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20L.%20Jackson.png)
 * [Samuel West](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20West.png)
 * [Samuel Witwer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Witwer.png)
@@ -337,6 +338,7 @@
 * [Shin Ha-kyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shin%20Ha-kyun.png)
 * [Shin Joon-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shin%20Joon-hyun.png)
 * [Shin-ichiro Miki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shin-ichiro%20Miki.png)
+* [Shinichi Sekizawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shinichi%20Sekizawa.png)
 * [Shinnosuke Ikehata](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shinnosuke%20Ikehata.png)
 * [Shintaro Asanuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shintaro%20Asanuma.png)
 * [Shintarō Katsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shintar%C5%8D%20Katsu.png)

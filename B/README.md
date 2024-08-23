@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (467 Images)
+# Kometa People Images - Transparent (transparent) - B (469 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -23,6 +23,7 @@
 * [Barbara De Fina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20De%20Fina.png)
 * [Barbara Eve Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Eve%20Harris.png)
 * [Barbara Hershey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Hershey.png)
+* [Barbara Luddy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Luddy.png)
 * [Barbara Niven](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Niven.png)
 * [Barbara Stanwyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Stanwyck.png)
 * [Barbara Steele](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Steele.png)
@@ -303,6 +304,7 @@
 * [Bradley Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Hamilton.png)
 * [Bradley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Thomas.png)
 * [Bradley Whitford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Whitford.png)
+* [Bram Stoker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bram%20Stoker.png)
 * [Brande Roderick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brande%20Roderick.png)
 * [Brandi Alexander](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brandi%20Alexander.png)
 * [Brandon Cronenberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brandon%20Cronenberg.png)

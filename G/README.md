@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (317 Images)
+# Kometa People Images - Transparent (transparent) - G (319 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -27,6 +27,7 @@
 * [Gal Gadot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gal%20Gadot.png)
 * [Gale Anne Hurd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gale%20Anne%20Hurd.png)
 * [Galen Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Galen%20Howard.png)
+* [Gareth Dunnet-Alcocer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gareth%20Dunnet-Alcocer.png)
 * [Gareth Edwards](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gareth%20Edwards.png)
 * [Gareth Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gareth%20Evans.png)
 * [Garret Dillahunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Garret%20Dillahunt.png)
@@ -238,6 +239,7 @@
 * [Govindan Kutty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Govindan%20Kutty.png)
 * [Grace Gummer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Gummer.png)
 * [Grace Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Kelly.png)
+* [Grace Lee Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Lee%20Whitney.png)
 * [Grace Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Park.png)
 * [Grace Rex](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Rex.png)
 * [Grace Zabriskie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Zabriskie.png)

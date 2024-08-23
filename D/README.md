@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (610 Images)
+# Kometa People Images - Transparent (transparent) - D (612 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -37,6 +37,7 @@
 * [Damiano D'Innocenzo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Damiano%20D%27Innocenzo.png)
 * [Damien Chazelle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Damien%20Chazelle.png)
 * [Damion Poitier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Damion%20Poitier.png)
+* [Damián Alcázar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dami%C3%A1n%20Alc%C3%A1zar.png)
 * [Damon Driver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Damon%20Driver.png)
 * [Damon Herriman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Damon%20Herriman.png)
 * [Damon Lawner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Damon%20Lawner.png)
@@ -144,6 +145,7 @@
 * [Danny Elfman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Elfman.png)
 * [Danny Glover](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Glover.png)
 * [Danny Huston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Huston.png)
+* [Danny Kirrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Kirrane.png)
 * [Danny Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Mann.png)
 * [Danny McBride](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20McBride.png)
 * [Danny McCarthy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20McCarthy.png)

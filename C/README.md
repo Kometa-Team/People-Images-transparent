@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (605 Images)
+# Kometa People Images - Transparent (transparent) - C (607 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -171,6 +171,7 @@
 * [Charithra Chandran](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charithra%20Chandran.png)
 * [Charlene Amoia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlene%20Amoia.png)
 * [Charlene McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlene%20McKenna.png)
+* [Charles Addams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Addams.png)
 * [Charles Baker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Baker.png)
 * [Charles Band](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Band.png)
 * [Charles Barton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Barton.png)
@@ -257,6 +258,7 @@
 * [Chip Gaines](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chip%20Gaines.png)
 * [Chipo Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chipo%20Chung.png)
 * [Chiranjeevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chiranjeevi.png)
+* [Chishū Ryū](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chish%C5%AB%20Ry%C5%AB.png)
 * [Chiwetel Ejiofor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chiwetel%20Ejiofor.png)
 * [Chloe Arrowsmith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Arrowsmith.png)
 * [Chloe Bennet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Bennet.png)

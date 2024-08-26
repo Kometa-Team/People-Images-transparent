@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (764 Images)
+# Kometa People Images - Transparent (transparent) - A (765 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
@@ -556,6 +556,7 @@
 * [Annabelle Wallis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabelle%20Wallis.png)
 * [Annaleigh Ashford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annaleigh%20Ashford.png)
 * [Annalisa Cochrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annalisa%20Cochrane.png)
+* [Anndi McAfee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anndi%20McAfee.png)
 * [Anne Archer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anne%20Archer.png)
 * [Anne Bancroft](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anne%20Bancroft.png)
 * [Anne Baxter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anne%20Baxter.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (469 Images)
+# Kometa People Images - Transparent (transparent) - B (471 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -163,6 +163,7 @@
 * [Bilall Fallah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bilall%20Fallah.png)
 * [Bill Allison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Allison.png)
 * [Bill Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Bailey.png)
+* [Bill Block](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Block.png)
 * [Bill Burr](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Burr.png)
 * [Bill Burrows](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Burrows.png)
 * [Bill Burrud](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Burrud.png)
@@ -222,6 +223,7 @@
 * [Biswa Kalyan Rath](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Biswa%20Kalyan%20Rath.png)
 * [Bjorgvin Arnarson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bjorgvin%20Arnarson.png)
 * [Björk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bj%C3%B6rk.png)
+* [Björn Kjellman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bj%C3%B6rn%20Kjellman.png)
 * [Bjørn Floberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bj%C3%B8rn%20Floberg.png)
 * [Blair Jasin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blair%20Jasin.png)
 * [Blake Baumgartner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blake%20Baumgartner.png)

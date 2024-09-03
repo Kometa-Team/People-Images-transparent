@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (219 Images)
+# Kometa People Images - Transparent (transparent) - H (220 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -13,6 +13,7 @@
 * [Hakeem Kae-Kazim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hakeem%20Kae-Kazim.png)
 * [Hal Ashby](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Ashby.png)
 * [Hal B. Wallis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20B.%20Wallis.png)
+* [Hal Hartley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Hartley.png)
 * [Hal Holbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Holbrook.png)
 * [Hal Needham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Needham.png)
 * [Hal Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Roach.png)

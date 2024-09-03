@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (9354 Images)
+# Kometa People Images - Transparent (transparent) (9358 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -3300,7 +3300,7 @@
 * [Günter Lamprecht](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%BCnter%20Lamprecht.png)
 * [Günther Stoll](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%BCnther%20Stoll.png)
 </details>
-<details><summary><a href="H">H (219 Images)</a></summary>
+<details><summary><a href="H">H (220 Images)</a></summary>
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
 * [H.M. Walker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.M.%20Walker.png)
@@ -3314,6 +3314,7 @@
 * [Hakeem Kae-Kazim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hakeem%20Kae-Kazim.png)
 * [Hal Ashby](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Ashby.png)
 * [Hal B. Wallis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20B.%20Wallis.png)
+* [Hal Hartley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Hartley.png)
 * [Hal Holbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Holbrook.png)
 * [Hal Needham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Needham.png)
 * [Hal Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hal%20Roach.png)
@@ -7260,7 +7261,7 @@
 * [Quinn Duffy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quinn%20Duffy.png)
 * [Quinton Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quinton%20Jackson.png)
 </details>
-<details><summary><a href="R">R (596 Images)</a></summary>
+<details><summary><a href="R">R (599 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -7309,6 +7310,7 @@
 * [Rakie Ayola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rakie%20Ayola.png)
 * [Rakul Preet Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rakul%20Preet%20Singh.png)
 * [Ralf Moeller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralf%20Moeller.png)
+* [Ralph Bakshi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20Bakshi.png)
 * [Ralph Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20Brown.png)
 * [Ralph E. Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20E.%20Winters.png)
 * [Ralph Fiennes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20Fiennes.png)
@@ -7362,6 +7364,8 @@
 * [Ray Liotta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Liotta.png)
 * [Ray Livingston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Livingston.png)
 * [Ray McKinnon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20McKinnon.png)
+* [Ray Nicholas Hosack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Nicholas%20Hosack.png)
+* [Ray Nicholas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Nicholas.png)
 * [Ray Panthaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Panthaki.png)
 * [Ray Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Park.png)
 * [Ray Romano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Romano.png)

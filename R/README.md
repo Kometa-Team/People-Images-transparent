@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (596 Images)
+# Kometa People Images - Transparent (transparent) - R (599 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -48,6 +48,7 @@
 * [Rakie Ayola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rakie%20Ayola.png)
 * [Rakul Preet Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rakul%20Preet%20Singh.png)
 * [Ralf Moeller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralf%20Moeller.png)
+* [Ralph Bakshi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20Bakshi.png)
 * [Ralph Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20Brown.png)
 * [Ralph E. Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20E.%20Winters.png)
 * [Ralph Fiennes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ralph%20Fiennes.png)
@@ -101,6 +102,8 @@
 * [Ray Liotta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Liotta.png)
 * [Ray Livingston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Livingston.png)
 * [Ray McKinnon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20McKinnon.png)
+* [Ray Nicholas Hosack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Nicholas%20Hosack.png)
+* [Ray Nicholas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Nicholas.png)
 * [Ray Panthaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Panthaki.png)
 * [Ray Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Park.png)
 * [Ray Romano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Romano.png)

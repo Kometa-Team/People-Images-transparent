@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1155 Images)
+# Kometa People Images - Transparent (transparent) - J (1156 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -357,6 +357,7 @@
 * [Jean-Pierre Melville](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jean-Pierre%20Melville.png)
 * [Jeanine Serralles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeanine%20Serralles.png)
 * [Jeanne Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeanne%20Martin.png)
+* [Jeannie Elias](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeannie%20Elias.png)
 * [Jeb Stuart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeb%20Stuart.png)
 * [Jed Brophy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jed%20Brophy.png)
 * [Jed Rees](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jed%20Rees.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (607 Images)
+# Kometa People Images - Transparent (transparent) - C (608 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -197,6 +197,7 @@
 * [Charles Nelson Reilly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Nelson%20Reilly.png)
 * [Charles Paraventi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Paraventi.png)
 * [Charles Parnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Parnell.png)
+* [Charles Perrault](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Perrault.png)
 * [Charles Roven](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Roven.png)
 * [Charles S. Dutton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20S.%20Dutton.png)
 * [Charles Scorsese](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charles%20Scorsese.png)

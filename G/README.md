@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (319 Images)
+# Kometa People Images - Transparent (transparent) - G (320 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -229,6 +229,7 @@
 * [Goran Kostić](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goran%20Kosti%C4%87.png)
 * [Goran Visnjic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goran%20Visnjic.png)
 * [Gordon Danniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Danniels.png)
+* [Gordon Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Gray.png)
 * [Gordon Hessler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Hessler.png)
 * [Gordon Liu Chia-Hui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Liu%20Chia-Hui.png)
 * [Gordon Ramsay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Ramsay.png)

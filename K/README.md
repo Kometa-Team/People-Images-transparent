@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (451 Images)
+# Kometa People Images - Transparent (transparent) - K (452 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -360,6 +360,7 @@
 * [Kirk Douglas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Douglas.png)
 * [Kirk Fox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Fox.png)
 * [Kirk Geiger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Geiger.png)
+* [Kirk R. Thatcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20R.%20Thatcher.png)
 * [Kirk Ward](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Ward.png)
 * [Kirk Wise](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirk%20Wise.png)
 * [Kirsten Cooke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirsten%20Cooke.png)

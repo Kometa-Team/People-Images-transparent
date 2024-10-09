@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (612 Images)
+# Kometa People Images - Transparent (transparent) - D (614 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -47,6 +47,7 @@
 * [Dan Ahdoot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Ahdoot.png)
 * [Dan Aykroyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Aykroyd.png)
 * [Dan Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Brown.png)
+* [Dan Bucatinsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Bucatinsky.png)
 * [Dan Byrd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Byrd.png)
 * [Dan Castellaneta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Castellaneta.png)
 * [Dan Cummins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Cummins.png)
@@ -183,6 +184,7 @@
 * [Daryl McCormack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daryl%20McCormack.png)
 * [Dash Mihok](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dash%20Mihok.png)
 * [Daston Kalili](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daston%20Kalili.png)
+* [Dave Annable](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Annable.png)
 * [Dave Attell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Attell.png)
 * [Dave B. Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20B.%20Mitchell.png)
 * [Dave Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Barry.png)

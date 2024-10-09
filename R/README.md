@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (600 Images)
+# Kometa People Images - Transparent (transparent) - R (601 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -577,6 +577,7 @@
 * [Ryan Fleck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Fleck.png)
 * [Ryan Gage](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Gage.png)
 * [Ryan Gosling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Gosling.png)
+* [Ryan Guzman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Guzman.png)
 * [Ryan Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Hamilton.png)
 * [Ryan Hansen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Hansen.png)
 * [Ryan Kiera Armstrong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryan%20Kiera%20Armstrong.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (601 Images)
+# Kometa People Images - Transparent (transparent) - R (603 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -129,6 +129,7 @@
 * [Rebecca Staab](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rebecca%20Staab.png)
 * [Rebel Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rebel%20Wilson.png)
 * [Redd Foxx](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Redd%20Foxx.png)
+* [Reed Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reed%20Diamond.png)
 * [Reese Witherspoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reese%20Witherspoon.png)
 * [Reeve Carney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reeve%20Carney.png)
 * [Reggie Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reggie%20Lee.png)
@@ -318,6 +319,7 @@
 * [Rob Reiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rob%20Reiner.png)
 * [Rob Riggle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rob%20Riggle.png)
 * [Rob Schneider](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rob%20Schneider.png)
+* [Rob Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rob%20Stewart.png)
 * [Rob Zombie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rob%20Zombie.png)
 * [Robbie Amell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robbie%20Amell.png)
 * [Robbie Coltrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robbie%20Coltrane.png)

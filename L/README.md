@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (401 Images)
+# Kometa People Images - Transparent (transparent) - L (402 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -77,6 +77,7 @@
 * [Lauren German](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20German.png)
 * [Lauren Hynek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20Hynek.png)
 * [Lauren Lapkus](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20Lapkus.png)
+* [Lauren Lee Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20Lee%20Smith.png)
 * [Lauren Revard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20Revard.png)
 * [Lauren Ridloff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20Ridloff.png)
 * [Lauren Shuler Donner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauren%20Shuler%20Donner.png)

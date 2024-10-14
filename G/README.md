@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (320 Images)
+# Kometa People Images - Transparent (transparent) - G (321 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -40,6 +40,7 @@
 * [Garry Owen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Garry%20Owen.png)
 * [Garry Shandling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Garry%20Shandling.png)
 * [Garth Jennings](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Garth%20Jennings.png)
+* [Gary Anthony Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Anthony%20Williams.png)
 * [Gary Barber](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Barber.png)
 * [Gary Busey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Busey.png)
 * [Gary Cole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Cole.png)

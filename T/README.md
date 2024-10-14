@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (456 Images)
+# Kometa People Images - Transparent (transparent) - T (457 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -7,6 +7,7 @@
 * [T.I.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.I..png)
 * [T.J. Lavin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.J.%20Lavin.png)
 * [T.J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.J.%20Miller.png)
+* [Tabitha St. Germain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tabitha%20St.%20Germain.png)
 * [Tadanobu Asano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tadanobu%20Asano.png)
 * [Tahmoh Penikett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tahmoh%20Penikett.png)
 * [Taika Waititi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taika%20Waititi.png)

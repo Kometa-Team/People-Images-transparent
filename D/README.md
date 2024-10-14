@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (614 Images)
+# Kometa People Images - Transparent (transparent) - D (615 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -341,6 +341,7 @@
 * [David-Paul Grove](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David-Paul%20Grove.png)
 * [Dawn Dininger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20Dininger.png)
 * [Dawn French](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20French.png)
+* [Dawnn Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawnn%20Lewis.png)
 * [Daws Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daws%20Butler.png)
 * [Dax Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dax%20Griffin.png)
 * [Dax Shepard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dax%20Shepard.png)

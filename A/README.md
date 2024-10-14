@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (765 Images)
+# Kometa People Images - Transparent (transparent) - A (767 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
@@ -225,6 +225,7 @@
 * [Alesha Dixon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alesha%20Dixon.png)
 * [Alessandra Mastronardi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alessandra%20Mastronardi.png)
 * [Alessandro Borghi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alessandro%20Borghi.png)
+* [Alessandro Juliani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alessandro%20Juliani.png)
 * [Alessandro Nivola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alessandro%20Nivola.png)
 * [Alex Brightman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Brightman.png)
 * [Alex Edelman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Edelman.png)
@@ -393,6 +394,7 @@
 * [Amy Aquino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Aquino.png)
 * [Amy Brenneman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Brenneman.png)
 * [Amy Heckerling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Heckerling.png)
+* [Amy Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Hill.png)
 * [Amy Landecker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Landecker.png)
 * [Amy Paffrath](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Paffrath.png)
 * [Amy Pascal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amy%20Pascal.png)

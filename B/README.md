@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (471 Images)
+# Kometa People Images - Transparent (transparent) - B (473 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -234,6 +234,7 @@
 * [Blanca Araceli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blanca%20Araceli.png)
 * [Blanca Portillo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blanca%20Portillo.png)
 * [Blu Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blu%20Hunt.png)
+* [Blu Mankuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blu%20Mankuma.png)
 * [Blythe Danner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Blythe%20Danner.png)
 * [Bo Burnham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bo%20Burnham.png)
 * [Bo Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bo%20Hopkins.png)
@@ -353,6 +354,7 @@
 * [Brian De Palma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20De%20Palma.png)
 * [Brian Dennehy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Dennehy.png)
 * [Brian Doyle-Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Doyle-Murray.png)
+* [Brian Drummond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Drummond.png)
 * [Brian Duffy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Duffy.png)
 * [Brian Eno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Eno.png)
 * [Brian G. Hutton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20G.%20Hutton.png)

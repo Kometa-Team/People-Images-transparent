@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (453 Images)
+# Kometa People Images - Transparent (transparent) - K (455 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -221,8 +221,10 @@
 * [Kenichi Suzumura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenichi%20Suzumura.png)
 * [Kenichirou Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenichirou%20Matsuda.png)
 * [Kenji Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenji%20Matsuda.png)
+* [Kenji Misumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenji%20Misumi.png)
 * [Kenji Mizoguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenji%20Mizoguchi.png)
 * [Kenjiro Tsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenjiro%20Tsuda.png)
+* [Kenneth Anger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenneth%20Anger.png)
 * [Kenneth Branagh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenneth%20Branagh.png)
 * [Kenneth Choi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenneth%20Choi.png)
 * [Kenneth Collard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenneth%20Collard.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - N (263 Images)
+# Kometa People Images - Transparent (transparent) - N (264 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
@@ -132,6 +132,7 @@
 * [Nicholas Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nicholas%20Meyer.png)
 * [Nicholas Pileggi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nicholas%20Pileggi.png)
 * [Nicholas Pinnock](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nicholas%20Pinnock.png)
+* [Nicholas Ray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nicholas%20Ray.png)
 * [Nicholas Rowe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nicholas%20Rowe.png)
 * [Nicholas Stoller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nicholas%20Stoller.png)
 * [Nichole Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nichole%20Brown.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (402 Images)
+# Kometa People Images - Transparent (transparent) - L (403 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -335,6 +335,7 @@
 * [Louise Lombard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Louise%20Lombard.png)
 * [Lowell Cunningham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lowell%20Cunningham.png)
 * [Lowell Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lowell%20Dean.png)
+* [Lowell Ganz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lowell%20Ganz.png)
 * [Loyiso Gola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Loyiso%20Gola.png)
 * [Luc Besson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Luc%20Besson.png)
 * [Luc Dardenne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Luc%20Dardenne.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (603 Images)
+# Kometa People Images - Transparent (transparent) - R (605 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -81,6 +81,7 @@
 * [Randy Sklar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Randy%20Sklar.png)
 * [Randy Thom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Randy%20Thom.png)
 * [Ranveer Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ranveer%20Singh.png)
+* [Raoul Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raoul%20Walsh.png)
 * [Raphael Alejandro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raphael%20Alejandro.png)
 * [Raquel Welch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raquel%20Welch.png)
 * [Rashad Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rashad%20Evans.png)
@@ -191,6 +192,7 @@
 * [Richard Attenborough](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Attenborough.png)
 * [Richard Ayoade](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Ayoade.png)
 * [Richard Brake](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Brake.png)
+* [Richard Briers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Briers.png)
 * [Richard Bright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Bright.png)
 * [Richard Brooks (2)](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Brooks%20%282%29.png)
 * [Richard Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Brooks.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (167 Images)
+# Kometa People Images - Transparent (transparent) - W (169 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -92,6 +92,7 @@
 * [Willard Huyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willard%20Huyck.png)
 * [Willem Dafoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willem%20Dafoe.png)
 * [William A. Seiter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20A.%20Seiter.png)
+* [William A. Wellman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20A.%20Wellman.png)
 * [William Asher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Asher.png)
 * [William Atherton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Atherton.png)
 * [William B. Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20B.%20Davis.png)
@@ -133,6 +134,7 @@
 * [William Steig](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Steig.png)
 * [William Teitler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Teitler.png)
 * [William W. Barbour](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20W.%20Barbour.png)
+* [William Wellman Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Wellman%20Jr..png)
 * [William Wisher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Wisher.png)
 * [William Wyler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Wyler.png)
 * [William Zabka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Zabka.png)

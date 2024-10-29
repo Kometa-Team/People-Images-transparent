@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (221 Images)
+# Kometa People Images - Transparent (transparent) - H (222 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -218,6 +218,7 @@
 * [Humphrey Bogart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Humphrey%20Bogart.png)
 * [Hunter King](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hunter%20King.png)
 * [Hunter Schafer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hunter%20Schafer.png)
+* [Huntz Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Huntz%20Hall.png)
 * [Hutch Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hutch%20Parker.png)
 * [Hwang Jung-min](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hwang%20Jung-min.png)
 * [Héctor Aníbal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H%C3%A9ctor%20An%C3%ADbal.png)

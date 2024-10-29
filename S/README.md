@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (671 Images)
+# Kometa People Images - Transparent (transparent) - S (672 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -248,6 +248,7 @@
 * [Ser'Darius Blain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Ser%27Darius%20Blain.png)
 * [Serena Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Serena%20Gordon.png)
 * [Serena Rossi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Serena%20Rossi.png)
+* [Sergei Eisenstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sergei%20Eisenstein.png)
 * [Sergio Bini Bustric](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sergio%20Bini%20Bustric.png)
 * [Sergio Briones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sergio%20Briones.png)
 * [Sergio Corbucci](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sergio%20Corbucci.png)

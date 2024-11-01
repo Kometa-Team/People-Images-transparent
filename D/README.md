@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (615 Images)
+# Kometa People Images - Transparent (transparent) - D (616 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -47,6 +47,7 @@
 * [Dan Ahdoot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Ahdoot.png)
 * [Dan Aykroyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Aykroyd.png)
 * [Dan Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Brown.png)
+* [Dan Brumm](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Brumm.png)
 * [Dan Bucatinsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Bucatinsky.png)
 * [Dan Byrd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Byrd.png)
 * [Dan Castellaneta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dan%20Castellaneta.png)

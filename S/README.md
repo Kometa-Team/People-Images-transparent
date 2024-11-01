@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (672 Images)
+# Kometa People Images - Transparent (transparent) - S (673 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -235,6 +235,7 @@
 * [Sebastián Viveros](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sebasti%C3%A1n%20Viveros.png)
 * [Sedona Fuller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sedona%20Fuller.png)
 * [Seiji Mizushima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Seiji%20Mizushima.png)
+* [Seijun Suzuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Seijun%20Suzuki.png)
 * [Selena Anduze](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Selena%20Anduze.png)
 * [Selena Gomez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Selena%20Gomez.png)
 * [Selene Luna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Selene%20Luna.png)

@@ -1,6 +1,7 @@
-# Kometa People Images - Transparent (transparent) - A (771 Images)
+# Kometa People Images - Transparent (transparent) - A (772 Images)
 ![Grid](grid.jpg)
 
+* [AJ Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/AJ%20Kane.png)
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aamir%20Khan.png)
 * [Aanand L. Rai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aanand%20L.%20Rai.png)
 * [Aaron Ashmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aaron%20Ashmore.png)

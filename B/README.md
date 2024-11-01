@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (474 Images)
+# Kometa People Images - Transparent (transparent) - B (475 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -391,6 +391,7 @@
 * [Brian Van Holt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Van%20Holt.png)
 * [Brian Yuzna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Yuzna.png)
 * [Brianna Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brianna%20Brown.png)
+* [Brianna Gentilella](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brianna%20Gentilella.png)
 * [Brianna Hildebrand](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brianna%20Hildebrand.png)
 * [Brianne Howey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brianne%20Howey.png)
 * [Brianne Tju](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brianne%20Tju.png)

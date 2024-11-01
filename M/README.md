@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (877 Images)
+# Kometa People Images - Transparent (transparent) - M (878 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -498,6 +498,7 @@
 * [Melanie Griffith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melanie%20Griffith.png)
 * [Melanie Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melanie%20Hill.png)
 * [Melanie Lynskey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melanie%20Lynskey.png)
+* [Melanie Zanetti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melanie%20Zanetti.png)
 * [Melinda Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melinda%20Clarke.png)
 * [Melinda McGraw](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melinda%20McGraw.png)
 * [Melissa Benoist](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Melissa%20Benoist.png)

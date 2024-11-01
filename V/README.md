@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (110 Images)
+# Kometa People Images - Transparent (transparent) - V (111 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
@@ -30,6 +30,7 @@
 * [Varley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Varley%20Thomas.png)
 * [Venantino Venantini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Venantino%20Venantini.png)
 * [Vera Farmiga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera%20Farmiga.png)
+* [Vera Glagoleva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera%20Glagoleva.png)
 * [Vera Vitali](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera%20Vitali.png)
 * [Verne Troyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Verne%20Troyer.png)
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vernon%20Dobtcheff.png)

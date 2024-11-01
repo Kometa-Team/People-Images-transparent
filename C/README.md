@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (610 Images)
+# Kometa People Images - Transparent (transparent) - C (612 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -62,6 +62,7 @@
 * [Carlo Marks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlo%20Marks.png)
 * [Carlos Alazraqui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlos%20Alazraqui.png)
 * [Carlos Bernard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlos%20Bernard.png)
+* [Carlos Ferro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlos%20Ferro.png)
 * [Carlos Guerrero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlos%20Guerrero.png)
 * [Carlos López Estrada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlos%20L%C3%B3pez%20Estrada.png)
 * [Carlos Mencia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Carlos%20Mencia.png)
@@ -225,6 +226,7 @@
 * [Charlotte Hope](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlotte%20Hope.png)
 * [Charlotte Munck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlotte%20Munck.png)
 * [Charlotte Rampling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlotte%20Rampling.png)
+* [Charlotte Stent](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlotte%20Stent.png)
 * [Charlotte Vega](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlotte%20Vega.png)
 * [Charlotte Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlotte%20Wells.png)
 * [Charlton Heston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Charlton%20Heston.png)

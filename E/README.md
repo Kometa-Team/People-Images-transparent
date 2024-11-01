@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (334 Images)
+# Kometa People Images - Transparent (transparent) - E (335 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -104,6 +104,7 @@
 * [Elizabeth Avellan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Avellan.png)
 * [Elizabeth Banks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Banks.png)
 * [Elizabeth Bowen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Bowen.png)
+* [Elizabeth Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Daily.png)
 * [Elizabeth Debicki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Debicki.png)
 * [Elizabeth Dulau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Dulau.png)
 * [Elizabeth Faith Ludlow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Faith%20Ludlow.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (168 Images)
+# Kometa People Images - Transparent (transparent) - F (169 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
@@ -56,6 +56,7 @@
 * [Fernando Soto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fernando%20Soto.png)
 * [Feroz Abbasi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Feroz%20Abbasi.png)
 * [Fileena Bahris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fileena%20Bahris.png)
+* [Filip Berg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Filip%20Berg.png)
 * [Finn Cole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Finn%20Cole.png)
 * [Finn Wittrock](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Finn%20Wittrock.png)
 * [Finn Wolfhard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Finn%20Wolfhard.png)

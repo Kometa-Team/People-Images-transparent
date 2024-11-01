@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (876 Images)
+# Kometa People Images - Transparent (transparent) - M (877 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -161,6 +161,7 @@
 * [Marian Lorencik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marian%20Lorencik.png)
 * [Mariana Mazza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mariana%20Mazza.png)
 * [Mariangela Giordano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mariangela%20Giordano.png)
+* [Mariann Hole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mariann%20Hole.png)
 * [Marianna Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marianna%20Hill.png)
 * [Marianne Muellerleile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marianne%20Muellerleile.png)
 * [Marianne Wibberley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marianne%20Wibberley.png)

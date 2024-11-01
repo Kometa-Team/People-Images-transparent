@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (608 Images)
+# Kometa People Images - Transparent (transparent) - C (610 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -232,6 +232,7 @@
 * [Chase Mullins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chase%20Mullins.png)
 * [Chase River McGhee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chase%20River%20McGhee.png)
 * [Chase Victoria](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chase%20Victoria.png)
+* [Chaske Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chaske%20Spencer.png)
 * [Chazz Palminteri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chazz%20Palminteri.png)
 * [Cheech Marin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cheech%20Marin.png)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chekesha%20Van%20Putten.png)
@@ -365,6 +366,7 @@
 * [Christina Steinberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Steinberg.png)
 * [Christine Adams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christine%20Adams.png)
 * [Christine Baranski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christine%20Baranski.png)
+* [Christine Bottomley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christine%20Bottomley.png)
 * [Christine Ebersole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christine%20Ebersole.png)
 * [Christine Hollingsworth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christine%20Hollingsworth.png)
 * [Christine Ko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christine%20Ko.png)

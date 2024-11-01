@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (473 Images)
+# Kometa People Images - Transparent (transparent) - B (474 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -220,6 +220,7 @@
 * [Billy West](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Billy%20West.png)
 * [Billy Wilder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Billy%20Wilder.png)
 * [Billy Zane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Billy%20Zane.png)
+* [Birgitte Hjort Sørensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Birgitte%20Hjort%20S%C3%B8rensen.png)
 * [Biswa Kalyan Rath](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Biswa%20Kalyan%20Rath.png)
 * [Bjorgvin Arnarson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bjorgvin%20Arnarson.png)
 * [Björk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bj%C3%B6rk.png)

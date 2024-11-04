@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (169 Images)
+# Kometa People Images - Transparent (transparent) - W (171 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -158,6 +158,8 @@
 * [Wolfgang Petersen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfgang%20Petersen.png)
 * [Wolfgang Reitherman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfgang%20Reitherman.png)
 * [Wolfman Jack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfman%20Jack.png)
+* [Wong Jing-Jing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wong%20Jing-Jing.png)
+* [Wong Jing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wong%20Jing.png)
 * [Wong Kar-wai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wong%20Kar-wai.png)
 * [Woo Do-hwan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Woo%20Do-hwan.png)
 * [Wood Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wood%20Harris.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (222 Images)
+# Kometa People Images - Transparent (transparent) - H (224 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -67,6 +67,7 @@
 * [Harris Yulin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harris%20Yulin.png)
 * [Harrison Ford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harrison%20Ford.png)
 * [Harrison Osterfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harrison%20Osterfield.png)
+* [Harry Beresford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Beresford.png)
 * [Harry Carey, Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Carey%2C%20Jr..png)
 * [Harry Collett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Collett.png)
 * [Harry Dean Stanton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Dean%20Stanton.png)
@@ -75,6 +76,7 @@
 * [Harry Lennix](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Lennix.png)
 * [Harry Lloyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Lloyd.png)
 * [Harry Melling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Melling.png)
+* [Harry Morgan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Morgan.png)
 * [Harry Saltzman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Saltzman.png)
 * [Harry Shum Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Shum%20Jr..png)
 * [Harry Styles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Styles.png)

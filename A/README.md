@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (772 Images)
+# Kometa People Images - Transparent (transparent) - A (773 Images)
 ![Grid](grid.jpg)
 
 * [AJ Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/AJ%20Kane.png)
@@ -479,6 +479,7 @@
 * [Andy Buckley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Buckley.png)
 * [Andy Dick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Dick.png)
 * [Andy García](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Garc%C3%ADa.png)
+* [Andy Griffith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Griffith.png)
 * [Andy Hoff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Hoff.png)
 * [Andy Le](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Le.png)
 * [Andy Muschietti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andy%20Muschietti.png)

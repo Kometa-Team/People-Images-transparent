@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1170 Images)
+# Kometa People Images - Transparent (transparent) - J (1172 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -607,6 +607,8 @@
 * [Jin Hee-kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jin%20Hee-kyung.png)
 * [Jin Hye-Kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jin%20Hye-Kyung.png)
 * [Jin Kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jin%20Kyung.png)
+* [Jing Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jing%20Wang.png)
+* [Jing Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jing%20Wong.png)
 * [Jisshu Sengupta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jisshu%20Sengupta.png)
 * [Jiří Menzel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Ji%C5%99%C3%AD%20Menzel.png)
 * [Jo Han-chul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jo%20Han-chul.png)

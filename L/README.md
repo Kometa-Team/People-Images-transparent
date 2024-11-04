@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (403 Images)
+# Kometa People Images - Transparent (transparent) - L (405 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -119,6 +119,7 @@
 * [Lee Jung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Jung-eun.png)
 * [Lee Jung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Jung-jae.png)
 * [Lee Latchford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Latchford.png)
+* [Lee Lik-chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Lik-chi.png)
 * [Lee Mack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Mack.png)
 * [Lee Marvin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Marvin.png)
 * [Lee Min-ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Min-ho.png)
@@ -353,6 +354,7 @@
 * [Lucian Perez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lucian%20Perez.png)
 * [Luciana Paluzzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Luciana%20Paluzzi.png)
 * [Lucie Laurier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lucie%20Laurier.png)
+* [Lucille Ball](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lucille%20Ball.png)
 * [Lucio Fulci](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lucio%20Fulci.png)
 * [Lucrecia Martel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lucrecia%20Martel.png)
 * [Lucy Boynton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lucy%20Boynton.png)

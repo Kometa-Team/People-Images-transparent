@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (612 Images)
+# Kometa People Images - Transparent (transparent) - C (613 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -151,6 +151,7 @@
 * [Chabris Napier-Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chabris%20Napier-Lawrence.png)
 * [Chace Crawford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chace%20Crawford.png)
 * [Chad Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Daniels.png)
+* [Chad Hayes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Hayes.png)
 * [Chad L. Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20L.%20Coleman.png)
 * [Chad Michael Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Michael%20Murray.png)
 * [Chad Oman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Oman.png)

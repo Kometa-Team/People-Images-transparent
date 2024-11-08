@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (81 Images)
+# Kometa People Images - Transparent (transparent) - O (83 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
@@ -10,6 +10,7 @@
 * [Odette Annable](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Odette%20Annable.png)
 * [Odeya Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Odeya%20Rush.png)
 * [Oh Eui-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Eui-sik.png)
+* [Oh Na-ra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Na-ra.png)
 * [Oh Young-soo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Young-soo.png)
 * [Okieriete Onaodowan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Okieriete%20Onaodowan.png)
 * [Olalla Hernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Olalla%20Hern%C3%A1ndez.png)
@@ -76,6 +77,7 @@
 * [Otto Preminger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Otto%20Preminger.png)
 * [Otto Sanchez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Otto%20Sanchez.png)
 * [Ove Sprogøe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ove%20Sprog%C3%B8e.png)
+* [Ovidiu Iuliu Moldovan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ovidiu%20Iuliu%20Moldovan.png)
 * [Owain Arthur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Owain%20Arthur.png)
 * [Owen Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Owen%20Benjamin.png)
 * [Owen Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Owen%20Daniels.png)

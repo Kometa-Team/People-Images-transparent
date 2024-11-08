@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - N (264 Images)
+# Kometa People Images - Transparent (transparent) - N (266 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
@@ -250,6 +250,8 @@
 * [Nora Twomey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nora%20Twomey.png)
 * [Norbert Leo Butz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Norbert%20Leo%20Butz.png)
 * [Norbert Weisser](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Norbert%20Weisser.png)
+* [Noriaki Sugiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Noriaki%20Sugiyama.png)
+* [Noriko Shitaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Noriko%20Shitaya.png)
 * [Norm Macdonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Norm%20Macdonald.png)
 * [Norma Alvarez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Norma%20Alvarez.png)
 * [Norma Bengell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Norma%20Bengell.png)

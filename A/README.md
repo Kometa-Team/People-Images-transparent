@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (775 Images)
+# Kometa People Images - Transparent (transparent) - A (776 Images)
 ![Grid](grid.jpg)
 
 * [AJ Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/AJ%20Kane.png)
@@ -245,6 +245,7 @@
 * [Alex Merkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Merkin.png)
 * [Alex Moffat](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Moffat.png)
 * [Alex O'Loughlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20O%27Loughlin.png)
+* [Alex Ozerov-Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Ozerov-Meyer.png)
 * [Alex Pettyfer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Pettyfer.png)
 * [Alex Proyas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Proyas.png)
 * [Alex Rocco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Rocco.png)

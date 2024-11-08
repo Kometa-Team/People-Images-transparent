@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (477 Images)
+# Kometa People Images - Transparent (transparent) - B (478 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -9,6 +9,7 @@
 * [Bad Bunny](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bad%20Bunny.png)
 * [Bae Doo-na](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Doo-na.png)
 * [Bae Doona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Doona.png)
+* [Baek Min-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baek%20Min-hyun.png)
 * [Bailee Madison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bailee%20Madison.png)
 * [Baltasar Kormákur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baltasar%20Korm%C3%A1kur.png)
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bam%20Margera.png)

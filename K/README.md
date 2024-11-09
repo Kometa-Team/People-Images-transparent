@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (468 Images)
+# Kometa People Images - Transparent (transparent) - K (469 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -385,6 +385,7 @@
 * [Kit Harington](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kit%20Harington.png)
 * [Kiti Mánver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kiti%20M%C3%A1nver.png)
 * [Kiyoshi Kurosawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kiyoshi%20Kurosawa.png)
+* [Kiyotaka Oshiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kiyotaka%20Oshiyama.png)
 * [Kiyoyuki Yanada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kiyoyuki%20Yanada.png)
 * [Klaus Kinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Klaus%20Kinski.png)
 * [Klaus Maria Brandauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Klaus%20Maria%20Brandauer.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (463 Images)
+# Kometa People Images - Transparent (transparent) - T (464 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -88,6 +88,7 @@
 * [Ted Raimi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Ted%20Raimi.png)
 * [Ted Sears](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Ted%20Sears.png)
 * [Teddy Newton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teddy%20Newton.png)
+* [Teddy Sears](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teddy%20Sears.png)
 * [Telly Savalas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Telly%20Savalas.png)
 * [Telma Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Telma%20Hopkins.png)
 * [Temuera Morrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Temuera%20Morrison.png)

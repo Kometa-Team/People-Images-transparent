@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (226 Images)
+# Kometa People Images - Transparent (transparent) - H (227 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -29,6 +29,7 @@
 * [Hammed Animashaun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hammed%20Animashaun.png)
 * [Hamza Ali Abbasi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hamza%20Ali%20Abbasi.png)
 * [Hamza Haq](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hamza%20Haq.png)
+* [Han Hyo-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Han%20Hyo-joo.png)
 * [Han Jin-won](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Han%20Jin-won.png)
 * [Han So-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Han%20So-hee.png)
 * [Hana Hrzic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hana%20Hrzic.png)

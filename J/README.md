@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1173 Images)
+# Kometa People Images - Transparent (transparent) - J (1175 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -640,7 +640,9 @@
 * [Jodie Comer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodie%20Comer.png)
 * [Jodie Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodie%20Foster.png)
 * [Jodie Sweetin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodie%20Sweetin.png)
+* [Jodie Turner-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodie%20Turner-Smith.png)
 * [Jody Carlson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jody%20Carlson.png)
+* [Jody Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jody%20Smith.png)
 * [Joe Alaskey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joe%20Alaskey.png)
 * [Joe Anoa'i](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joe%20Anoa%27i.png)
 * [Joe Berlinger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joe%20Berlinger.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (336 Images)
+# Kometa People Images - Transparent (transparent) - E (337 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -250,6 +250,7 @@
 * [Eric Stoltz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Stoltz.png)
 * [Eric Stonestreet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Stonestreet.png)
 * [Eric Stuart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Stuart.png)
+* [Eric Wareheim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Wareheim.png)
 * [Erica Beck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Erica%20Beck.png)
 * [Erica Durance](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Erica%20Durance.png)
 * [Erica Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Erica%20Lee.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1175 Images)
+# Kometa People Images - Transparent (transparent) - J (1176 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -486,6 +486,7 @@
 * [Jerry Goldsmith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20Goldsmith.png)
 * [Jerry Lee Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20Lee%20Lewis.png)
 * [Jerry Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20Lewis.png)
+* [Jerry Minor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20Minor.png)
 * [Jerry Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20Nelson.png)
 * [Jerry O'Connell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20O%27Connell.png)
 * [Jerry Seinfeld](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerry%20Seinfeld.png)

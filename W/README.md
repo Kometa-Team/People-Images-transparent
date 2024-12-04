@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (171 Images)
+# Kometa People Images - Transparent (transparent) - W (172 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -42,6 +42,7 @@
 * [Wendi McLendon-Covey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendi%20McLendon-Covey.png)
 * [Wendi McLendon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendi%20McLendon.png)
 * [Wendie Jo Sperber](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendie%20Jo%20Sperber.png)
+* [Wendie Malick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendie%20Malick.png)
 * [Wendy Carlos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendy%20Carlos.png)
 * [Wendy Crewson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendy%20Crewson.png)
 * [Wendy Makkena](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wendy%20Makkena.png)

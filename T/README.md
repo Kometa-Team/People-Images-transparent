@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (464 Images)
+# Kometa People Images - Transparent (transparent) - T (466 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -42,6 +42,7 @@
 * [Tanner Buchanan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tanner%20Buchanan.png)
 * [Tanya Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tanya%20Clarke.png)
 * [Tanya Lee Pope](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tanya%20Lee%20Pope.png)
+* [Tanya Moodie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tanya%20Moodie.png)
 * [Tanya Reynolds](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tanya%20Reynolds.png)
 * [Tara Reid](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tara%20Reid.png)
 * [Tara Strong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tara%20Strong.png)
@@ -224,6 +225,7 @@
 * [Timothy Hutton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Timothy%20Hutton.png)
 * [Timothy Napier Moxon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Timothy%20Napier%20Moxon.png)
 * [Timothy Olyphant](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Timothy%20Olyphant.png)
+* [Timothy Simons](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Timothy%20Simons.png)
 * [Timothy Spall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Timothy%20Spall.png)
 * [Timothée Chalamet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Timoth%C3%A9e%20Chalamet.png)
 * [Tina Benko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tina%20Benko.png)

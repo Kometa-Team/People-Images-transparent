@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (9546 Images)
+# Kometa People Images - Transparent (transparent) (9548 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -5761,7 +5761,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L%C3%A9a%20Seydoux.png)
 * [Lúcio Andrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L%C3%BAcio%20Andrey.png)
 </details>
-<details><summary><a href="M">M (893 Images)</a></summary>
+<details><summary><a href="M">M (895 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -5932,6 +5932,7 @@
 * [Marianne Wibberley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marianne%20Wibberley.png)
 * [Maribel Verdú](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maribel%20Verd%C3%BA.png)
 * [Marie Avgeropoulos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marie%20Avgeropoulos.png)
+* [Marie Göranzon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marie%20G%C3%B6ranzon.png)
 * [Marie Mouroum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marie%20Mouroum.png)
 * [Marie Wagenman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marie%20Wagenman.png)
 * [Marie-Lyne Joncas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Marie-Lyne%20Joncas.png)
@@ -6157,6 +6158,7 @@
 * [Matt Ryan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Ryan.png)
 * [Matt Servitto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Servitto.png)
 * [Matt Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Smith.png)
+* [Matt Stone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Stone.png)
 * [Matt Tolmach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Tolmach.png)
 * [Matt Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Walsh.png)
 * [Matt Ward](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matt%20Ward.png)

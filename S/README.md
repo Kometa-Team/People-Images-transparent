@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (682 Images)
+# Kometa People Images - Transparent (transparent) - S (683 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -295,6 +295,7 @@
 * [Shane Rimmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shane%20Rimmer.png)
 * [Shane Salerno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shane%20Salerno.png)
 * [Shannon Elizabeth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shannon%20Elizabeth.png)
+* [Shannon Hartman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shannon%20Hartman.png)
 * [Shannon McIntosh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shannon%20McIntosh.png)
 * [Shannon Woodward](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shannon%20Woodward.png)
 * [Shannyn Sossamon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shannyn%20Sossamon.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (683 Images)
+# Kometa People Images - Transparent (transparent) - S (684 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -326,6 +326,7 @@
 * [Shawn Seward](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shawn%20Seward.png)
 * [Shawn Wayans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shawn%20Wayans.png)
 * [Shay Hatten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shay%20Hatten.png)
+* [Shazad Latif](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shazad%20Latif.png)
 * [Shea Whigham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shea%20Whigham.png)
 * [Sheaun McKinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sheaun%20McKinney.png)
 * [Shefali Chowdhury](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shefali%20Chowdhury.png)

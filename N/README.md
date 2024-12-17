@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - N (266 Images)
+# Kometa People Images - Transparent (transparent) - N (267 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
@@ -29,6 +29,7 @@
 * [Naomie Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naomie%20Harris.png)
 * [Nasim Pedrad](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nasim%20Pedrad.png)
 * [Nastassja Kinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nastassja%20Kinski.png)
+* [Nat Faxon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nat%20Faxon.png)
 * [Nat Wolff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nat%20Wolff.png)
 * [Natacha Karam](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natacha%20Karam.png)
 * [Natalia Cordova-Buckley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natalia%20Cordova-Buckley.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (412 Images)
+# Kometa People Images - Transparent (transparent) - L (413 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -34,6 +34,7 @@
 * [Larry Brandenburg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Brandenburg.png)
 * [Larry Cedar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Cedar.png)
 * [Larry Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Clarke.png)
+* [Larry David](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20David.png)
 * [Larry Fessenden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Fessenden.png)
 * [Larry Hagman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Hagman.png)
 * [Larry Hankin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Hankin.png)

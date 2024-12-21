@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1178 Images)
+# Kometa People Images - Transparent (transparent) - J (1180 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -95,6 +95,7 @@
 * [Jacques Rivette](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacques%20Rivette.png)
 * [Jacques Tourneur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacques%20Tourneur.png)
 * [Jada Pinkett Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jada%20Pinkett%20Smith.png)
+* [Jade Anouka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jade%20Anouka.png)
 * [Jade Ma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jade%20Ma.png)
 * [Jade Xu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jade%20Xu.png)
 * [Jaeden Martell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jaeden%20Martell.png)
@@ -636,6 +637,7 @@
 * [Joaquín Cosío](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joaqu%C3%ADn%20Cos%C3%ADo.png)
 * [Joaquín Martínez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joaqu%C3%ADn%20Mart%C3%ADnez.png)
 * [Jodelle Ferland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodelle%20Ferland.png)
+* [Jodhi May](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodhi%20May.png)
 * [Jodi Benson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodi%20Benson.png)
 * [Jodi Lyn O'Keefe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodi%20Lyn%20O%27Keefe.png)
 * [Jodie Comer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jodie%20Comer.png)

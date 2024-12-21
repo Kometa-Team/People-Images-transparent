@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (322 Images)
+# Kometa People Images - Transparent (transparent) - G (323 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -143,6 +143,7 @@
 * [Georgie Henley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgie%20Henley.png)
 * [Georgina Cates](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgina%20Cates.png)
 * [Georgina Leonidas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgina%20Leonidas.png)
+* [Gerald Early](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gerald%20Early.png)
 * [Gerald McRaney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gerald%20McRaney.png)
 * [Gerald R. Molen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gerald%20R.%20Molen.png)
 * [Gerald Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gerald%20Thomas.png)

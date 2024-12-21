@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (617 Images)
+# Kometa People Images - Transparent (transparent) - C (618 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -269,6 +269,7 @@
 * [Chloe Bennet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Bennet.png)
 * [Chloe Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Coleman.png)
 * [Chloe Driver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Driver.png)
+* [Chloe Lea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Lea.png)
 * [Chloe Pirrie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Pirrie.png)
 * [Chloé Zhao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%A9%20Zhao.png)
 * [Chloë Grace Moretz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%AB%20Grace%20Moretz.png)

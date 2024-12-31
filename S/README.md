@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (685 Images)
+# Kometa People Images - Transparent (transparent) - S (686 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -365,6 +365,7 @@
 * [Shizuka Itoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shizuka%20Itoh.png)
 * [Sho Aikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sho%20Aikawa.png)
 * [Shohreh Aghdashloo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shohreh%20Aghdashloo.png)
+* [Shoko Nakamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shoko%20Nakamura.png)
 * [Shooter Jennings](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shooter%20Jennings.png)
 * [Shota Sometani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shota%20Sometani.png)
 * [Shuichi Okita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuichi%20Okita.png)

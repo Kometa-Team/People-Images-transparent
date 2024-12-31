@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (478 Images)
+# Kometa People Images - Transparent (transparent) - B (479 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -352,6 +352,7 @@
 * [Brett Goldstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brett%20Goldstein.png)
 * [Brett Ratner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brett%20Ratner.png)
 * [Brett Rice](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brett%20Rice.png)
+* [Brett Tucker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brett%20Tucker.png)
 * [Brian Austin Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Austin%20Green.png)
 * [Brian Cox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Cox.png)
 * [Brian De Palma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20De%20Palma.png)

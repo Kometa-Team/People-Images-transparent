@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (228 Images)
+# Kometa People Images - Transparent (transparent) - H (231 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -156,6 +156,7 @@
 * [Hideaki Anno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hideaki%20Anno.png)
 * [Hideo Nakata](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hideo%20Nakata.png)
 * [Hidetoshi Nishijima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hidetoshi%20Nishijima.png)
+* [Hikaru Yamaguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hikaru%20Yamaguchi.png)
 * [Hil Horvath](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hil%20Horvath.png)
 * [Hilarie Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hilarie%20Burton.png)
 * [Hilary Duff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hilary%20Duff.png)
@@ -175,7 +176,9 @@
 * [Hiroshi Abe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroshi%20Abe.png)
 * [Hiroshi Kamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroshi%20Kamiya.png)
 * [Hiroshi Koizumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroshi%20Koizumi.png)
+* [Hiroyuki Kitakubo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroyuki%20Kitakubo.png)
 * [Hiroyuki Morita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroyuki%20Morita.png)
+* [Hiroyuki Okiura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroyuki%20Okiura.png)
 * [Hiroyuki Sanada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroyuki%20Sanada.png)
 * [Hiten Patel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiten%20Patel.png)
 * [Hitoshi Matsumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hitoshi%20Matsumoto.png)

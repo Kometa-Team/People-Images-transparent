@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (616 Images)
+# Kometa People Images - Transparent (transparent) - D (617 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -519,6 +519,7 @@
 * [Don Hahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Hahn.png)
 * [Don Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Hall.png)
 * [Don Heck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Heck.png)
+* [Don Hertzfeldt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Hertzfeldt.png)
 * [Don Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Johnson.png)
 * [Don Mancini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Mancini.png)
 * [Don Messick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Don%20Messick.png)

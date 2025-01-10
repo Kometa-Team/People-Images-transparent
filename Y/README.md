@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (80 Images)
+# Kometa People Images - Transparent (transparent) - Y (81 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
@@ -75,6 +75,7 @@
 * [Yutaka Nakano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yutaka%20Nakano.png)
 * [Yuuichirou Umehara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuuichirou%20Umehara.png)
 * [Yuya Yagira](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuya%20Yagira.png)
+* [Yuzuru Tachikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuzuru%20Tachikawa.png)
 * [Yvetta Fisher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yvetta%20Fisher.png)
 * [Yvette Nicole Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yvette%20Nicole%20Brown.png)
 * [Yvonne Senat Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yvonne%20Senat%20Jones.png)

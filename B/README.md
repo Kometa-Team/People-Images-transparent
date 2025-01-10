@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (479 Images)
+# Kometa People Images - Transparent (transparent) - B (480 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -277,6 +277,7 @@
 * [Boluwatife Treasure Bankole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boluwatife%20Treasure%20Bankole.png)
 * [Boman Irani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boman%20Irani.png)
 * [Bong Joon-ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bong%20Joon-ho.png)
+* [Bonnie Aarons](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Aarons.png)
 * [Bonnie Arnold](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Arnold.png)
 * [Bonnie Bedelia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Bedelia.png)
 * [Bonnie Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Hunt.png)

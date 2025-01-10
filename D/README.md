@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (617 Images)
+# Kometa People Images - Transparent (transparent) - D (619 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.B.%20Woodside.png)
@@ -135,6 +135,7 @@
 * [Daniela Bianchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daniela%20Bianchi.png)
 * [Daniella Pineda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daniella%20Pineda.png)
 * [Danielle Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Brooks.png)
+* [Danielle Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Harris.png)
 * [Danielle Jalade](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Jalade.png)
 * [Danielle Ornelas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Ornelas.png)
 * [Danielle Rose Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Rose%20Russell.png)
@@ -567,6 +568,7 @@
 * [Dorothy  Steel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dorothy%20%20Steel.png)
 * [Dorothy Steel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dorothy%20Steel.png)
 * [Doug Benson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Benson.png)
+* [Doug Bradley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Bradley.png)
 * [Doug Hutchison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Hutchison.png)
 * [Doug Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Jones.png)
 * [Doug Liman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Liman.png)

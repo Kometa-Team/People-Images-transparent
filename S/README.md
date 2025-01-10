@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (686 Images)
+# Kometa People Images - Transparent (transparent) - S (688 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -201,6 +201,7 @@
 * [Scott Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Wilson.png)
 * [Scott Wolf](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Wolf.png)
 * [Scott Z. Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Z.%20Burns.png)
+* [Scout Taylor-Compton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scout%20Taylor-Compton.png)
 * [Sea Shimooka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sea%20Shimooka.png)
 * [Sean Anders](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Anders.png)
 * [Sean Anthony Moran](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Anthony%20Moran.png)
@@ -326,6 +327,7 @@
 * [Shawn Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shawn%20Roberts.png)
 * [Shawn Seward](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shawn%20Seward.png)
 * [Shawn Wayans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shawn%20Wayans.png)
+* [Shawnee Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shawnee%20Smith.png)
 * [Shay Hatten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shay%20Hatten.png)
 * [Shazad Latif](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shazad%20Latif.png)
 * [Shea Whigham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shea%20Whigham.png)

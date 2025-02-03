@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (612 Images)
+# Kometa People Images - Transparent (transparent) - R (614 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -83,6 +83,7 @@
 * [Ranveer Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ranveer%20Singh.png)
 * [Raoul Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raoul%20Walsh.png)
 * [Raphael Alejandro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raphael%20Alejandro.png)
+* [Raquel Guerrero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raquel%20Guerrero.png)
 * [Raquel Welch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raquel%20Welch.png)
 * [Rashad Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rashad%20Evans.png)
 * [Rashida Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rashida%20Jones.png)
@@ -119,6 +120,7 @@
 * [Rayner Bourton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rayner%20Bourton.png)
 * [Rayver Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rayver%20Cruz.png)
 * [Raúl Esparza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ra%C3%BAl%20Esparza.png)
+* [Raúl Tejón](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ra%C3%BAl%20Tej%C3%B3n.png)
 * [Reb Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reb%20Brown.png)
 * [Rebecca Ferguson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rebecca%20Ferguson.png)
 * [Rebecca Front](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rebecca%20Front.png)

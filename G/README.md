@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (323 Images)
+# Kometa People Images - Transparent (transparent) - G (324 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -237,6 +237,7 @@
 * [Gordon Liu Chia-Hui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Liu%20Chia-Hui.png)
 * [Gordon Ramsay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gordon%20Ramsay.png)
 * [Gore Verbinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gore%20Verbinski.png)
+* [Gorka Otxoa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gorka%20Otxoa.png)
 * [Goro Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goro%20Miyazaki.png)
 * [Gottfried John](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gottfried%20John.png)
 * [Govinda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Govinda.png)

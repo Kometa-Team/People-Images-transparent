@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (372 Images)
+# Kometa People Images - Transparent (transparent) - P (373 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -73,6 +73,7 @@
 * [Patrick Flanagan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Flanagan.png)
 * [Patrick Fugit](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Fugit.png)
 * [Patrick Gallagher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Gallagher.png)
+* [Patrick Gilmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Gilmore.png)
 * [Patrick Huard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Huard.png)
 * [Patrick Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Hughes.png)
 * [Patrick Kennedy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Kennedy.png)

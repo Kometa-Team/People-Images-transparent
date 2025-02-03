@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (688 Images)
+# Kometa People Images - Transparent (transparent) - S (689 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -127,6 +127,7 @@
 * [Sarah Lo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Lo.png)
 * [Sarah Malin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Malin.png)
 * [Sarah Michelle Gellar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Michelle%20Gellar.png)
+* [Sarah Millican](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Millican.png)
 * [Sarah Niles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Niles.png)
 * [Sarah Parish](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Parish.png)
 * [Sarah Paulson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sarah%20Paulson.png)

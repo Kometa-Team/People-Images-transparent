@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (413 Images)
+# Kometa People Images - Transparent (transparent) - L (414 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -69,6 +69,7 @@
 * [Laura Hitchings](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20Hitchings.png)
 * [Laura Linney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20Linney.png)
 * [Laura Porta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20Porta.png)
+* [Laura Río](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20R%C3%ADo.png)
 * [Laura Slade Wiggins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20Slade%20Wiggins.png)
 * [Laura Solon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20Solon.png)
 * [Laura Vandervoort](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laura%20Vandervoort.png)

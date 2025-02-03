@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (470 Images)
+# Kometa People Images - Transparent (transparent) - K (471 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -365,6 +365,7 @@
 * [King Hu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/King%20Hu.png)
 * [Kinji Fukasaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kinji%20Fukasaku.png)
 * [Kip Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kip%20Chapman.png)
+* [Kira Miró](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kira%20Mir%C3%B3.png)
 * [Kiran Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kiran%20Shah.png)
 * [Kirby Howell-Baptiste](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirby%20Howell-Baptiste.png)
 * [Kirill Nikiforov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kirill%20Nikiforov.png)

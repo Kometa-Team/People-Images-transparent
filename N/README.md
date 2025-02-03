@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - N (267 Images)
+# Kometa People Images - Transparent (transparent) - N (268 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
@@ -74,6 +74,7 @@
 * [Nawazuddin Siddiqui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nawazuddin%20Siddiqui.png)
 * [Naya Rivera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Naya%20Rivera.png)
 * [Nazanin Boniadi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nazanin%20Boniadi.png)
+* [Nazaret Aracil](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nazaret%20Aracil.png)
 * [Nazneen Contractor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nazneen%20Contractor.png)
 * [Ncuti Gatwa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Ncuti%20Gatwa.png)
 * [Neal Brennan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Neal%20Brennan.png)

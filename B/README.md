@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (481 Images)
+# Kometa People Images - Transparent (transparent) - B (483 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -427,6 +427,7 @@
 * [Bronte Carmichael](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bronte%20Carmichael.png)
 * [Brontis Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brontis%20Jodorowsky.png)
 * [Brooke D'Orsay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20D%27Orsay.png)
+* [Brooke Lyons](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Lyons.png)
 * [Brooke Satchwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Satchwell.png)
 * [Brooke Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Shields.png)
 * [Brooke Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Smith.png)
@@ -444,6 +445,7 @@
 * [Bruce Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Lee.png)
 * [Bruce McGill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20McGill.png)
 * [Bruce Penhall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Penhall.png)
+* [Bruce Sinofsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Sinofsky.png)
 * [Bruce Spence](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Spence.png)
 * [Bruce Timm](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Timm.png)
 * [Bruce Willis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Willis.png)

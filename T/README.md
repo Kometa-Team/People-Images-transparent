@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (467 Images)
+# Kometa People Images - Transparent (transparent) - T (468 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -352,6 +352,7 @@
 * [Tommy Lee Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20Lee%20Jones.png)
 * [Tommy Lister Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20Lister%20Jr..png)
 * [Tommy Little](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20Little.png)
+* [Tommy O'Haver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20O%27Haver.png)
 * [Tommy Wirkola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20Wirkola.png)
 * [Tomoaki Maeno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomoaki%20Maeno.png)
 * [Tomokazu Seki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomokazu%20Seki.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (172 Images)
+# Kometa People Images - Transparent (transparent) - W (174 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -6,6 +6,7 @@
 * [W. Kamau Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Kamau%20Bell.png)
 * [Wachowski Sisters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wachowski%20Sisters.png)
 * [Wade Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wade%20Williams.png)
+* [Wagner Moura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wagner%20Moura.png)
 * [Wai Ching Ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wai%20Ching%20Ho.png)
 * [Wale Ojo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wale%20Ojo.png)
 * [Wallace Shawn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wallace%20Shawn.png)
@@ -120,6 +121,7 @@
 * [William Joyce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Joyce.png)
 * [William Kircher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Kircher.png)
 * [William Lau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Lau.png)
+* [William Lustig](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Lustig.png)
 * [William Melling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Melling.png)
 * [William Monahan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Monahan.png)
 * [William Moseley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Moseley.png)

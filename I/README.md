@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (121 Images)
+# Kometa People Images - Transparent (transparent) - I (123 Images)
 ![Grid](grid.jpg)
 
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -67,6 +67,7 @@
 * [Inori Minase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inori%20Minase.png)
 * [Ioan Gruffudd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ioan%20Gruffudd.png)
 * [Ione Skye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ione%20Skye.png)
+* [Iota](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iota.png)
 * [Irene Mecchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irene%20Mecchi.png)
 * [Irene Papas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irene%20Papas.png)
 * [Irrfan Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irrfan%20Khan.png)
@@ -77,6 +78,7 @@
 * [Isaac Andrews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isaac%20Andrews.png)
 * [Isaac Butterfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isaac%20Butterfield.png)
 * [Isaac C. Singleton Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isaac%20C.%20Singleton%20Jr..png)
+* [Isaac C. Singleton, Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isaac%20C.%20Singleton%2C%20Jr..png)
 * [Isaac Hempstead-Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isaac%20Hempstead-Wright.png)
 * [Isaach De Bankolé](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isaach%20De%20Bankol%C3%A9.png)
 * [Isabel May](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isabel%20May.png)

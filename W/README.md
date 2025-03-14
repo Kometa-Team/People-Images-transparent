@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (174 Images)
+# Kometa People Images - Transparent (transparent) - W (176 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -80,6 +80,7 @@
 * [Will Kemp](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Kemp.png)
 * [Will Lyman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Lyman.png)
 * [Will McCormack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20McCormack.png)
+* [Will Merrick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Merrick.png)
 * [Will Patton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Patton.png)
 * [Will Poulter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Poulter.png)
 * [Will Pullen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Pullen.png)
@@ -93,6 +94,7 @@
 * [Willard E. Pugh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willard%20E.%20Pugh.png)
 * [Willard Huyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willard%20Huyck.png)
 * [Willem Dafoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willem%20Dafoe.png)
+* [William 'Billy' Costello](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20%27Billy%27%20Costello.png)
 * [William A. Seiter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20A.%20Seiter.png)
 * [William A. Wellman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20A.%20Wellman.png)
 * [William Asher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Asher.png)

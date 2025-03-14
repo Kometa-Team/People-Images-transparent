@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (176 Images)
+# Kometa People Images - Transparent (transparent) - F (177 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
@@ -130,6 +130,7 @@
 * [Frank Mir](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Mir.png)
 * [Frank Olegario](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Olegario.png)
 * [Frank Oz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Oz.png)
+* [Frank Pesce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Pesce.png)
 * [Frank Pietrangolare](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Pietrangolare.png)
 * [Frank Sinatra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Sinatra.png)
 * [Frank Sivero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Sivero.png)

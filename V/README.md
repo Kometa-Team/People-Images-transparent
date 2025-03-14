@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (111 Images)
+# Kometa People Images - Transparent (transparent) - V (112 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
@@ -8,6 +8,7 @@
 * [Valentina Cortese](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valentina%20Cortese.png)
 * [Valeria Bruni Tedeschi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valeria%20Bruni%20Tedeschi.png)
 * [Valerie Leon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerie%20Leon.png)
+* [Valerie Wildman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerie%20Wildman.png)
 * [Valerio Aprea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerio%20Aprea.png)
 * [Valerio Mastandrea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerio%20Mastandrea.png)
 * [Van Quattro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Van%20Quattro.png)

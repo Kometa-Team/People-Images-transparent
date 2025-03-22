@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (177 Images)
+# Kometa People Images - Transparent (transparent) - F (179 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
@@ -109,6 +109,8 @@
 * [Francisco Rabal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Francisco%20Rabal.png)
 * [Franco Citti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Franco%20Citti.png)
 * [Franco Nero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Franco%20Nero.png)
+* [Franco Pesce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Franco%20Pesce.png)
+* [Franco Prosperi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Franco%20Prosperi.png)
 * [Franco Zeffirelli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Franco%20Zeffirelli.png)
 * [Frank Adonis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20Adonis.png)
 * [Frank C. Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frank%20C.%20Turner.png)

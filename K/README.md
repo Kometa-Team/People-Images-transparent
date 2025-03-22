@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (486 Images)
+# Kometa People Images - Transparent (transparent) - K (487 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -304,6 +304,7 @@
 * [Kevin Nealon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20Nealon.png)
 * [Kevin O'Grady](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20O%27Grady.png)
 * [Kevin Pollak](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20Pollak.png)
+* [Kevin Rafferty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20Rafferty.png)
 * [Kevin Rowland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20Rowland.png)
 * [Kevin Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20Smith.png)
 * [Kevin Sorbo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kevin%20Sorbo.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - U (16 Images)
+# Kometa People Images - Transparent (transparent) - U (18 Images)
 ![Grid](grid.jpg)
 
 * [Uday Krishna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uday%20Krishna.png)
@@ -13,7 +13,9 @@
 * [Umit Ulgen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Umit%20Ulgen.png)
 * [Unsho Ishizuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Unsho%20Ishizuka.png)
 * [Urbano Barberini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Urbano%20Barberini.png)
+* [Uri Gavriel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uri%20Gavriel.png)
 * [Ursula Andress](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ursula%20Andress.png)
+* [Uta Erickson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uta%20Erickson.png)
 * [Utkarsh Ambudkar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Utkarsh%20Ambudkar.png)
 * [Uwe Boll](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uwe%20Boll.png)
 * [Uzo Aduba](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uzo%20Aduba.png)

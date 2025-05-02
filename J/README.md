@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1333 Images)
+# Kometa People Images - Transparent (transparent) - J (1334 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -1053,6 +1053,7 @@
 * [Jonathan Eirich](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Eirich.png)
 * [Jonathan Frakes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Frakes.png)
 * [Jonathan Glazer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Glazer.png)
+* [Jonathan Glickman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Glickman.png)
 * [Jonathan Goldstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Goldstein.png)
 * [Jonathan Good](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Good.png)
 * [Jonathan Groff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Groff.png)

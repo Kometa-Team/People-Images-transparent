@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (691 Images)
+# Kometa People Images - Transparent (transparent) - R (692 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -313,6 +313,7 @@
 * [Rie Kugimiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rie%20Kugimiya.png)
 * [Rie Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rie%20Takahashi.png)
 * [Rieko Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rieko%20Takahashi.png)
+* [Rik Mayall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rik%20Mayall.png)
 * [Riki Lindhome](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Riki%20Lindhome.png)
 * [Riki Takeuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Riki%20Takeuchi.png)
 * [Rikiya Koyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rikiya%20Koyama.png)

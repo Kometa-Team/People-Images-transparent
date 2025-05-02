@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (189 Images)
+# Kometa People Images - Transparent (transparent) - W (190 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -34,6 +34,7 @@
 * [Warren Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Warren%20Brown.png)
 * [Warren Christie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Warren%20Christie.png)
 * [Warren Kole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Warren%20Kole.png)
+* [Warren Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Warren%20Mitchell.png)
 * [Warwick Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Warwick%20Davis.png)
 * [Wataru Takagi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wataru%20Takagi.png)
 * [Waylon Payne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Waylon%20Payne.png)

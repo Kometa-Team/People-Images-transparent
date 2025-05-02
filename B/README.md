@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (546 Images)
+# Kometa People Images - Transparent (transparent) - B (547 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -519,6 +519,7 @@
 * [Bryan Singer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bryan%20Singer.png)
 * [Bryan Sloyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bryan%20Sloyer.png)
 * [Bryan Unkeless](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bryan%20Unkeless.png)
+* [Bryan Woods](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bryan%20Woods.png)
 * [Bryce Dallas Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bryce%20Dallas%20Howard.png)
 * [Bryce Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bryce%20Johnson.png)
 * [Bráulio Mantovani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Br%C3%A1ulio%20Mantovani.png)

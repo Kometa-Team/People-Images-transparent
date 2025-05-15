@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (532 Images)
+# Kometa People Images - Transparent (transparent) - T (533 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -225,6 +225,7 @@
 * [Tim Curry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Curry.png)
 * [Tim DeZarn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20DeZarn.png)
 * [Tim Dillon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Dillon.png)
+* [Tim Downie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Downie.png)
 * [Tim Guinee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Guinee.png)
 * [Tim Headington](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Headington.png)
 * [Tim Heidecker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Heidecker.png)

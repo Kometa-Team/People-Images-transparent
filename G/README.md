@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (374 Images)
+# Kometa People Images - Transparent (transparent) - G (376 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -203,6 +203,8 @@
 * [Gigio Alberti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gigio%20Alberti.png)
 * [Gil Bellows](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20Bellows.png)
 * [Gil Birmingham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20Birmingham.png)
+* [Gil Junger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20Junger.png)
+* [Gil McKinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20McKinney.png)
 * [Gil Perez-Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gil%20Perez-Abraham.png)
 * [Gilbert Gottfried](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gilbert%20Gottfried.png)
 * [Gilbert R. Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gilbert%20R.%20Hill.png)

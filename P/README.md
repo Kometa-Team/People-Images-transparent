@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (426 Images)
+# Kometa People Images - Transparent (transparent) - P (427 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -258,6 +258,7 @@
 * [Peter Cullen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Cullen.png)
 * [Peter Cushing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Cushing.png)
 * [Peter Davidson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Davidson.png)
+* [Peter Davison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Davison.png)
 * [Peter Del Vecho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Del%20Vecho.png)
 * [Peter Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Diamond.png)
 * [Peter Dillon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Peter%20Dillon.png)

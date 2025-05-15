@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (697 Images)
+# Kometa People Images - Transparent (transparent) - C (699 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -303,6 +303,7 @@
 * [Chike Chan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chike%20Chan.png)
 * [Chin Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chin%20Han.png)
 * [China Chow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/China%20Chow.png)
+* [Chino Darín](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chino%20Dar%C3%ADn.png)
 * [Chip Gaines](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chip%20Gaines.png)
 * [Chipo Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chipo%20Chung.png)
 * [Chiranjeevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chiranjeevi.png)
@@ -413,6 +414,7 @@
 * [Christie Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christie%20Smith.png)
 * [Christie Will](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christie%20Will.png)
 * [Christina Aguilera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Aguilera.png)
+* [Christina Alexandra Voros](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Alexandra%20Voros.png)
 * [Christina Applegate](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Applegate.png)
 * [Christina Cabot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Cabot.png)
 * [Christina Chong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Chong.png)

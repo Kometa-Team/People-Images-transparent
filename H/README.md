@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (280 Images)
+# Kometa People Images - Transparent (transparent) - H (281 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -110,6 +110,7 @@
 * [Hasan Ceylan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hasan%20Ceylan.png)
 * [Hasan Minhaj](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hasan%20Minhaj.png)
 * [Hassani Shapi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hassani%20Shapi.png)
+* [Hattie Kragten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hattie%20Kragten.png)
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayao%20Miyazaki.png)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayden%20Christensen.png)
 * [Hayes MacArthur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayes%20MacArthur.png)

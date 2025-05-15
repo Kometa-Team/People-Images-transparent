@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (486 Images)
+# Kometa People Images - Transparent (transparent) - L (487 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -35,6 +35,7 @@
 * [Langston Fishburne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Langston%20Fishburne.png)
 * [Lara McDonnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lara%20McDonnell.png)
 * [Laraine Newman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laraine%20Newman.png)
+* [Larisa Oleynik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larisa%20Oleynik.png)
 * [Larisa Shepitko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larisa%20Shepitko.png)
 * [Larissa Andrade](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larissa%20Andrade.png)
 * [Larry Blamire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Larry%20Blamire.png)

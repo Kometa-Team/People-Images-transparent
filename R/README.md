@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (692 Images)
+# Kometa People Images - Transparent (transparent) - R (693 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -204,6 +204,7 @@
 * [Ric Roman Waugh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ric%20Roman%20Waugh.png)
 * [Ric Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ric%20Young.png)
 * [Rica Matsumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rica%20Matsumoto.png)
+* [Ricardo Darín](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ricardo%20Dar%C3%ADn.png)
 * [Riccardo Chemello](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Riccardo%20Chemello.png)
 * [Riccardo Freda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Riccardo%20Freda.png)
 * [Riccardo Milani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Riccardo%20Milani.png)

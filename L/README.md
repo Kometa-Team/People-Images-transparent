@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (487 Images)
+# Kometa People Images - Transparent (transparent) - L (488 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -237,6 +237,7 @@
 * [Lewis Tan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lewis%20Tan.png)
 * [Lewis Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lewis%20Young.png)
 * [Lex Shrapnel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lex%20Shrapnel.png)
+* [Lexi Perri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lexi%20Perri.png)
 * [Leythum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leythum.png)
 * [Li Jing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Jing.png)
 * [Lia McHugh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lia%20McHugh.png)

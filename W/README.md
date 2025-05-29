@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (190 Images)
+# Kometa People Images - Transparent (transparent) - W (192 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -150,6 +150,7 @@
 * [William Shatner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Shatner.png)
 * [William Squire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Squire.png)
 * [William Steig](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Steig.png)
+* [William Sylvester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Sylvester.png)
 * [William Teitler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Teitler.png)
 * [William W. Barbour](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20W.%20Barbour.png)
 * [William Wellman Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Wellman%20Jr..png)
@@ -188,6 +189,7 @@
 * [Wyatt Cenac](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyatt%20Cenac.png)
 * [Wyatt Oleff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyatt%20Oleff.png)
 * [Wyatt Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyatt%20Russell.png)
+* [Wyatt White](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyatt%20White.png)
 * [Wyck Godfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wyck%20Godfrey.png)
 * [Wynn Everett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wynn%20Everett.png)
 * [Władysław Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W%C5%82adys%C5%82aw%20Szpilman.png)

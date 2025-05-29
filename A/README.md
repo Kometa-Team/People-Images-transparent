@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (894 Images)
+# Kometa People Images - Transparent (transparent) - A (896 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -388,6 +388,7 @@
 * [Allen Covert](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allen%20Covert.png)
 * [Allen Garfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allen%20Garfield.png)
 * [Allen Maldonado](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allen%20Maldonado.png)
+* [Allen Smithee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allen%20Smithee.png)
 * [Allison Janney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allison%20Janney.png)
 * [Allison Shearmur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allison%20Shearmur.png)
 * [Allison Tolman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Allison%20Tolman.png)
@@ -605,6 +606,7 @@
 * [Anjelica Huston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anjelica%20Huston.png)
 * [Anjli Mohindra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anjli%20Mohindra.png)
 * [Ann Akinjirin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ann%20Akinjirin.png)
+* [Ann Altieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ann%20Altieri.png)
 * [Ann Cusack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ann%20Cusack.png)
 * [Ann Dowd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ann%20Dowd.png)
 * [Ann Hui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ann%20Hui.png)

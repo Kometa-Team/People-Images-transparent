@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (376 Images)
+# Kometa People Images - Transparent (transparent) - G (378 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -57,6 +57,7 @@
 * [Gary Goldman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Goldman.png)
 * [Gary Gulman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Gulman.png)
 * [Gary Kurtz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Kurtz.png)
+* [Gary Lockwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Lockwood.png)
 * [Gary Lucchesi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Lucchesi.png)
 * [Gary Lydon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Lydon.png)
 * [Gary Nickens](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gary%20Nickens.png)
@@ -231,6 +232,7 @@
 * [Giorgio Cantarini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giorgio%20Cantarini.png)
 * [Giorgio Diritti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giorgio%20Diritti.png)
 * [Giovanna Ralli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giovanna%20Ralli.png)
+* [Giovanni Fusco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giovanni%20Fusco.png)
 * [Giovanni Lombardo Radice](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giovanni%20Lombardo%20Radice.png)
 * [Giovanni Ribisi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giovanni%20Ribisi.png)
 * [Giovanni Storti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Giovanni%20Storti.png)

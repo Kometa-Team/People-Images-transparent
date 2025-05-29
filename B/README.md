@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (550 Images)
+# Kometa People Images - Transparent (transparent) - B (552 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -188,6 +188,7 @@
 * [Bilall Fallah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bilall%20Fallah.png)
 * [Bill Allison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Allison.png)
 * [Bill Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Bailey.png)
+* [Bill Barretta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Barretta.png)
 * [Bill Bellamy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Bellamy.png)
 * [Bill Block](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Block.png)
 * [Bill Burr](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Burr.png)
@@ -352,6 +353,7 @@
 * [Bradley Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Cooper.png)
 * [Bradley Gregg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Gregg.png)
 * [Bradley Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Hamilton.png)
+* [Bradley J. Fischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20J.%20Fischer.png)
 * [Bradley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Thomas.png)
 * [Bradley Whitford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bradley%20Whitford.png)
 * [Braeden Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Braeden%20Michael%20Baldwin.png)

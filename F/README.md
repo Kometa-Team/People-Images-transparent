@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (199 Images)
+# Kometa People Images - Transparent (transparent) - F (200 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
@@ -11,6 +11,7 @@
 * [Fabrizio De Angelis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fabrizio%20De%20Angelis.png)
 * [Fabrizio Laurenti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fabrizio%20Laurenti.png)
 * [Fahim Anwar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fahim%20Anwar.png)
+* [Fairouz Ai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fairouz%20Ai.png)
 * [Fairuza Balk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fairuza%20Balk.png)
 * [Faith Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Faith%20Hill.png)
 * [Faith Wood-Blagrove](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Faith%20Wood-Blagrove.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (392 Images)
+# Kometa People Images - Transparent (transparent) - E (394 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -81,6 +81,7 @@
 * [Edwin Lee Gibson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edwin%20Lee%20Gibson.png)
 * [Efka Kvaraciejus](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Efka%20Kvaraciejus.png)
 * [Ehren Kruger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ehren%20Kruger.png)
+* [Ei Aoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ei%20Aoki.png)
 * [Eion Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eion%20Bailey.png)
 * [Eiza González](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eiza%20Gonz%C3%A1lez.png)
 * [Eka Darville](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eka%20Darville.png)
@@ -273,6 +274,7 @@
 * [Eric Gold](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Gold.png)
 * [Eric Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Goldberg.png)
 * [Eric Idle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Idle.png)
+* [Eric Jacobson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Jacobson.png)
 * [Eric Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Johnson.png)
 * [Eric Lange](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Lange.png)
 * [Eric Langevin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Langevin.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (896 Images)
+# Kometa People Images - Transparent (transparent) - A (897 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -740,6 +740,7 @@
 * [Anya Taylor-Joy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anya%20Taylor-Joy.png)
 * [Aoi Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aoi%20Miyazaki.png)
 * [Aoi Yuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aoi%20Yuki.png)
+* [Aoi Yuuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aoi%20Yuuki.png)
 * [Aparshakti Khurana](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aparshakti%20Khurana.png)
 * [April Grace](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/April%20Grace.png)
 * [April Telek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/April%20Telek.png)

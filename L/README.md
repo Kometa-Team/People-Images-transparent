@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (488 Images)
+# Kometa People Images - Transparent (transparent) - L (489 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -116,6 +116,7 @@
 * [Lawrence Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Gordon.png)
 * [Lawrence Kasdan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Kasdan.png)
 * [Lawrence Ko Yu-Luen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Ko%20Yu-Luen.png)
+* [Lawrence Konner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Konner.png)
 * [Lawrence Makoare](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Makoare.png)
 * [Laysla De Oliveira](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laysla%20De%20Oliveira.png)
 * [Laz Alonso](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laz%20Alonso.png)

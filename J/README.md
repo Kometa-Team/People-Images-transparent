@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1349 Images)
+# Kometa People Images - Transparent (transparent) - J (1350 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -521,6 +521,7 @@
 * [Jenson Button](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jenson%20Button.png)
 * [Jenson Cheng](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jenson%20Cheng.png)
 * [Jeon Eun-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeon%20Eun-jin.png)
+* [Jerami Cruise](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerami%20Cruise.png)
 * [Jeremiah Bitsui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeremiah%20Bitsui.png)
 * [Jeremy Allen White](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeremy%20Allen%20White.png)
 * [Jeremy Bulloch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeremy%20Bulloch.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (552 Images)
+# Kometa People Images - Transparent (transparent) - B (553 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -62,6 +62,7 @@
 * [Barry Sloane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barry%20Sloane.png)
 * [Barry Sonnenfeld](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barry%20Sonnenfeld.png)
 * [Barry Watson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barry%20Watson.png)
+* [Barry Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barry%20Williams.png)
 * [Bashir Salahuddin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bashir%20Salahuddin.png)
 * [Basil Iwanyk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Basil%20Iwanyk.png)
 * [Basil Rathbone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Basil%20Rathbone.png)

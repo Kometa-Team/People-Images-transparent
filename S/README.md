@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (785 Images)
+# Kometa People Images - Transparent (transparent) - S (787 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -198,6 +198,7 @@
 * [Scott Beach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Beach.png)
 * [Scott Beck Horan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Beck%20Horan.png)
 * [Scott Beck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Beck.png)
+* [Scott Caan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Caan.png)
 * [Scott Cohen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Cohen.png)
 * [Scott Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Cooper.png)
 * [Scott Cumberbatch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Cumberbatch.png)
@@ -263,6 +264,7 @@
 * [Sean Quan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Quan.png)
 * [Sean Riley Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Riley%20Smith.png)
 * [Sean Ryan Fox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Ryan%20Fox.png)
+* [Sean Teale](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Teale.png)
 * [Sean Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sean%20Young.png)
 * [Seann William Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Seann%20William%20Scott.png)
 * [Sebastian Maniscalco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sebastian%20Maniscalco.png)

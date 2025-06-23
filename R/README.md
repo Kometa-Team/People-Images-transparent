@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (697 Images)
+# Kometa People Images - Transparent (transparent) - R (699 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -292,6 +292,7 @@
 * [Rick Avery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Avery.png)
 * [Rick Ducommun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Ducommun.png)
 * [Rick Famuyiwa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Famuyiwa.png)
+* [Rick Garman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Garman.png)
 * [Rick Gomez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Gomez.png)
 * [Rick Gonzalez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Gonzalez.png)
 * [Rick Jaffa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rick%20Jaffa.png)
@@ -411,6 +412,7 @@
 * [Robert Helpmann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Helpmann.png)
 * [Robert Hy Gorman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Hy%20Gorman.png)
 * [Robert Iler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Iler.png)
+* [Robert Joe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Joe.png)
 * [Robert John Burke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20John%20Burke.png)
 * [Robert Joy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Joy.png)
 * [Robert Katims](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Katims.png)

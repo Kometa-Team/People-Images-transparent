@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (538 Images)
+# Kometa People Images - Transparent (transparent) - T (539 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -144,6 +144,7 @@
 * [Terry Gilliam](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20Gilliam.png)
 * [Terry Ingram](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20Ingram.png)
 * [Terry Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20Jones.png)
+* [Terry McGurrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20McGurrin.png)
 * [Terry Notary](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20Notary.png)
 * [Terry O'Quinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20O%27Quinn.png)
 * [Terry Rossio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Terry%20Rossio.png)

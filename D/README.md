@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (707 Images)
+# Kometa People Images - Transparent (transparent) - D (708 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -249,6 +249,7 @@
 * [David Anders](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anders.png)
 * [David Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anderson.png)
 * [David Andrews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Andrews.png)
+* [David Anselmo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anselmo.png)
 * [David Anthony Buglione](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anthony%20Buglione.png)
 * [David Arquette](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Arquette.png)
 * [David Attenborough](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Attenborough.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (553 Images)
+# Kometa People Images - Transparent (transparent) - B (555 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -28,6 +28,7 @@
 * [Barbara De Fina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20De%20Fina.png)
 * [Barbara Eve Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Eve%20Harris.png)
 * [Barbara Hershey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Hershey.png)
+* [Barbara Kymlicka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Kymlicka.png)
 * [Barbara Luddy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Luddy.png)
 * [Barbara Magnolfi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Magnolfi.png)
 * [Barbara Niven](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Niven.png)
@@ -407,6 +408,7 @@
 * [Brett Rice](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brett%20Rice.png)
 * [Brett Tucker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brett%20Tucker.png)
 * [Brian Austin Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Austin%20Green.png)
+* [Brian Brough](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Brough.png)
 * [Brian Cox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Cox.png)
 * [Brian De Palma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20De%20Palma.png)
 * [Brian Delate](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Delate.png)

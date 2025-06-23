@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (705 Images)
+# Kometa People Images - Transparent (transparent) - C (707 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -398,6 +398,7 @@
 * [Chris Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Williams.png)
 * [Chris Wood](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Wood.png)
 * [Chris van Allsburg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20van%20Allsburg.png)
+* [Christi Wolf](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christi%20Wolf.png)
 * [Christian Alvart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christian%20Alvart.png)
 * [Christian Bale](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christian%20Bale.png)
 * [Christian Clavier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christian%20Clavier.png)
@@ -416,6 +417,7 @@
 * [Christiane Seidel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christiane%20Seidel.png)
 * [Christie Laing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christie%20Laing.png)
 * [Christie Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christie%20Smith.png)
+* [Christie Will Wolf](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christie%20Will%20Wolf.png)
 * [Christie Will](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christie%20Will.png)
 * [Christina Aguilera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Aguilera.png)
 * [Christina Alexandra Voros](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christina%20Alexandra%20Voros.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (897 Images)
+# Kometa People Images - Transparent (transparent) - A (899 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -676,6 +676,7 @@
 * [Annouck Hautbois](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annouck%20Hautbois.png)
 * [Anouk Aimée](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anouk%20Aim%C3%A9e.png)
 * [Anouk Christiansen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anouk%20Christiansen.png)
+* [Ansley Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ansley%20Gordon.png)
 * [Anson Mount](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anson%20Mount.png)
 * [Anthony Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anthony%20Anderson.png)
 * [Anthony Andrews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anthony%20Andrews.png)
@@ -824,6 +825,7 @@
 * [Ashley Judd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Judd.png)
 * [Ashley Madekwe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Madekwe.png)
 * [Ashley McGuire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20McGuire.png)
+* [Ashley Newbrough](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Newbrough.png)
 * [Ashley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Thomas.png)
 * [Ashley Walters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Walters.png)
 * [Ashley Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Williams.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (192 Images)
+# Kometa People Images - Transparent (transparent) - W (193 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -103,6 +103,7 @@
 * [Willard Huyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willard%20Huyck.png)
 * [Willeke van Ammelrooy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willeke%20van%20Ammelrooy.png)
 * [Willem Dafoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willem%20Dafoe.png)
+* [Willi Ninja](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willi%20Ninja.png)
 * [William 'Billy' Costello](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20%27Billy%27%20Costello.png)
 * [William A. Seiter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20A.%20Seiter.png)
 * [William A. Wellman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20A.%20Wellman.png)

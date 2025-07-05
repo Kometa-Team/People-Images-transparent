@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (699 Images)
+# Kometa People Images - Transparent (transparent) - R (700 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -25,6 +25,7 @@
 * [Rachel McAdams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20McAdams.png)
 * [Rachel Nichols](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Nichols.png)
 * [Rachel Rye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Rye.png)
+* [Rachel Sennott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Sennott.png)
 * [Rachel Skarsten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Skarsten.png)
 * [Rachel Weisz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Weisz.png)
 * [Rachelle Wood](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachelle%20Wood.png)

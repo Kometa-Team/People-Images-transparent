@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (787 Images)
+# Kometa People Images - Transparent (transparent) - S (788 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -502,6 +502,7 @@
 * [Sofia Coppola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Coppola.png)
 * [Sofia Hublitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Hublitz.png)
 * [Sofia Lesaffre](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Lesaffre.png)
+* [Sofia Pernas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Pernas.png)
 * [Sofia Wylie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Wylie.png)
 * [Sofía Espinosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sof%C3%ADa%20Espinosa.png)
 * [Sofía Vergara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sof%C3%ADa%20Vergara.png)

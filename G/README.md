@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (378 Images)
+# Kometa People Images - Transparent (transparent) - G (379 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -299,6 +299,7 @@
 * [Graham Greene](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20Greene.png)
 * [Graham King](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20King.png)
 * [Graham McTavish](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20McTavish.png)
+* [Graham Norton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20Norton.png)
 * [Graham Phillips](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20Phillips.png)
 * [Graham Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20Turner.png)
 * [Graham Walters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Graham%20Walters.png)

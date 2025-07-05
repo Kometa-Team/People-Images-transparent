@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (707 Images)
+# Kometa People Images - Transparent (transparent) - C (708 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -363,6 +363,7 @@
 * [Chris Messina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Messina.png)
 * [Chris Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Miller.png)
 * [Chris Morgan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Morgan.png)
+* [Chris Morris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Morris.png)
 * [Chris Mulkey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Mulkey.png)
 * [Chris Noth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Noth.png)
 * [Chris O'Donnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20O%27Donnell.png)

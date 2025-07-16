@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1361 Images)
+# Kometa People Images - Transparent (transparent) - J (1363 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -159,6 +159,7 @@
 * [James Cromwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Cromwell.png)
 * [James D'Arcy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20D%27Arcy.png)
 * [James Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Davis.png)
+* [James DeMonaco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20DeMonaco.png)
 * [James Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Dean.png)
 * [James Doohan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Doohan.png)
 * [James Earl Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Earl%20Jones.png)
@@ -223,6 +224,7 @@
 * [James Whale](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Whale.png)
 * [James Woods](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Woods.png)
 * [Jameson Kraemer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jameson%20Kraemer.png)
+* [Jamey Noel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jamey%20Noel.png)
 * [Jamie Anne Allman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jamie%20Anne%20Allman.png)
 * [Jamie Bamber](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jamie%20Bamber.png)
 * [Jamie Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jamie%20Bell.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (708 Images)
+# Kometa People Images - Transparent (transparent) - D (709 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -558,6 +558,7 @@
 * [Dinesh D'Souza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dinesh%20D%27Souza.png)
 * [Dino Risi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dino%20Risi.png)
 * [Diogo Morgado](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diogo%20Morgado.png)
+* [Dion Graham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dion%20Graham.png)
 * [Diora Baird](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diora%20Baird.png)
 * [Dirk Benedict](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dirk%20Benedict.png)
 * [Dirk Blocker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dirk%20Blocker.png)

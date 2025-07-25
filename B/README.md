@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (556 Images)
+# Kometa People Images - Transparent (transparent) - B (558 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -319,6 +319,7 @@
 * [Bolaji Badejo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bolaji%20Badejo.png)
 * [Boluwatife Treasure Bankole](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boluwatife%20Treasure%20Bankole.png)
 * [Boman Irani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boman%20Irani.png)
+* [Bong Joon Ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bong%20Joon%20Ho.png)
 * [Bong Joon-ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bong%20Joon-ho.png)
 * [Bonnie Aarons](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Aarons.png)
 * [Bonnie Arnold](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Arnold.png)
@@ -497,6 +498,7 @@
 * [Brooke Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Shields.png)
 * [Brooke Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Smith.png)
 * [Brooke Tansley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooke%20Tansley.png)
+* [Brooklynn Proulx](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brooklynn%20Proulx.png)
 * [Bruce A. Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20A.%20Young.png)
 * [Bruce Altman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Altman.png)
 * [Bruce Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Anderson.png)

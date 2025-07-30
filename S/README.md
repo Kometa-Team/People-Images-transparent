@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (788 Images)
+# Kometa People Images - Transparent (transparent) - S (789 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -712,6 +712,7 @@
 * [Stewart Francis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stewart%20Francis.png)
 * [Stewart Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stewart%20Lee.png)
 * [Stewart Scudamore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stewart%20Scudamore.png)
+* [Sticky Fingaz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sticky%20Fingaz.png)
 * [Sting](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sting.png)
 * [Stockard Channing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stockard%20Channing.png)
 * [Storm Reid](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Storm%20Reid.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (489 Images)
+# Kometa People Images - Transparent (transparent) - L (490 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -176,6 +176,7 @@
 * [Leire Marín](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leire%20Mar%C3%ADn.png)
 * [Leland Palmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leland%20Palmer.png)
 * [Len Wein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Len%20Wein.png)
+* [Len Wiseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Len%20Wiseman.png)
 * [Lena Endre](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lena%20Endre.png)
 * [Lena Headey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lena%20Headey.png)
 * [Lena Olin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lena%20Olin.png)

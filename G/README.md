@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (382 Images)
+# Kometa People Images - Transparent (transparent) - G (383 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -137,6 +137,7 @@
 * [George Kennedy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Kennedy.png)
 * [George Lopez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Lopez.png)
 * [George Lucas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Lucas.png)
+* [George López](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20L%C3%B3pez.png)
 * [George MacKay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20MacKay.png)
 * [George Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Martin.png)
 * [George McFarland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20McFarland.png)

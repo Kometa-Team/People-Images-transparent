@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (709 Images)
+# Kometa People Images - Transparent (transparent) - D (711 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -233,6 +233,7 @@
 * [Dave Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Hughes.png)
 * [Dave Legeno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Legeno.png)
 * [Dave MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20MacDonald.png)
+* [Dave Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Matthews.png)
 * [Dave Polsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Polsky.png)
 * [Dave Simon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Simon.png)
 * [Dave Spikey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dave%20Spikey.png)
@@ -248,6 +249,7 @@
 * [David Alan Grier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Alan%20Grier.png)
 * [David Anders](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anders.png)
 * [David Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anderson.png)
+* [David Andrew MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Andrew%20MacDonald.png)
 * [David Andrews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Andrews.png)
 * [David Anselmo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anselmo.png)
 * [David Anthony Buglione](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Anthony%20Buglione.png)

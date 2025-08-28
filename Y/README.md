@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (98 Images)
+# Kometa People Images - Transparent (transparent) - Y (99 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
@@ -64,6 +64,7 @@
 * [Yui Ishikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Ishikawa.png)
 * [Yui Ogura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Ogura.png)
 * [Yuichi Nakamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuichi%20Nakamura.png)
+* [Yuji Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuji%20Kobayashi.png)
 * [Yuji Okumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuji%20Okumoto.png)
 * [Yuji Ueda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuji%20Ueda.png)
 * [Yuka Iguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuka%20Iguchi.png)

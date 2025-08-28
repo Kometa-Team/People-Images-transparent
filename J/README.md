@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1368 Images)
+# Kometa People Images - Transparent (transparent) - J (1370 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -175,6 +175,7 @@
 * [James Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Gray.png)
 * [James Gunn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Gunn.png)
 * [James Hayter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Hayter.png)
+* [James Hetfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Hetfield.png)
 * [James Hong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Hong.png)
 * [James Horner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Horner.png)
 * [James Ivory](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Ivory.png)
@@ -1030,6 +1031,7 @@
 * [Jon Bass](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Bass.png)
 * [Jon Berg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Berg.png)
 * [Jon Bernthal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Bernthal.png)
+* [Jon Buckland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Buckland.png)
 * [Jon Cor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Cor.png)
 * [Jon Cryer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Cryer.png)
 * [Jon Curry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jon%20Curry.png)

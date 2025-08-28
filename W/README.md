@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (193 Images)
+# Kometa People Images - Transparent (transparent) - W (195 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -78,6 +78,7 @@
 * [Will Arnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Arnett.png)
 * [Will Austin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Austin.png)
 * [Will Beall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Beall.png)
+* [Will Champion](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Champion.png)
 * [Will Ferrell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Ferrell.png)
 * [Will Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Fletcher.png)
 * [Will Forte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Will%20Forte.png)
@@ -118,6 +119,7 @@
 * [William Burgess](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Burgess.png)
 * [William Castle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Castle.png)
 * [William Catlett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Catlett.png)
+* [William Cliff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Cliff.png)
 * [William Devane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Devane.png)
 * [William Fichtner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Fichtner.png)
 * [William Forsythe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Forsythe.png)

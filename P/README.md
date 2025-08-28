@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (431 Images)
+# Kometa People Images - Transparent (transparent) - P (434 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -334,6 +334,8 @@
 * [Pharrell Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pharrell%20Williams.png)
 * [Phellipe Haagensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phellipe%20Haagensen.png)
 * [Phil Churchward](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Churchward.png)
+* [Phil Collins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Collins.png)
+* [Phil Collinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Collinson.png)
 * [Phil Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Daniels.png)
 * [Phil Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Davis.png)
 * [Phil Dunster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Dunster.png)
@@ -348,6 +350,7 @@
 * [Phil Proctor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Proctor.png)
 * [Phil Reeves](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Reeves.png)
 * [Phil Roman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Roman.png)
+* [Phil Rudd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Rudd.png)
 * [Phil Vischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Vischer.png)
 * [Phil Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phil%20Wang.png)
 * [Philip Baker Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Philip%20Baker%20Hall.png)

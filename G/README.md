@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (383 Images)
+# Kometa People Images - Transparent (transparent) - G (384 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -365,6 +365,7 @@
 * [Gurdeep Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gurdeep%20Singh.png)
 * [Gus Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gus%20Lewis.png)
 * [Gus Van Sant](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gus%20Van%20Sant.png)
+* [Guy Berryman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Guy%20Berryman.png)
 * [Guy Boyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Guy%20Boyd.png)
 * [Guy Fieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Guy%20Fieri.png)
 * [Guy Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Guy%20Hamilton.png)

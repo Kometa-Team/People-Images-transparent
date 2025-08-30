@@ -59,7 +59,7 @@
 * [Adam Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Campbell.png)
 * [Adam Colborne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Colborne.png)
 * [Adam Curtis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Curtis.png)
-* [Adam DeVine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20DeVine.png)
+* [Adam Devine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Devine.png)
 * [Adam Driver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Driver.png)
 * [Adam Dubin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Dubin.png)
 * [Adam Fergus](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Adam%20Fergus.png)

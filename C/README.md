@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (711 Images)
+# Kometa People Images - Transparent (transparent) - C (712 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -342,8 +342,8 @@
 * [Chris Columbus](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Columbus.png)
 * [Chris Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Cooper.png)
 * [Chris D'Elia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20D%27Elia.png)
-* [Chris DiStefano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20DiStefano.png)
 * [Chris Diamantopoulos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Diamantopoulos.png)
+* [Chris Distefano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Distefano.png)
 * [Chris Doumitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Doumitt.png)
 * [Chris Elliott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Elliott.png)
 * [Chris Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Evans.png)
@@ -358,6 +358,7 @@
 * [Chris Klein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Klein.png)
 * [Chris L. McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20L.%20McKenna.png)
 * [Chris Lilley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Lilley.png)
+* [Chris Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Martin.png)
 * [Chris McKay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20McKay.png)
 * [Chris McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20McKenna.png)
 * [Chris Meledandri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Meledandri.png)

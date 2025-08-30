@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (538 Images)
+# Kometa People Images - Transparent (transparent) - K (537 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -232,7 +232,6 @@
 * [Kelson Henderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kelson%20Henderson.png)
 * [Kemp Powers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kemp%20Powers.png)
 * [Ken Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Anderson.png)
-* [Ken Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Burns.jpg)
 * [Ken Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Burns.png)
 * [Ken Cunningham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Cunningham.png)
 * [Ken Daurio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Daurio.png)

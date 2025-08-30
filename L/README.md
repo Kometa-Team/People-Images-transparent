@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (491 Images)
+# Kometa People Images - Transparent (transparent) - L (492 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -231,6 +231,7 @@
 * [Lester Speight](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lester%20Speight.png)
 * [Letitia Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Letitia%20Wright.png)
 * [Levente Molnár](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Levente%20Moln%C3%A1r.png)
+* [Lew Ayres](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lew%20Ayres.png)
 * [Lewin Lloyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lewin%20Lloyd.png)
 * [Lewis Black](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lewis%20Black.png)
 * [Lewis D. Wheeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lewis%20D.%20Wheeler.png)
@@ -355,8 +356,8 @@
 * [Lorene Scafaria](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lorene%20Scafaria.png)
 * [Lorenzo Bianchini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lorenzo%20Bianchini.png)
 * [Lorenzo Caccialanza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lorenzo%20Caccialanza.png)
-* [Lorenzo Di Bonaventura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lorenzo%20Di%20Bonaventura.png)
 * [Lorenzo Music](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lorenzo%20Music.png)
+* [Lorenzo di Bonaventura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lorenzo%20di%20Bonaventura.png)
 * [Loretta Devine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Loretta%20Devine.png)
 * [Lori Alan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lori%20Alan.png)
 * [Lori Forte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lori%20Forte.png)

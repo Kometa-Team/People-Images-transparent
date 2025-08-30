@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (395 Images)
+# Kometa People Images - Transparent (transparent) - E (396 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -66,6 +66,7 @@
 * [Edward Coxen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20Coxen.png)
 * [Edward D. Wood Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20D.%20Wood%20Jr..png)
 * [Edward Drake](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20Drake.png)
+* [Edward F. Cline](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20F.%20Cline.png)
 * [Edward Fox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20Fox.png)
 * [Edward Furlong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20Furlong.png)
 * [Edward G. Robinson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Edward%20G.%20Robinson%20Jr..png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1043 Images)
+# Kometa People Images - Transparent (transparent) - M (1044 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -344,6 +344,7 @@
 * [Martin McDougall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20McDougall.png)
 * [Martin Mull](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20Mull.png)
 * [Martin Razpopov](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20Razpopov.png)
+* [Martin Ritt](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20Ritt.png)
 * [Martin Roach](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20Roach.png)
 * [Martin Scorsese](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20Scorsese.png)
 * [Martin Shaw](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martin%20Shaw.png)

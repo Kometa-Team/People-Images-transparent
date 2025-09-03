@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (789 Images)
+# Kometa People Images - Transparent (transparent) - S (790 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -487,6 +487,7 @@
 * [Siobhan Williams](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Siobhan%20Williams.png)
 * [Siobhán McSweeney](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Siobh%C3%A1n%20McSweeney.png)
 * [Sion Sono](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sion%20Sono.png)
+* [Sisa Grey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sisa%20Grey.png)
 * [Sissela Kyle](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sissela%20Kyle.png)
 * [Sissy Spacek](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sissy%20Spacek.png)
 * [Skeet Ulrich](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Skeet%20Ulrich.png)

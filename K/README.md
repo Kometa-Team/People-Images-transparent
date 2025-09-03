@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (538 Images)
+# Kometa People Images - Transparent (transparent) - K (539 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -7,6 +7,7 @@
 * [Kadan Rockett](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kadan%20Rockett.png)
 * [Kaede Hondo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kaede%20Hondo.png)
 * [Kaitlin Doubleday](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kaitlin%20Doubleday.png)
+* [Kaitlin Olson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kaitlin%20Olson.png)
 * [Kaitlyn Dever](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kaitlyn%20Dever.png)
 * [Kaitlyn Dias](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kaitlyn%20Dias.png)
 * [Kaitlyn Maher](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kaitlyn%20Maher.png)

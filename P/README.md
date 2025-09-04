@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (434 Images)
+# Kometa People Images - Transparent (transparent) - P (436 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -94,6 +94,7 @@
 * [Patrick Huard](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Huard.png)
 * [Patrick Hughes](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Hughes.png)
 * [Patrick Kennedy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Kennedy.png)
+* [Patrick Knapp Schwarzenegger](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Knapp%20Schwarzenegger.png)
 * [Patrick Leahy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Leahy.png)
 * [Patrick Macnee](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Macnee.png)
 * [Patrick Magee](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Magee.png)
@@ -104,6 +105,7 @@
 * [Patrick Mille](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Mille.png)
 * [Patrick Muldoon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Muldoon.png)
 * [Patrick Pinney](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Pinney.png)
+* [Patrick Schwarzenegger](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Schwarzenegger.png)
 * [Patrick Stewart](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Stewart.png)
 * [Patrick Swayze](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Swayze.png)
 * [Patrick Troughton](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/P/Images/Patrick%20Troughton.png)

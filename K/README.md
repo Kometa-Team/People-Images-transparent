@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (539 Images)
+# Kometa People Images - Transparent (transparent) - K (540 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -42,6 +42,7 @@
 * [Karan Soni](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karan%20Soni.png)
 * [Kareem Abdul-Jabbar](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kareem%20Abdul-Jabbar.png)
 * [Kareena Kapoor Khan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kareena%20Kapoor%20Khan.png)
+* [Karen Aldridge](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Aldridge.png)
 * [Karen Allen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Allen.png)
 * [Karen Black](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Black.png)
 * [Karen Fukuhara](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Fukuhara.png)

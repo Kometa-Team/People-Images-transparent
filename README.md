@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (11126 Images)
+# Kometa People Images - Transparent (transparent) (11127 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -5698,7 +5698,7 @@
 * [Jürgen Vogel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%C3%BCrgen%20Vogel.png)
 * [Jūzō Itami](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%C5%ABz%C5%8D%20Itami.png)
 </details>
-<details><summary><a href="K">K (539 Images)</a></summary>
+<details><summary><a href="K">K (540 Images)</a></summary>
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K.J. Apa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/K.J.%20Apa.png)
@@ -5741,6 +5741,7 @@
 * [Karan Soni](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karan%20Soni.png)
 * [Kareem Abdul-Jabbar](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kareem%20Abdul-Jabbar.png)
 * [Kareena Kapoor Khan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kareena%20Kapoor%20Khan.png)
+* [Karen Aldridge](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Aldridge.png)
 * [Karen Allen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Allen.png)
 * [Karen Black](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Black.png)
 * [Karen Fukuhara](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karen%20Fukuhara.png)

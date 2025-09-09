@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (541 Images)
+# Kometa People Images - Transparent (transparent) - T (542 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -436,6 +436,7 @@
 * [Tony Huston](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Huston.png)
 * [Tony Kaye](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Kaye.png)
 * [Tony Leung Chiu-wai](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Leung%20Chiu-wai.png)
+* [Tony Manna](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Manna.png)
 * [Tony Maylam](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Maylam.png)
 * [Tony McNamara](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20McNamara.png)
 * [Tony Pitts](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Pitts.png)

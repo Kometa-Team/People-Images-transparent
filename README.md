@@ -1,10 +1,10 @@
-# Kometa People Images - Transparent (transparent) (11127 Images)
+# Kometa People Images - Transparent (transparent) (11129 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/'/Images/%27Weird%20Al%27%20Yankovic.png)
 </details>
-<details><summary><a href="A">A (904 Images)</a></summary>
+<details><summary><a href="A">A (905 Images)</a></summary>
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -705,6 +705,7 @@
 * [Anthony LaPaglia](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20LaPaglia.png)
 * [Anthony Mackie](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Mackie.png)
 * [Anthony Mangano](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Mangano.png)
+* [Anthony Mann](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Mann.png)
 * [Anthony Michael Hall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Michael%20Hall.png)
 * [Anthony Molinari](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Molinari.png)
 * [Anthony Morris](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Morris.png)
@@ -10135,7 +10136,7 @@
 * [Søren Pilmark](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S%C3%B8ren%20Pilmark.png)
 * [Sō Yamanaka](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S%C5%8D%20Yamanaka.png)
 </details>
-<details><summary><a href="T">T (541 Images)</a></summary>
+<details><summary><a href="T">T (542 Images)</a></summary>
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
 * [T. Love](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20Love.png)
@@ -10572,6 +10573,7 @@
 * [Tony Huston](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Huston.png)
 * [Tony Kaye](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Kaye.png)
 * [Tony Leung Chiu-wai](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Leung%20Chiu-wai.png)
+* [Tony Manna](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Manna.png)
 * [Tony Maylam](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Maylam.png)
 * [Tony McNamara](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20McNamara.png)
 * [Tony Pitts](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tony%20Pitts.png)

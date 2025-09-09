@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (904 Images)
+# Kometa People Images - Transparent (transparent) - A (905 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -700,6 +700,7 @@
 * [Anthony LaPaglia](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20LaPaglia.png)
 * [Anthony Mackie](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Mackie.png)
 * [Anthony Mangano](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Mangano.png)
+* [Anthony Mann](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Mann.png)
 * [Anthony Michael Hall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Michael%20Hall.png)
 * [Anthony Molinari](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Molinari.png)
 * [Anthony Morris](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Anthony%20Morris.png)

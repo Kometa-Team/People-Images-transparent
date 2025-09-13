@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (542 Images)
+# Kometa People Images - Transparent (transparent) - T (544 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -25,6 +25,7 @@
 * [Takeshi Kitano](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Takeshi%20Kitano.png)
 * [Takeshi Kusao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Takeshi%20Kusao.png)
 * [Taku Yashiro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taku%20Yashiro.png)
+* [Takuya Eguchi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Takuya%20Eguchi.png)
 * [Talia Shire](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Talia%20Shire.png)
 * [Talisa Soto](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Talisa%20Soto.png)
 * [Taliyah Blair](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taliyah%20Blair.png)
@@ -410,6 +411,7 @@
 * [Tomoko Kawakami](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tomoko%20Kawakami.png)
 * [Tomomi Mochizuki](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tomomi%20Mochizuki.png)
 * [Tomonori Sudo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tomonori%20Sudo.png)
+* [Tomoyo Kurosawa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tomoyo%20Kurosawa.png)
 * [Tomoyuki Tanaka](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tomoyuki%20Tanaka.png)
 * [Tone Bell](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tone%20Bell.png)
 * [Toni Bryce](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Toni%20Bryce.png)

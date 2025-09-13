@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (905 Images)
+# Kometa People Images - Transparent (transparent) - A (907 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -138,6 +138,7 @@
 * [Ahn Jae-hong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Ahn%20Jae-hong.png)
 * [Ahn So-hee](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Ahn%20So-hee.png)
 * [Ahna O'Reilly](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Ahna%20O%27Reilly.png)
+* [Ai Kakuma](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Ai%20Kakuma.png)
 * [Ai Kayano](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Ai%20Kayano.png)
 * [Aida Turturro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Aida%20Turturro.png)
 * [Aidan Bertola](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Aidan%20Bertola.png)
@@ -906,3 +907,4 @@
 * [Azari Akbar](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Azari%20Akbar.png)
 * [Azhar Usman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Azhar%20Usman.png)
 * [Aziz Ansari](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Aziz%20Ansari.png)
+* [Azumi Waki](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Azumi%20Waki.png)

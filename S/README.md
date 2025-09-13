@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (790 Images)
+# Kometa People Images - Transparent (transparent) - S (791 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -175,6 +175,7 @@
 * [Sasha Roiz](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sasha%20Roiz.png)
 * [Sasheer Zamata](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sasheer%20Zamata.png)
 * [Satomi Hanamura](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Satomi%20Hanamura.png)
+* [Satomi Sato](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Satomi%20Sato.png)
 * [Satoshi Hino](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Satoshi%20Hino.png)
 * [Satoshi Kon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Satoshi%20Kon.png)
 * [Satoshi Tajiri](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Satoshi%20Tajiri.png)

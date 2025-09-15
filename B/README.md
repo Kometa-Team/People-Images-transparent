@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (561 Images)
+# Kometa People Images - Transparent (transparent) - B (562 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -504,6 +504,7 @@
 * [Bruce A. Young](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20A.%20Young.png)
 * [Bruce Altman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20Altman.png)
 * [Bruce Anderson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20Anderson.png)
+* [Bruce Balden](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20Balden.png)
 * [Bruce Bundy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20Bundy.png)
 * [Bruce Cabot](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20Cabot.png)
 * [Bruce Campbell](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bruce%20Campbell.png)

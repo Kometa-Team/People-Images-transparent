@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (11152 Images)
+# Kometa People Images - Transparent (transparent) (11153 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -4327,7 +4327,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/I/Images/Izaac%20Wang.png)
 * [Izabella Scorupco](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/I/Images/Izabella%20Scorupco.png)
 </details>
-<details><summary><a href="J">J (1378 Images)</a></summary>
+<details><summary><a href="J">J (1379 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -4638,6 +4638,7 @@
 * [Jason Bateman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Bateman.png)
 * [Jason Biggs](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Biggs.png)
 * [Jason Blum](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Blum.png)
+* [Jason Blumenthal](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Blumenthal.png)
 * [Jason Byrne](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Byrne.png)
 * [Jason Clarke](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Clarke.png)
 * [Jason Connery](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Connery.png)

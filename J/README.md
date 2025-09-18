@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1378 Images)
+# Kometa People Images - Transparent (transparent) - J (1379 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -310,6 +310,7 @@
 * [Jason Bateman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Bateman.png)
 * [Jason Biggs](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Biggs.png)
 * [Jason Blum](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Blum.png)
+* [Jason Blumenthal](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Blumenthal.png)
 * [Jason Byrne](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Byrne.png)
 * [Jason Clarke](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Clarke.png)
 * [Jason Connery](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jason%20Connery.png)

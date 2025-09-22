@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (540 Images)
+# Kometa People Images - Transparent (transparent) - K (541 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -66,6 +66,7 @@
 * [Karl Glusman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Glusman.png)
 * [Karl Johnson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Johnson.png)
 * [Karl Makinen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Makinen.png)
+* [Karl Stegger](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Stegger.png)
 * [Karl Urban](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Urban.png)
 * [Karl Werleman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Werleman.png)
 * [Karl Yune](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Karl%20Yune.png)

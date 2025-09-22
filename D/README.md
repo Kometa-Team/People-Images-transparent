@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (713 Images)
+# Kometa People Images - Transparent (transparent) - D (714 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -20,6 +20,7 @@
 * [Daisuke Namikawa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisuke%20Namikawa.png)
 * [Daisuke Nishio](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisuke%20Nishio.png)
 * [Daisuke Ono](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisuke%20Ono.png)
+* [Daisy Beaumont](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisy%20Beaumont.png)
 * [Daisy Earles](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisy%20Earles.png)
 * [Daisy Haggard](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisy%20Haggard.png)
 * [Daisy May Cooper](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daisy%20May%20Cooper.png)

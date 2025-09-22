@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (908 Images)
+# Kometa People Images - Transparent (transparent) - A (910 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -82,6 +82,7 @@
 * [Adam Sandler](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adam%20Sandler.png)
 * [Adam Scott](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adam%20Scott.png)
 * [Adam Shankman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adam%20Shankman.png)
+* [Adam Tandy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adam%20Tandy.png)
 * [Adam West](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adam%20West.png)
 * [Adam Wingard](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adam%20Wingard.png)
 * [Adassa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adassa.png)
@@ -104,6 +105,7 @@
 * [Adria Arjona](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adria%20Arjona.png)
 * [Adria Escudero](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adria%20Escudero.png)
 * [Adrian Alonso](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adrian%20Alonso.png)
+* [Adrian Bower](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adrian%20Bower.png)
 * [Adrian Edmondson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adrian%20Edmondson.png)
 * [Adrian Enscoe](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adrian%20Enscoe.png)
 * [Adrian Grünewald](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Adrian%20Gr%C3%BCnewald.png)

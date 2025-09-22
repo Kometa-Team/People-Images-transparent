@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (545 Images)
+# Kometa People Images - Transparent (transparent) - T (546 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -166,6 +166,7 @@
 * [Thea Gill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thea%20Gill.png)
 * [Thea White](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thea%20White.png)
 * [Theo Angelopoulos](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theo%20Angelopoulos.png)
+* [Theo Barklem-Biggs](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theo%20Barklem-Biggs.png)
 * [Theo James](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theo%20James.png)
 * [Theo Rossi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theo%20Rossi.png)
 * [Theo Von](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theo%20Von.png)

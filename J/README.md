@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1379 Images)
+# Kometa People Images - Transparent (transparent) - J (1380 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -1289,6 +1289,7 @@
 * [Julian Hilliard](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julian%20Hilliard.png)
 * [Julian McMahon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julian%20McMahon.png)
 * [Julian Morris](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julian%20Morris.png)
+* [Julian Rhind-Tutt](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julian%20Rhind-Tutt.png)
 * [Julian Richings](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julian%20Richings.png)
 * [Julian Sands](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julian%20Sands.png)
 * [Juliana Harkavy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juliana%20Harkavy.png)

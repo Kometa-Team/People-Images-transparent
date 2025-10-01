@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1047 Images)
+# Kometa People Images - Transparent (transparent) - M (1048 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -915,6 +915,7 @@
 * [Mikhail Gorevoy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mikhail%20Gorevoy.png)
 * [Miki Esparbé](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Miki%20Esparb%C3%A9.png)
 * [Miki Manojlović](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Miki%20Manojlovi%C4%87.png)
+* [Mikio Naruse](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mikio%20Naruse.png)
 * [Mikkel Boe Følsgaard](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mikkel%20Boe%20F%C3%B8lsgaard.png)
 * [Mila Kunis](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mila%20Kunis.png)
 * [Milena Vukotić](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Milena%20Vukoti%C4%87.png)

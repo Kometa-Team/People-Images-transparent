@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (195 Images)
+# Kometa People Images - Transparent (transparent) - W (196 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -8,6 +8,7 @@
 * [Wade Williams](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wade%20Williams.png)
 * [Wagner Moura](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wagner%20Moura.png)
 * [Wai Ching Ho](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wai%20Ching%20Ho.png)
+* [Wakana Yamazaki](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wakana%20Yamazaki.png)
 * [Wale Ojo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wale%20Ojo.png)
 * [Wallace Shawn](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wallace%20Shawn.png)
 * [Wallace Wolodarsky](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wallace%20Wolodarsky.png)

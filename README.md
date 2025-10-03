@@ -7607,6 +7607,7 @@
 * [Michiko Nishiwaki](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michiko%20Nishiwaki.png)
 * [Michiyo Yanagisawa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michiyo%20Yanagisawa.png)
 * [Mick Ebeling](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mick%20Ebeling.png)
+* [Mick Jagger](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mick%20Jagger.png)
 * [Mick Szal](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mick%20Szal.png)
 * [Mick Wingert](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mick%20Wingert.png)
 * [Mick Øgendahl](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Mick%20%C3%98gendahl.png)

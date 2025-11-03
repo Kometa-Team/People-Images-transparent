@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (705 Images)
+# Kometa People Images - Transparent (transparent) - R (706 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -302,6 +302,7 @@
 * [Rick Lagina](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20Lagina.png)
 * [Rick McCallum](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20McCallum.png)
 * [Rick McCrank](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20McCrank.png)
+* [Rick Morales](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20Morales.png)
 * [Rick Moranis](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20Moranis.png)
 * [Rick Rosenthal](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20Rosenthal.png)
 * [Rick Schroder](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rick%20Schroder.png)

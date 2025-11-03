@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (910 Images)
+# Kometa People Images - Transparent (transparent) - A (911 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -230,6 +230,7 @@
 * [Alba Rohrwacher](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Alba%20Rohrwacher.png)
 * [Albano Jerónimo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Albano%20Jer%C3%B3nimo.png)
 * [Albert Brooks](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Albert%20Brooks.png)
+* [Albert Dekker](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Albert%20Dekker.png)
 * [Albert Finney](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Albert%20Finney.png)
 * [Albert Hughes](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Albert%20Hughes.png)
 * [Albert Misak](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Albert%20Misak.png)

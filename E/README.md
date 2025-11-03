@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (396 Images)
+# Kometa People Images - Transparent (transparent) - E (397 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -350,6 +350,7 @@
 * [Ethan Hawke](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ethan%20Hawke.png)
 * [Ethan Lawrence](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ethan%20Lawrence.png)
 * [Ethan Phillips](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ethan%20Phillips.png)
+* [Ethan Spaulding](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ethan%20Spaulding.png)
 * [Ethan Suplee](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ethan%20Suplee.png)
 * [Ethel Griffies](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ethel%20Griffies.png)
 * [Eugene Cordero](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Eugene%20Cordero.png)

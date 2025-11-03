@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (712 Images)
+# Kometa People Images - Transparent (transparent) - C (713 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -162,6 +162,7 @@
 * [Caveh Zahedi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Caveh%20Zahedi.png)
 * [Cec Linder](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cec%20Linder.png)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecil%20B.%20DeMille.png)
+* [Cecilia Aranovich](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecilia%20Aranovich.png)
 * [Cecily Strong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecily%20Strong.png)
 * [Cedric Sanders](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cedric%20Sanders.png)
 * [Cedric Yarbrough](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cedric%20Yarbrough.png)

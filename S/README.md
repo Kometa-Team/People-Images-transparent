@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (796 Images)
+# Kometa People Images - Transparent (transparent) - S (797 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -556,6 +556,7 @@
 * [Spencer Tracy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spencer%20Tracy.png)
 * [Spencer Treat Clark](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spencer%20Treat%20Clark.png)
 * [Spencer Wilding](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spencer%20Wilding.png)
+* [Spike Brandt](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spike%20Brandt.png)
 * [Spike Jonze](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spike%20Jonze.png)
 * [Spike Lee](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spike%20Lee.png)
 * [Spike Leighton](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Spike%20Leighton.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (11191 Images)
+# Kometa People Images - Transparent (transparent) (11192 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -8683,7 +8683,7 @@
 * [Quinta Brunson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/Q/Images/Quinta%20Brunson.png)
 * [Quinton Jackson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/Q/Images/Quinton%20Jackson.png)
 </details>
-<details><summary><a href="R">R (706 Images)</a></summary>
+<details><summary><a href="R">R (707 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -9065,6 +9065,7 @@
 * [Robbie Rist](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robbie%20Rist.png)
 * [Robbie Sublett](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robbie%20Sublett.png)
 * [Robby Benson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robby%20Benson.png)
+* [Rober De Niro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rober%20De%20Niro.png)
 * [Robert Aldrich](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robert%20Aldrich.png)
 * [Robert Altman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robert%20Altman.png)
 * [Robert Aramayo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robert%20Aramayo.png)

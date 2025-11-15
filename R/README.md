@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (706 Images)
+# Kometa People Images - Transparent (transparent) - R (707 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -381,6 +381,7 @@
 * [Robbie Rist](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robbie%20Rist.png)
 * [Robbie Sublett](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robbie%20Sublett.png)
 * [Robby Benson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robby%20Benson.png)
+* [Rober De Niro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Rober%20De%20Niro.png)
 * [Robert Aldrich](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robert%20Aldrich.png)
 * [Robert Altman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robert%20Altman.png)
 * [Robert Aramayo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Robert%20Aramayo.png)

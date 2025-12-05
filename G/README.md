@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (384 Images)
+# Kometa People Images - Transparent (transparent) - G (385 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/G-Eazy.png)
@@ -375,6 +375,7 @@
 * [Guy Siner](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Guy%20Siner.png)
 * [Guy Torry](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Guy%20Torry.png)
 * [Guymon Casady](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Guymon%20Casady.png)
+* [Guz Khan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Guz%20Khan.png)
 * [Gwen Verdon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Gwen%20Verdon.png)
 * [Gwendoline Christie](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Gwendoline%20Christie.png)
 * [Gwendoline Yeo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/G/Images/Gwendoline%20Yeo.png)

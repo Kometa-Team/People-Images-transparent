@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (713 Images)
+# Kometa People Images - Transparent (transparent) - C (715 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -120,6 +120,7 @@
 * [Casey Kasem](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Casey%20Kasem.png)
 * [Casey Siemaszko](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Casey%20Siemaszko.png)
 * [Caspar Phillipson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Caspar%20Phillipson.png)
+* [Casper Kelly](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Casper%20Kelly.png)
 * [Casper Van Dien](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Casper%20Van%20Dien.png)
 * [Cassandra Gava](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cassandra%20Gava.png)
 * [Cassandra Harris](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cassandra%20Harris.png)
@@ -163,6 +164,7 @@
 * [Cec Linder](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cec%20Linder.png)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecil%20B.%20DeMille.png)
 * [Cecilia Aranovich](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecilia%20Aranovich.png)
+* [Cecilia Cheung](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecilia%20Cheung.png)
 * [Cecily Strong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cecily%20Strong.png)
 * [Cedric Sanders](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cedric%20Sanders.png)
 * [Cedric Yarbrough](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cedric%20Yarbrough.png)

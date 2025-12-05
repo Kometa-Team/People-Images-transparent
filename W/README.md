@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (196 Images)
+# Kometa People Images - Transparent (transparent) - W (197 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -64,6 +64,7 @@
 * [Wes Chatham](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wes%20Chatham.png)
 * [Wes Craven](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wes%20Craven.png)
 * [Wes Jetton](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wes%20Jetton.png)
+* [Wes Lo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wes%20Lo.png)
 * [Wes Studi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wes%20Studi.png)
 * [Wesley Kimmel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wesley%20Kimmel.png)
 * [Wesley Snipes](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/W/Images/Wesley%20Snipes.png)

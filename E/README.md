@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (397 Images)
+# Kometa People Images - Transparent (transparent) - E (398 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -326,6 +326,7 @@
 * [Ernest Cline](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernest%20Cline.png)
 * [Ernest Lehman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernest%20Lehman.png)
 * [Ernest Tidyman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernest%20Tidyman.png)
+* [Ernie Barbarash](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernie%20Barbarash.png)
 * [Ernie Hudson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernie%20Hudson.png)
 * [Ernie Reyes Jr.](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernie%20Reyes%20Jr..png)
 * [Ernst Lubitsch](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/E/Images/Ernst%20Lubitsch.png)

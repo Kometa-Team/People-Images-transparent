@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (11256 Images)
+# Kometa People Images - Transparent (transparent) (11258 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -10825,7 +10825,7 @@
 * [Uwe Boll](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/U/Images/Uwe%20Boll.png)
 * [Uzo Aduba](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/U/Images/Uzo%20Aduba.png)
 </details>
-<details><summary><a href="V">V (127 Images)</a></summary>
+<details><summary><a href="V">V (129 Images)</a></summary>
 
 * [V.J. Foster](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vaibhav%20Sethia.png)
@@ -10903,6 +10903,8 @@
 * [Vin Diesel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vin%20Diesel.png)
 * [Vinani Mwazanzale](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vinani%20Mwazanzale.png)
 * [Vinay Pathak](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vinay%20Pathak.png)
+* [Vince McMahon Sr.](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vince%20McMahon%20Sr..png)
+* [Vince McMahon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vince%20McMahon.png)
 * [Vince Pisani](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vince%20Pisani.png)
 * [Vince Vaughn](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vince%20Vaughn.png)
 * [Vincent Cassel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vincent%20Cassel.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (718 Images)
+# Kometa People Images - Transparent (transparent) - D (720 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -104,6 +104,7 @@
 * [Dania Ramírez](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dania%20Ram%C3%ADrez.png)
 * [Danica Curcic](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Danica%20Curcic.png)
 * [Danica McKellar](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Danica%20McKellar.png)
+* [Danica Ćurčić](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Danica%20%C4%86ur%C4%8Di%C4%87.png)
 * [Daniel Auteuil](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daniel%20Auteuil.png)
 * [Daniel Bernhardt](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daniel%20Bernhardt.png)
 * [Daniel Brühl](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Daniel%20Br%C3%BChl.png)
@@ -488,6 +489,7 @@
 * [Dennis Lehane](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dennis%20Lehane.png)
 * [Dennis Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dennis%20Miller.png)
 * [Dennis Quaid](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dennis%20Quaid.png)
+* [Dennis Storhøi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dennis%20Storh%C3%B8i.png)
 * [Dennis Widmyer](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dennis%20Widmyer.png)
 * [Denny Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Denny%20Miller.png)
 * [Denzel Washington](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Denzel%20Washington.png)

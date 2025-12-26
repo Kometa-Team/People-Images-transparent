@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (918 Images)
+# Kometa People Images - Transparent (transparent) - A (919 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -161,6 +161,7 @@
 * [Akaji Maro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Akaji%20Maro.png)
 * [Akari Kito](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Akari%20Kito.png)
 * [Akarsh Khurana](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Akarsh%20Khurana.png)
+* [Akemi Okamura](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Akemi%20Okamura.png)
 * [Akemnji Ndifornyen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Akemnji%20Ndifornyen.png)
 * [Aki Kaurismäki](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Aki%20Kaurism%C3%A4ki.png)
 * [Aki Takejo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/A/Images/Aki%20Takejo.png)

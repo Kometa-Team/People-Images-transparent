@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (715 Images)
+# Kometa People Images - Transparent (transparent) - C (716 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -569,6 +569,7 @@
 * [Clem So](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Clem%20So.png)
 * [Clemens Schick](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Clemens%20Schick.png)
 * [Cleo Rocos](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cleo%20Rocos.png)
+* [Cliff Cash](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cliff%20Cash.png)
 * [Cliff Curtis](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cliff%20Curtis.png)
 * [Cliff Robertson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cliff%20Robertson.png)
 * [Cliff Williams](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cliff%20Williams.png)

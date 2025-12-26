@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (550 Images)
+# Kometa People Images - Transparent (transparent) - T (552 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -219,6 +219,7 @@
 * [Tiffany Espensen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tiffany%20Espensen.png)
 * [Tiffany Haddish](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tiffany%20Haddish.png)
 * [Tiffany Smith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tiffany%20Smith.png)
+* [Tig Notaro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tig%20Notaro.png)
 * [Tiger Hu Chen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tiger%20Hu%20Chen.png)
 * [Tiger Shroff](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tiger%20Shroff.png)
 * [Tika Sumpter](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tika%20Sumpter.png)
@@ -371,6 +372,7 @@
 * [Tom Papa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Papa.png)
 * [Tom Pevsner](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Pevsner.png)
 * [Tom Poole](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Poole.png)
+* [Tom Rhodes](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Rhodes.png)
 * [Tom Riley](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Riley.png)
 * [Tom Rosenberg](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Rosenberg.png)
 * [Tom Segura](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tom%20Segura.png)

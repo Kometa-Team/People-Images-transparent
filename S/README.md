@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (802 Images)
+# Kometa People Images - Transparent (transparent) - S (803 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -585,6 +585,7 @@
 * [Stanley Wong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Stanley%20Wong.png)
 * [Stany De Silva](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Stany%20De%20Silva.png)
 * [Star Slade](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Star%20Slade.png)
+* [Stavros Halkias](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Stavros%20Halkias.png)
 * [Stef Dawson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Stef%20Dawson.png)
 * [Stefan Arndt](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Stefan%20Arndt.png)
 * [Stefan Kalipha](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Stefan%20Kalipha.png)

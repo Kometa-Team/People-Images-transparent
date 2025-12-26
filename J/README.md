@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1389 Images)
+# Kometa People Images - Transparent (transparent) - J (1390 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -795,6 +795,7 @@
 * [Joe Stillman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joe%20Stillman.png)
 * [Joe Wilkinson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joe%20Wilkinson.png)
 * [Joe Wright](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joe%20Wright.png)
+* [Joe Zimmerman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joe%20Zimmerman.png)
 * [Joe' Michael Chavez](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joe%27%20Michael%20Chavez.png)
 * [Joel Coen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joel%20Coen.png)
 * [Joel Courtney](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joel%20Courtney.png)

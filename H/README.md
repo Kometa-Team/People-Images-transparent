@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (287 Images)
+# Kometa People Images - Transparent (transparent) - H (290 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -40,7 +40,9 @@
 * [Hank Azaria](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hank%20Azaria.png)
 * [Hank Worden](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hank%20Worden.png)
 * [Hanna Hall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hanna%20Hall.png)
+* [Hannah Berner](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hannah%20Berner.png)
 * [Hannah Dodd](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hannah%20Dodd.png)
+* [Hannah Einbinder](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hannah%20Einbinder.png)
 * [Hannah Gordon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hannah%20Gordon.png)
 * [Hannah Gottesman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hannah%20Gottesman.png)
 * [Hannah Gross](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hannah%20Gross.png)
@@ -206,6 +208,7 @@
 * [Hiram Garcia](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hiram%20Garcia.png)
 * [Hiro Kanagawa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hiro%20Kanagawa.png)
 * [Hiro Shimono](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hiro%20Shimono.png)
+* [Hiroaki Hirata](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hiroaki%20Hirata.png)
 * [Hiroaki Iwanaga](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hiroaki%20Iwanaga.png)
 * [Hirokazu Kore-eda](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hirokazu%20Kore-eda.png)
 * [Hiroki Touchi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hiroki%20Touchi.png)

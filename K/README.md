@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (548 Images)
+# Kometa People Images - Transparent (transparent) - K (549 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
@@ -173,6 +173,7 @@
 * [Kayvan Novak](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kayvan%20Novak.png)
 * [Kazeem Tosin Amore](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kazeem%20Tosin%20Amore.png)
 * [Kazuki Kitamura](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kazuki%20Kitamura.png)
+* [Kazuki Yao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kazuki%20Yao.png)
 * [Kazuko Yanaga](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kazuko%20Yanaga.png)
 * [Kazunari Tanaka](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kazunari%20Tanaka.png)
 * [Kazuya Nakai](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/K/Images/Kazuya%20Nakai.png)

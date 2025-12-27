@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1062 Images)
+# Kometa People Images - Transparent (transparent) - M (1064 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -106,6 +106,7 @@
 * [Manny Perry](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manny%20Perry.png)
 * [Manoj Bajpayee](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manoj%20Bajpayee.png)
 * [Manoj Muntashir](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manoj%20Muntashir.png)
+* [Manolo Solo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manolo%20Solo.png)
 * [Manu Bennett](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manu%20Bennett.png)
 * [Manuel Garcia-Rulfo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manuel%20Garcia-Rulfo.png)
 * [Manuel Klein](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Manuel%20Klein.png)
@@ -322,6 +323,7 @@
 * [Marshall Bell](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Marshall%20Bell.png)
 * [Marshall Neilan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Marshall%20Neilan.png)
 * [Marshawn Lynch](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Marshawn%20Lynch.png)
+* [Marta Hazas](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Marta%20Hazas.png)
 * [Marteen](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Marteen.png)
 * [Martha Plimpton](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martha%20Plimpton.png)
 * [Martha Smith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Martha%20Smith.png)

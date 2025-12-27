@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1390 Images)
+# Kometa People Images - Transparent (transparent) - J (1392 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -366,6 +366,7 @@
 * [Javed Jaffrey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Javed%20Jaffrey.png)
 * [Javier Bardem](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Javier%20Bardem.png)
 * [Javier Grajeda](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Javier%20Grajeda.png)
+* [Javier Gutiérrez](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Javier%20Guti%C3%A9rrez.png)
 * [Javier Rey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Javier%20Rey.png)
 * [Javon Walton](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Javon%20Walton.png)
 * [Jay Baruchel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jay%20Baruchel.png)
@@ -1259,6 +1260,7 @@
 * [Juan Carlos Cantu](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Carlos%20Cantu.png)
 * [Juan Carlos Fresnadillo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Carlos%20Fresnadillo.png)
 * [Juan Castano](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Castano.png)
+* [Juan Diego Botto](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Diego%20Botto.png)
 * [Juan Fernández](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Fern%C3%A1ndez.png)
 * [Juan Pablo Raba](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Pablo%20Raba.png)
 * [Juan Pacheco](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Juan%20Pacheco.png)

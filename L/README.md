@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (504 Images)
+# Kometa People Images - Transparent (transparent) - L (505 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -213,6 +213,7 @@
 * [Leonardo Nam](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leonardo%20Nam.png)
 * [Leonie Benesch](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leonie%20Benesch.png)
 * [Leonor Varela](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leonor%20Varela.png)
+* [Leonor Watling](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leonor%20Watling.png)
 * [Leopoldo Trieste](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leopoldo%20Trieste.png)
 * [Leora Dana](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leora%20Dana.png)
 * [Leos Carax](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Leos%20Carax.png)

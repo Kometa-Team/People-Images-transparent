@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (129 Images)
+# Kometa People Images - Transparent (transparent) - V (130 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
@@ -43,6 +43,7 @@
 * [Veronica Cartwright](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Veronica%20Cartwright.png)
 * [Veronica Falcón](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Veronica%20Falc%C3%B3n.png)
 * [Veryl Jones](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Veryl%20Jones.png)
+* [Verónica Echegui](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Ver%C3%B3nica%20Echegui.png)
 * [Vic Armstrong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vic%20Armstrong.png)
 * [Vic Carmen Sonne](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vic%20Carmen%20Sonne.png)
 * [Vic Chao](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/V/Images/Vic%20Chao.png)

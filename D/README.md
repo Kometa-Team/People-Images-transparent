@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (720 Images)
+# Kometa People Images - Transparent (transparent) - D (721 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -238,6 +238,7 @@
 * [Dave Matthews](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Matthews.png)
 * [Dave Polsky](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Polsky.png)
 * [Dave Simon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Simon.png)
+* [Dave Smith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Smith.png)
 * [Dave Spikey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Spikey.png)
 * [Dave Turin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Turin.png)
 * [Dave Willis](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dave%20Willis.png)

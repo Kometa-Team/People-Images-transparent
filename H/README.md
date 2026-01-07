@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (290 Images)
+# Kometa People Images - Transparent (transparent) - H (291 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -153,6 +153,7 @@
 * [Helmut Griem](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Helmut%20Griem.png)
 * [Hema Malini](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Hema%20Malini.png)
 * [Henri Garcin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Henri%20Garcin.png)
+* [Henri Labussière](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Henri%20Labussi%C3%A8re.png)
 * [Henri-Georges Clouzot](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Henri-Georges%20Clouzot.png)
 * [Henrik Kalmet](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Henrik%20Kalmet.png)
 * [Henry Bergman](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Henry%20Bergman.png)

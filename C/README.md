@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (717 Images)
+# Kometa People Images - Transparent (transparent) - C (719 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -416,6 +416,7 @@
 * [Christian Isaiah](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Isaiah.png)
 * [Christian Kane](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Kane.png)
 * [Christian Navarro](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Navarro.png)
+* [Christian Pelissier](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Pelissier.png)
 * [Christian Rub](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Rub.png)
 * [Christian Rubeck](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Rubeck.png)
 * [Christian Slater](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christian%20Slater.png)
@@ -448,6 +449,7 @@
 * [Christine Lin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christine%20Lin.png)
 * [Christine Renaud](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christine%20Renaud.png)
 * [Christine Taylor](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christine%20Taylor.png)
+* [Christine Tremarco](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christine%20Tremarco.png)
 * [Christine Vachon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christine%20Vachon.png)
 * [Christoph Waltz](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christoph%20Waltz.png)
 * [Christoph von Friedl](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Christoph%20von%20Friedl.png)

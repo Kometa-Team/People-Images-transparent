@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1392 Images)
+# Kometa People Images - Transparent (transparent) - J (1394 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -422,6 +422,7 @@
 * [Jean-Pierre Léaud](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jean-Pierre%20L%C3%A9aud.png)
 * [Jean-Pierre Marielle](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jean-Pierre%20Marielle.png)
 * [Jean-Pierre Melville](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jean-Pierre%20Melville.png)
+* [Jean-Pierre Moulin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jean-Pierre%20Moulin.png)
 * [Jean-Sébastien Williams](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jean-S%C3%A9bastien%20Williams.png)
 * [Jeanine Serralles](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jeanine%20Serralles.png)
 * [Jeanne Killjoy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jeanne%20Killjoy.png)
@@ -1085,6 +1086,7 @@
 * [Jonas Karlsson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonas%20Karlsson.png)
 * [Jonas Rivera](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonas%20Rivera.png)
 * [Jonathan Aibel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonathan%20Aibel.png)
+* [Jonathan Ajayi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonathan%20Ajayi.png)
 * [Jonathan Aris](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonathan%20Aris.png)
 * [Jonathan Bailey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonathan%20Bailey.png)
 * [Jonathan Banks](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jonathan%20Banks.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (552 Images)
+# Kometa People Images - Transparent (transparent) - T (553 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -174,6 +174,7 @@
 * [Theodore von Eltz](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theodore%20von%20Eltz.png)
 * [Theresa Randle](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Theresa%20Randle.png)
 * [Thiago Martins](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thiago%20Martins.png)
+* [Thierry Wermuth](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thierry%20Wermuth.png)
 * [Thom Barry](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thom%20Barry.png)
 * [Thom Gossom Jr.](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thom%20Gossom%20Jr..png)
 * [Thom Green](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thom%20Green.png)

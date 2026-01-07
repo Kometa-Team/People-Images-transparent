@@ -1,10 +1,11 @@
-# Kometa People Images - Transparent (transparent) - B (573 Images)
+# Kometa People Images - Transparent (transparent) - B (574 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
 * [BD Wong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/BD%20Wong.png)
 * [Babak Karimi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Babak%20Karimi.png)
+* [Babou Ceesay](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Babou%20Ceesay.png)
 * [Babs Olusanmokun](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Babs%20Olusanmokun.png)
 * [Babu Santana](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Babu%20Santana.png)
 * [Bad Bunny](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/B/Images/Bad%20Bunny.png)

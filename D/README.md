@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (721 Images)
+# Kometa People Images - Transparent (transparent) - D (722 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -653,6 +653,7 @@
 * [Donovan Leitch](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Donovan%20Leitch.png)
 * [Dooley Wilson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dooley%20Wilson.png)
 * [Doon Mackichan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Doon%20Mackichan.png)
+* [Doreen Turner](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Doreen%20Turner.png)
 * [Dorian Missick](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Dorian%20Missick.png)
 * [Doris Day](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Doris%20Day.png)
 * [Doris Merrick](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/D/Images/Doris%20Merrick.png)

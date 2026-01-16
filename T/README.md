@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (553 Images)
+# Kometa People Images - Transparent (transparent) - T (554 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -189,6 +189,7 @@
 * [Thomas Doherty](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20Doherty.png)
 * [Thomas F. Wilson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20F.%20Wilson.png)
 * [Thomas Haden Church](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20Haden%20Church.png)
+* [Thomas Hayslip](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20Hayslip.png)
 * [Thomas Ian Griffith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20Ian%20Griffith.png)
 * [Thomas Ian Nicholas](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20Ian%20Nicholas.png)
 * [Thomas Jane](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Thomas%20Jane.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1394 Images)
+# Kometa People Images - Transparent (transparent) - J (1396 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -12,6 +12,7 @@
 * [J. R. R. Tolkien](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.%20R.%20R.%20Tolkien.png)
 * [J. T. Walsh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.%20T.%20Walsh.png)
 * [J. Tucker Smith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.%20Tucker%20Smith.png)
+* [J.A. Bayona](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.A.%20Bayona.png)
 * [J.B. Smoove](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.B.%20Smoove.png)
 * [J.C. MacKenzie](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.C.%20MacKenzie.png)
 * [J.C. Spink](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J.C.%20Spink.png)
@@ -733,6 +734,7 @@
 * [Joanna Hogg](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanna%20Hogg.png)
 * [Joanna Lumley](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanna%20Lumley.png)
 * [Joanna Page](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanna%20Page.png)
+* [Joanna Scanlan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanna%20Scanlan.png)
 * [Joanne Froggatt](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanne%20Froggatt.png)
 * [Joanne Whalley](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanne%20Whalley.png)
 * [Joanne Woodward](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joanne%20Woodward.png)

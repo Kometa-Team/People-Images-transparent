@@ -1,9 +1,11 @@
-# Kometa People Images - Transparent (transparent) - F (202 Images)
+# Kometa People Images - Transparent (transparent) - F (204 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)
 * [F. W. Murnau](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/F.%20W.%20Murnau.png)
+* [FAKELuis Tosar](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/FAKELuis%20Tosar.png)
+* [FAKEOlivia Cheng](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/FAKEOlivia%20Cheng.png)
 * [Fabien Frankel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/Fabien%20Frankel.png)
 * [Fabio D'Innocenzo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/Fabio%20D%27Innocenzo.png)
 * [Fabrice Gianfermi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/F/Images/Fabrice%20Gianfermi.png)

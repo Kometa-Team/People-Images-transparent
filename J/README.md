@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1396 Images)
+# Kometa People Images - Transparent (transparent) - J (1398 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -287,6 +287,7 @@
 * [Janeshia Adams-Ginyard](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Janeshia%20Adams-Ginyard.png)
 * [Janet Healy](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Janet%20Healy.png)
 * [Janet McTeer](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Janet%20McTeer.png)
+* [Jang Jae-hyun](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jang%20Jae-hyun.png)
 * [Jang Tae Hoon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jang%20Tae%20Hoon.png)
 * [Jang Yo-hoon](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jang%20Yo-hoon.png)
 * [Jang Young-hwan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jang%20Young-hwan.png)
@@ -1294,6 +1295,7 @@
 * [Julia Jones](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Jones.png)
 * [Julia Louis-Dreyfus](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Louis-Dreyfus.png)
 * [Julia Ormond](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Ormond.png)
+* [Julia Reichert](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Reichert.png)
 * [Julia Roberts](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Roberts.png)
 * [Julia Sawalha](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Sawalha.png)
 * [Julia Stiles](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Julia%20Stiles.png)

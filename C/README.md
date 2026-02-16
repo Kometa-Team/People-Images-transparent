@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (719 Images)
+# Kometa People Images - Transparent (transparent) - C (720 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -675,6 +675,7 @@
 * [Cory DuVal](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cory%20DuVal.png)
 * [Cory Michael Smith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cory%20Michael%20Smith.png)
 * [Cory Peterson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cory%20Peterson.png)
+* [Costa Botes](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Costa%20Botes.png)
 * [Costa-Gavras](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Costa-Gavras.png)
 * [Costas Mandylor](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Costas%20Mandylor.png)
 * [Courteney Cox](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Courteney%20Cox.png)

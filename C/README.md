@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (720 Images)
+# Kometa People Images - Transparent (transparent) - C (722 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -108,6 +108,7 @@
 * [Carrie-Anne Moss](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Carrie-Anne%20Moss.png)
 * [Carroll Baker](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Carroll%20Baker.png)
 * [Carrot Top](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Carrot%20Top.png)
+* [Carson Kressley](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Carson%20Kressley.png)
 * [Cary Elwes](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cary%20Elwes.png)
 * [Cary Grant](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cary%20Grant.png)
 * [Cary Joji Fukunaga](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cary%20Joji%20Fukunaga.png)
@@ -303,6 +304,7 @@
 * [Cheyenne Jackson](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cheyenne%20Jackson.png)
 * [Cheyenne Rushing](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Cheyenne%20Rushing.png)
 * [Chi McBride](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Chi%20McBride.png)
+* [Chiaki Kobayashi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Chiaki%20Kobayashi.png)
 * [Chiaki Kuriyama](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Chiaki%20Kuriyama.png)
 * [Chico Marx](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Chico%20Marx.png)
 * [Chidi Ajufo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/C/Images/Chidi%20Ajufo.png)

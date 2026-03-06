@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (711 Images)
+# Kometa People Images - Transparent (transparent) - R (712 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -601,6 +601,7 @@
 * [Ross Butler](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20Butler.png)
 * [Ross Douglas Noble](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20Douglas%20Noble.png)
 * [Ross Marquand](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20Marquand.png)
+* [Ross Mathews](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20Mathews.png)
 * [Ross McCall](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20McCall.png)
 * [Ross Noble](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20Noble.png)
 * [Ross Partridge](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/R/Images/Ross%20Partridge.png)

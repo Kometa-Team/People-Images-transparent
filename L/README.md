@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (510 Images)
+# Kometa People Images - Transparent (transparent) - L (511 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -281,6 +281,7 @@
 * [Lillete Dubey](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lillete%20Dubey.png)
 * [Lillo Brancato](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lillo%20Brancato.png)
 * [Lilly Aspell](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lilly%20Aspell.png)
+* [Lilly Sophia Gaisie](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lilly%20Sophia%20Gaisie.png)
 * [Lilly Wachowski](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lilly%20Wachowski.png)
 * [Lily Collins](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lily%20Collins.png)
 * [Lily James](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/L/Images/Lily%20James.png)

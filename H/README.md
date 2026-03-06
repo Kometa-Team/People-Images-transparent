@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (291 Images)
+# Kometa People Images - Transparent (transparent) - H (292 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
@@ -106,6 +106,7 @@
 * [Haruka Ayase](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Haruka%20Ayase.png)
 * [Haruka Shiraishi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Haruka%20Shiraishi.png)
 * [Haruka Tomatsu](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Haruka%20Tomatsu.png)
+* [Haruna Mikawa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Haruna%20Mikawa.png)
 * [Harve Bennett](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Harve%20Bennett.png)
 * [Harvey Kahn](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Harvey%20Kahn.png)
 * [Harvey Keitel](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/H/Images/Harvey%20Keitel.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1069 Images)
+# Kometa People Images - Transparent (transparent) - M (1070 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
@@ -860,6 +860,7 @@
 * [Michelle Rose](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Rose.png)
 * [Michelle Ryan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Ryan.png)
 * [Michelle Trachtenberg](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Trachtenberg.png)
+* [Michelle Visage](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Visage.png)
 * [Michelle Williams](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Williams.png)
 * [Michelle Wong](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Wong.png)
 * [Michelle Yeoh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/M/Images/Michelle%20Yeoh.png)

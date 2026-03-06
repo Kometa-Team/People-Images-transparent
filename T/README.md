@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (555 Images)
+# Kometa People Images - Transparent (transparent) - T (557 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -13,6 +13,7 @@
 * [Tadanobu Asano](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tadanobu%20Asano.png)
 * [Taegen Burns](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taegen%20Burns.png)
 * [Tahmoh Penikett](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tahmoh%20Penikett.png)
+* [Taichi Ogawa](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taichi%20Ogawa.png)
 * [Taika Waititi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taika%20Waititi.png)
 * [Tait Fletcher](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tait%20Fletcher.png)
 * [Takahiro Sakurai](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Takahiro%20Sakurai.png)
@@ -63,6 +64,7 @@
 * [Tarik Saleh](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tarik%20Saleh.png)
 * [Taron Egerton](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taron%20Egerton.png)
 * [Taryn Manning](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Taryn%20Manning.png)
+* [Tasuku Hatanaka](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tasuku%20Hatanaka.png)
 * [Tate Donovan](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tate%20Donovan.png)
 * [Tate Ellington](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tate%20Ellington.png)
 * [Tate Taylor](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/T/Images/Tate%20Taylor.png)

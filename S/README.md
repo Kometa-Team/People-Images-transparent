@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (808 Images)
+# Kometa People Images - Transparent (transparent) - S (809 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
@@ -534,6 +534,7 @@
 * [Sophia Alongi](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Alongi.png)
 * [Sophia Bush](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Bush.png)
 * [Sophia Di Martino](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Di%20Martino.png)
+* [Sophia Lillis](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Lillis.png)
 * [Sophia Loren](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Loren.png)
 * [Sophia Lorenti](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Lorenti.png)
 * [Sophia Mitri Schloss](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/S/Images/Sophia%20Mitri%20Schloss.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1398 Images)
+# Kometa People Images - Transparent (transparent) - J (1400 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
@@ -112,6 +112,7 @@
 * [Jacy King](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jacy%20King.png)
 * [Jada Pinkett Smith](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jada%20Pinkett%20Smith.png)
 * [Jade Anouka](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jade%20Anouka.png)
+* [Jade Harrison-Will](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jade%20Harrison-Will.png)
 * [Jade Ma](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jade%20Ma.png)
 * [Jade Xu](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jade%20Xu.png)
 * [Jaeden Martell](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Jaeden%20Martell.png)
@@ -836,6 +837,7 @@
 * [Joey Perillo](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joey%20Perillo.png)
 * [Joey Vieira](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joey%20Vieira.png)
 * [Joey Wells](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Joey%20Wells.png)
+* [Johannes Roberts](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/Johannes%20Roberts.png)
 * [John Abineri](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/John%20Abineri.png)
 * [John Alan Schwartz](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/John%20Alan%20Schwartz.png)
 * [John Ales](https://raw.githubusercontent.com/kometa-team/People-Images-transparent/master/J/Images/John%20Ales.png)

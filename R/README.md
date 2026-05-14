@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (712 Images)
+# Kometa People Images - Transparent (transparent) - R (713 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -340,6 +340,7 @@
 * [Rio Hackford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rio%20Hackford.png)
 * [Rip Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rip%20Taylor.png)
 * [Rip Torn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rip%20Torn.png)
+* [Risa Hayamizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Hayamizu.png)
 * [Risa Mizuno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Mizuno.png)
 * [Risa Taneda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Taneda.png)
 * [Rish Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rish%20Shah.png)

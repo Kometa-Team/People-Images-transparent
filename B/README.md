@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (575 Images)
+# Kometa People Images - Transparent (transparent) - B (577 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
@@ -214,6 +214,7 @@
 * [Bill Irwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Irwin.png)
 * [Bill Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Johnson.png)
 * [Bill Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Kelly.png)
+* [Bill Kopp](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Kopp.png)
 * [Bill Macy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Macy.png)
 * [Bill Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Maher.png)
 * [Bill Melendez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Melendez.png)
@@ -568,6 +569,7 @@
 * [Busby Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Busby%20Berkeley.png)
 * [Buster Keaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Buster%20Keaton.png)
 * [Buster Reeves](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Buster%20Reeves.png)
+* [Buzz Aldrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Buzz%20Aldrin.png)
 * [Byron Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Byron%20Howard.png)
 * [Byron Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Byron%20Mann.png)
 * [Bzhaun Rhoden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bzhaun%20Rhoden.png)

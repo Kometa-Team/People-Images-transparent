@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (137 Images)
+# Kometa People Images - Transparent (transparent) - I (138 Images)
 ![Grid](grid.jpg)
 
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -57,6 +57,7 @@
 * [Iliza Shlesinger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iliza%20Shlesinger.png)
 * [Ilya Naishuller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ilya%20Naishuller.png)
 * [Im Gi-hong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Gi-hong.png)
+* [Im Kwon-taek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Kwon-taek.png)
 * [Ima Caryl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ima%20Caryl.png)
 * [Iman Vellani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iman%20Vellani.png)
 * [Imani Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Imani%20Lewis.png)

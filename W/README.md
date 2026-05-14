@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (198 Images)
+# Kometa People Images - Transparent (transparent) - W (199 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -19,6 +19,7 @@
 * [Walt Flanagan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walt%20Flanagan.png)
 * [Walter Brooke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walter%20Brooke.png)
 * [Walter Connolly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walter%20Connolly.png)
+* [Walter Cronkite](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walter%20Cronkite.png)
 * [Walter F. Parkes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walter%20F.%20Parkes.png)
 * [Walter Gotell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walter%20Gotell.png)
 * [Walter Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walter%20Hill.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (100 Images)
+# Kometa People Images - Transparent (transparent) - O (101 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
@@ -88,6 +88,7 @@
 * [Oscar Novak](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oscar%20Novak.png)
 * [Oscar Nunez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oscar%20Nunez.png)
 * [Oscar Pearce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oscar%20Pearce.png)
+* [Osy Ikhile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Osy%20Ikhile.png)
 * [Ottaviano Dell'Acqua](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ottaviano%20Dell%27Acqua.png)
 * [Otto Farrant](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Otto%20Farrant.png)
 * [Otto Preminger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Otto%20Preminger.png)

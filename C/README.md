@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (728 Images)
+# Kometa People Images - Transparent (transparent) - C (729 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -693,6 +693,7 @@
 * [Courtney Henggeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Henggeler.png)
 * [Courtney Lauren Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Lauren%20Penn.png)
 * [Craig Austin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Austin.png)
+* [Craig Brewer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Brewer.png)
 * [Craig Ferguson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Ferguson.png)
 * [Craig Gillespie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Gillespie.png)
 * [Craig Henningsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Henningsen.png)

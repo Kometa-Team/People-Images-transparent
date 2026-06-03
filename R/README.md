@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (713 Images)
+# Kometa People Images - Transparent (transparent) - R (714 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -643,6 +643,7 @@
 * [Rupert Grint](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Grint.png)
 * [Rupert Penry-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Penry-Jones.png)
 * [Rupert Vansittart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Vansittart.png)
+* [Rupert Wyatt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Wyatt.png)
 * [Rus Blackwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rus%20Blackwell.png)
 * [Russ Fega](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Russ%20Fega.png)
 * [Russ Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Russ%20Meyer.png)

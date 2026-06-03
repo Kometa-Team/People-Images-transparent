@@ -1,10 +1,10 @@
-# Kometa People Images - Transparent (transparent) (11394 Images)
+# Kometa People Images - Transparent (transparent) (11400 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/'/Images/%27Weird%20Al%27%20Yankovic.png)
 </details>
-<details><summary><a href="A">A (925 Images)</a></summary>
+<details><summary><a href="A">A (927 Images)</a></summary>
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -554,6 +554,7 @@
 * [Andrew Lincoln](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Lincoln.png)
 * [Andrew Lowe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Lowe.png)
 * [Andrew Macdonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Macdonald.png)
+* [Andrew Niccol](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Niccol.png)
 * [Andrew Pleavin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Pleavin.png)
 * [Andrew Rona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Rona.png)
 * [Andrew Santino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Andrew%20Santino.png)
@@ -739,6 +740,7 @@
 * [Anthony Zerbe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anthony%20Zerbe.png)
 * [Anthoula Katsimatides](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anthoula%20Katsimatides.png)
 * [Antoine Fuqua](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Antoine%20Fuqua.png)
+* [Anton Corbijn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anton%20Corbijn.png)
 * [Anton Lesser](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anton%20Lesser.png)
 * [Anton Simpson-Tidy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anton%20Simpson-Tidy.png)
 * [Anton Yelchin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anton%20Yelchin.png)
@@ -1512,7 +1514,7 @@
 * [Béla Tarr](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C3%A9la%20Tarr.png)
 * [Bérénice Bejo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C3%A9r%C3%A9nice%20Bejo.png)
 </details>
-<details><summary><a href="C">C (728 Images)</a></summary>
+<details><summary><a href="C">C (729 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -2206,6 +2208,7 @@
 * [Courtney Henggeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Henggeler.png)
 * [Courtney Lauren Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Lauren%20Penn.png)
 * [Craig Austin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Austin.png)
+* [Craig Brewer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Brewer.png)
 * [Craig Ferguson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Ferguson.png)
 * [Craig Gillespie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Gillespie.png)
 * [Craig Henningsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Henningsen.png)
@@ -4406,7 +4409,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izaac%20Wang.png)
 * [Izabella Scorupco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izabella%20Scorupco.png)
 </details>
-<details><summary><a href="J">J (1405 Images)</a></summary>
+<details><summary><a href="J">J (1406 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -5529,6 +5532,7 @@
 * [Jonathan Kasdan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Kasdan.png)
 * [Jonathan Liebesman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Liebesman.png)
 * [Jonathan Loughran](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Loughran.png)
+* [Jonathan Lynn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Lynn.png)
 * [Jonathan M. Goldstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20M.%20Goldstein.png)
 * [Jonathan Majors](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Majors.png)
 * [Jonathan Mangum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jonathan%20Mangum.png)
@@ -7962,7 +7966,7 @@
 * [Mélanie Laurent](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%C3%A9lanie%20Laurent.png)
 * [mgk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/mgk.png)
 </details>
-<details><summary><a href="N">N (308 Images)</a></summary>
+<details><summary><a href="N">N (309 Images)</a></summary>
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
 * [Na Hong-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Na%20Hong-jin.png)
@@ -8096,6 +8100,7 @@
 * [Neve Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Neve%20Campbell.png)
 * [Neville Jason](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Neville%20Jason.png)
 * [Nhut Le](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nhut%20Le.png)
+* [Nia DaCosta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nia%20DaCosta.png)
 * [Nia Long](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Nia%20Long.png)
 * [Niall Cunningham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Niall%20Cunningham.png)
 * [Niall Greig Fulton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Niall%20Greig%20Fulton.png)
@@ -8840,7 +8845,7 @@
 * [Quinta Brunson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quinta%20Brunson.png)
 * [Quinton Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quinton%20Jackson.png)
 </details>
-<details><summary><a href="R">R (713 Images)</a></summary>
+<details><summary><a href="R">R (714 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -9484,6 +9489,7 @@
 * [Rupert Grint](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Grint.png)
 * [Rupert Penry-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Penry-Jones.png)
 * [Rupert Vansittart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Vansittart.png)
+* [Rupert Wyatt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Wyatt.png)
 * [Rus Blackwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rus%20Blackwell.png)
 * [Russ Fega](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Russ%20Fega.png)
 * [Russ Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Russ%20Meyer.png)

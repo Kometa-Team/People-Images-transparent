@@ -1,10 +1,10 @@
-# Kometa People Images - Transparent (transparent) (11400 Images)
+# Kometa People Images - Transparent (transparent) (11401 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/'/Images/%27Weird%20Al%27%20Yankovic.png)
 </details>
-<details><summary><a href="A">A (927 Images)</a></summary>
+<details><summary><a href="A">A (928 Images)</a></summary>
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -189,6 +189,7 @@
 * [Ako Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ako%20Mitchell.png)
 * [Akosua Busia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akosua%20Busia.png)
 * [Akshay Kumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akshay%20Kumar.png)
+* [Akshay Kumar1](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akshay%20Kumar1.png)
 * [Al Cerullo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Cerullo.png)
 * [Al Leong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Leong.png)
 * [Al Lettieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Lettieri.png)

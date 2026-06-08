@@ -1,10 +1,10 @@
-# Kometa People Images - Transparent (transparent) (11401 Images)
+# Kometa People Images - Transparent (transparent) (11402 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/'/Images/%27Weird%20Al%27%20Yankovic.png)
 </details>
-<details><summary><a href="A">A (928 Images)</a></summary>
+<details><summary><a href="A">A (929 Images)</a></summary>
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -260,6 +260,7 @@
 * [Aleisha Allen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleisha%20Allen.png)
 * [Alejandra Gollas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandra%20Gollas.png)
 * [Alejandro Amenábar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20Amen%C3%A1bar.png)
+* [Alejandro G. Iñárritu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20G.%20I%C3%B1%C3%A1rritu.png)
 * [Alejandro González Iñárritu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu.png)
 * [Alejandro Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20Jodorowsky.png)
 * [Aleks Paunovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleks%20Paunovic.png)

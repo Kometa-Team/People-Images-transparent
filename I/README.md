@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (138 Images)
+# Kometa People Images - Transparent (transparent) - I (139 Images)
 ![Grid](grid.jpg)
 
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -113,6 +113,7 @@
 * [Isabelle Huppert](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isabelle%20Huppert.png)
 * [Isao Takahata](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isao%20Takahata.png)
 * [Ishirō Honda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ishir%C5%8D%20Honda.png)
+* [Ishu Patel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ishu%20Patel.png)
 * [Isiah Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isiah%20Thomas.png)
 * [Isiah Whitlock Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isiah%20Whitlock%20Jr..png)
 * [Isidora Goreshter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Isidora%20Goreshter.png)

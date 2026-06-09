@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (199 Images)
+# Kometa People Images - Transparent (transparent) - W (200 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
@@ -182,6 +182,7 @@
 * [Wladyslaw Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wladyslaw%20Szpilman.png)
 * [Wolf Kahler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolf%20Kahler.png)
 * [Wolf Roth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolf%20Roth.png)
+* [Wolfgang Lauenstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfgang%20Lauenstein.png)
 * [Wolfgang Petersen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfgang%20Petersen.png)
 * [Wolfgang Reitherman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfgang%20Reitherman.png)
 * [Wolfman Jack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wolfman%20Jack.png)

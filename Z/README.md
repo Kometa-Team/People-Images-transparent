@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (56 Images)
+# Kometa People Images - Transparent (transparent) - Z (57 Images)
 ![Grid](grid.jpg)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
@@ -28,6 +28,7 @@
 * [Zain Al Rafeea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zain%20Al%20Rafeea.png)
 * [Zainab Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zainab%20Johnson.png)
 * [Zaira Wasim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zaira%20Wasim.png)
+* [Zak Hilditch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zak%20Hilditch.png)
 * [Zak Olkewicz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zak%20Olkewicz.png)
 * [Zak Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zak%20Penn.png)
 * [Zak Santiago](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zak%20Santiago.png)

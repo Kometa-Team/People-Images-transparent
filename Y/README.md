@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (103 Images)
+# Kometa People Images - Transparent (transparent) - Y (105 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
@@ -54,6 +54,7 @@
 * [Yoshimasa Hosoya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoshimasa%20Hosoya.png)
 * [Yoshimi Kondou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoshimi%20Kondou.png)
 * [Yoshitsugu Matsuoka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoshitsugu%20Matsuoka.png)
+* [Yoshiyuki Kishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoshiyuki%20Kishi.png)
 * [Yoson An](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoson%20An.png)
 * [You Seong-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/You%20Seong-joo.png)
 * [Youji Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Youji%20Matsuda.png)
@@ -87,6 +88,7 @@
 * [Yun Seung-hun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yun%20Seung-hun.png)
 * [Yuri Kolokolnikov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuri%20Kolokolnikov.png)
 * [Yuri Lowenthal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuri%20Lowenthal.png)
+* [Yuri Norstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuri%20Norstein.png)
 * [Yuriko Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuriko%20Ishida.png)
 * [Yusuke Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yusuke%20Kobayashi.png)
 * [Yuta Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuta%20Kobayashi.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (57 Images)
+# Kometa People Images - Transparent (transparent) - Z (59 Images)
 ![Grid](grid.jpg)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
@@ -36,6 +36,7 @@
 * [Zane Weiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zane%20Weiner.png)
 * [Zara Phythian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zara%20Phythian.png)
 * [Zazie Beetz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zazie%20Beetz.png)
+* [Zehra Fazal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zehra%20Fazal.png)
 * [Zeljko Ivanek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zeljko%20Ivanek.png)
 * [Zen Gesner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zen%20Gesner.png)
 * [Zena Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zena%20Marshall.png)
@@ -51,6 +52,7 @@
 * [Zoe Saldaña](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoe%20Salda%C3%B1a.png)
 * [Zoey Deutch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoey%20Deutch.png)
 * [Zola Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zola%20Williams.png)
+* [Zoltan Korda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoltan%20Korda.png)
 * [Zooey Deschanel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zooey%20Deschanel.png)
 * [Zora Kerova](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zora%20Kerova.png)
 * [Zosia Mamet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zosia%20Mamet.png)

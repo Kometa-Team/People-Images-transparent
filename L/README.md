@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (571 Images)
+# Kometa People Images - Transparent (transparent) - L (572 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
@@ -79,6 +79,7 @@
 * [Lashana Lynch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lashana%20Lynch.png)
 * [Lasse Hallström](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lasse%20Hallstr%C3%B6m.png)
 * [Lateef Crowder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lateef%20Crowder.png)
+* [Lateysha Grace](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lateysha%20Grace.png)
 * [Lau Ho-Leung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lau%20Ho-Leung.png)
 * [Lau Kar-leung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lau%20Kar-leung.png)
 * [Lau Tin-Lung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lau%20Tin-Lung.png)

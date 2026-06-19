@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (457 Images)
+# Kometa People Images - Transparent (transparent) - E (459 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -38,6 +38,7 @@
 * [Eddie Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Griffin.png)
 * [Eddie Izzard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Izzard.png)
 * [Eddie J. Fernandez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20J.%20Fernandez.png)
+* [Eddie Kaye Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Kaye%20Thomas.png)
 * [Eddie Mariano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Mariano.png)
 * [Eddie Marsan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Marsan.png)
 * [Eddie Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Martinez.png)
@@ -373,6 +374,7 @@
 * [Ernesto Gastaldi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernesto%20Gastaldi.png)
 * [Ernie Barbarash](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernie%20Barbarash.png)
 * [Ernie Hudson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernie%20Hudson.png)
+* [Ernie Lee Banks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernie%20Lee%20Banks.png)
 * [Ernie Reyes Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernie%20Reyes%20Jr..png)
 * [Ernst Lubitsch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernst%20Lubitsch.png)
 * [Ernst von Salomon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ernst%20von%20Salomon.png)

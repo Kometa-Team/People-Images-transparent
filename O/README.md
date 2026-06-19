@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (122 Images)
+# Kometa People Images - Transparent (transparent) - O (123 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
@@ -80,6 +80,7 @@
 * [Ono Kenshou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ono%20Kenshou.png)
 * [Oohara Sayaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oohara%20Sayaka.png)
 * [Oonishi Saori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oonishi%20Saori.png)
+* [Oosaka Ryouta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oosaka%20Ryouta.png)
 * [Ootsuka Akio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ootsuka%20Akio.png)
 * [Ophelia Lovibond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ophelia%20Lovibond.png)
 * [Oprah Winfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oprah%20Winfrey.png)

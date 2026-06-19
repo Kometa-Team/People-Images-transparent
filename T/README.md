@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (634 Images)
+# Kometa People Images - Transparent (transparent) - T (636 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -548,7 +548,9 @@
 * [Touchi Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Touchi%20Hiroki.png)
 * [Touyama Nao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Touyama%20Nao.png)
 * [Tovah Feldshuh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tovah%20Feldshuh.png)
+* [Tove Idström](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tove%20Idstr%C3%B6m.png)
 * [Tovino Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tovino%20Thomas.png)
+* [Toyonaga Toshiyuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Toyonaga%20Toshiyuki.png)
 * [Toyoo Ashida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Toyoo%20Ashida.png)
 * [Toyosaki Aki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Toyosaki%20Aki.png)
 * [Trace Adkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Trace%20Adkins.png)

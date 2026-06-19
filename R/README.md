@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (821 Images)
+# Kometa People Images - Transparent (transparent) - R (822 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -156,6 +156,7 @@
 * [Raymond Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20Lee.png)
 * [Raymond S. Persi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20S.%20Persi.png)
 * [Rayner Bourton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rayner%20Bourton.png)
+* [Raynor Scheine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raynor%20Scheine.png)
 * [Rayver Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rayver%20Cruz.png)
 * [Raúl Castro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ra%C3%BAl%20Castro.png)
 * [Raúl Esparza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ra%C3%BAl%20Esparza.png)

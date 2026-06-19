@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (344 Images)
+# Kometa People Images - Transparent (transparent) - H (345 Images)
 ![Grid](grid.jpg)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
@@ -136,6 +136,7 @@
 * [Hasan Minhaj](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hasan%20Minhaj.png)
 * [Hassani Shapi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hassani%20Shapi.png)
 * [Hattie Kragten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hattie%20Kragten.png)
+* [Hayami Saori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayami%20Saori.png)
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayao%20Miyazaki.png)
 * [Hayashibara Megumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayashibara%20Megumi.png)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayden%20Christensen.png)

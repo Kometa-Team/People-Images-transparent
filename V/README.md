@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (147 Images)
+# Kometa People Images - Transparent (transparent) - V (148 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
@@ -101,6 +101,7 @@
 * [Vincent Fuentes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Fuentes.png)
 * [Vincent Gallot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Gallot.png)
 * [Vincent Guastaferro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Guastaferro.png)
+* [Vincent Kucholl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Kucholl.png)
 * [Vincent Maraval](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Maraval.png)
 * [Vincent McEveety](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20McEveety.png)
 * [Vincent Pastore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Pastore.png)

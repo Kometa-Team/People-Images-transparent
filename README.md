@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (13007 Images)
+# Kometa People Images - Transparent (transparent) (13008 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -12491,7 +12491,7 @@
 * [Uwe Boll](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uwe%20Boll.png)
 * [Uzo Aduba](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uzo%20Aduba.png)
 </details>
-<details><summary><a href="V">V (147 Images)</a></summary>
+<details><summary><a href="V">V (148 Images)</a></summary>
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vaibhav%20Sethia.png)
@@ -12593,6 +12593,7 @@
 * [Vincent Fuentes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Fuentes.png)
 * [Vincent Gallot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Gallot.png)
 * [Vincent Guastaferro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Guastaferro.png)
+* [Vincent Kucholl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Kucholl.png)
 * [Vincent Maraval](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Maraval.png)
 * [Vincent McEveety](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20McEveety.png)
 * [Vincent Pastore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Pastore.png)

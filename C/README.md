@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (816 Images)
+# Kometa People Images - Transparent (transparent) - C (817 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -324,6 +324,7 @@
 * [Chaske Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chaske%20Spencer.png)
 * [Chazz Palminteri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chazz%20Palminteri.png)
 * [Checco Zalone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Checco%20Zalone.png)
+* [Cheech & Chong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cheech%20%26%20Chong.png)
 * [Cheech Marin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cheech%20Marin.png)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chekesha%20Van%20Putten.png)
 * [Chelcie Ross](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chelcie%20Ross.png)

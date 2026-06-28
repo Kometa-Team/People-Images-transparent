@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (13005 Images)
+# Kometa People Images - Transparent (transparent) (13007 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -1071,7 +1071,7 @@
 * [Aziz Ansari](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aziz%20Ansari.png)
 * [Azumi Waki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Azumi%20Waki.png)
 </details>
-<details><summary><a href="B">B (655 Images)</a></summary>
+<details><summary><a href="B">B (656 Images)</a></summary>
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -1095,6 +1095,7 @@
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bam%20Margera.png)
 * [Bambadjan Bamba](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bambadjan%20Bamba.png)
 * [Banksy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Banksy.png)
+* [Baptiste Gilliéron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baptiste%20Gilli%C3%A9ron.png)
 * [Bar Paly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bar%20Paly.png)
 * [Barack Obama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barack%20Obama.png)
 * [Barbara Beall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Barbara%20Beall.png)
@@ -1729,7 +1730,7 @@
 * [Børge Ring](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C3%B8rge%20Ring.png)
 * [Břetislav Pojar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C5%99etislav%20Pojar.png)
 </details>
-<details><summary><a href="C">C (816 Images)</a></summary>
+<details><summary><a href="C">C (817 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -2054,6 +2055,7 @@
 * [Chaske Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chaske%20Spencer.png)
 * [Chazz Palminteri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chazz%20Palminteri.png)
 * [Checco Zalone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Checco%20Zalone.png)
+* [Cheech & Chong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cheech%20%26%20Chong.png)
 * [Cheech Marin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cheech%20Marin.png)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chekesha%20Van%20Putten.png)
 * [Chelcie Ross](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chelcie%20Ross.png)

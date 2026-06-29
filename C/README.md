@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (817 Images)
+# Kometa People Images - Transparent (transparent) - C (818 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -380,6 +380,7 @@
 * [Choi Min-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Min-sik.png)
 * [Choi Sung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Sung-eun.png)
 * [Choi Won-young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Won-young.png)
+* [Choji Yoshikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choji%20Yoshikawa.png)
 * [Chord Overstreet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chord%20Overstreet.png)
 * [Chow Yun-Fat](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chow%20Yun-Fat.png)
 * [Chris Addison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Addison.png)

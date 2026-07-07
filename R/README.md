@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (822 Images)
+# Kometa People Images - Transparent (transparent) - R (824 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -8,6 +8,8 @@
 * [R.H. Norman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.H.%20Norman.png)
 * [RAJINIKANTH SK](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/RAJINIKANTH%20SK.png)
 * [RJ Mitte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/RJ%20Mitte.png)
+* [RM. Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/RM.%20Babu.png)
+* [RM](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/RM.png)
 * [RZA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/RZA.png)
 * [Rachael Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachael%20Harris.png)
 * [Rachael Leigh Cook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachael%20Leigh%20Cook.png)

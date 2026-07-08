@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (824 Images)
+# Kometa People Images - Transparent (transparent) - R (825 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
@@ -200,6 +200,7 @@
 * [Reid Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reid%20Scott.png)
 * [Reina Ueda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reina%20Ueda.png)
 * [Reinaldo Marcus Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Reinaldo%20Marcus%20Green.png)
+* [Rekha Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rekha%20Shankar.png)
 * [Remo D'Souza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Remo%20D%27Souza.png)
 * [Remo Girone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Remo%20Girone.png)
 * [Remy Hii](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Remy%20Hii.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (123 Images)
+# Kometa People Images - Transparent (transparent) - Y (124 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
@@ -44,6 +44,7 @@
 * [Yoo Yeon-seok](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoo%20Yeon-seok.png)
 * [Yook Sung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yook%20Sung-jae.png)
 * [Yoon Jae-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoon%20Jae-hyun.png)
+* [Yoon Ji-min](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoon%20Ji-min.png)
 * [Yoon Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoon%20Park.png)
 * [Yoon Sang-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoon%20Sang-hyun.png)
 * [Yoram Globus](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoram%20Globus.png)

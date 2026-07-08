@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (636 Images)
+# Kometa People Images - Transparent (transparent) - T (637 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -320,6 +320,7 @@
 * [Tine Joustra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tine%20Joustra.png)
 * [Tino Insana](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tino%20Insana.png)
 * [Tinto Brass](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tinto%20Brass.png)
+* [Tipper Newton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tipper%20Newton.png)
 * [Tipper Seifert-Cleveland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tipper%20Seifert-Cleveland.png)
 * [Tisa Farrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tisa%20Farrow.png)
 * [Tito Ortiz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tito%20Ortiz.png)

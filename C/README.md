@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (819 Images)
+# Kometa People Images - Transparent (transparent) - C (820 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
@@ -376,6 +376,7 @@
 * [Chloë Grace Moretz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%AB%20Grace%20Moretz.png)
 * [Chloë Sevigny](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%AB%20Sevigny.png)
 * [Cho Ah-in](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cho%20Ah-in.png)
+* [Cho Han-cheul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cho%20Han-cheul.png)
 * [Choi Dae-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Dae-hoon.png)
 * [Choi Min-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Min-sik.png)
 * [Choi Sung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Sung-eun.png)

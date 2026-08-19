@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1065 Images)
+# Kometa People Images - Transparent (transparent) - A (1066 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -329,6 +329,7 @@
 * [Alex Proyas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Proyas.png)
 * [Alex Rocco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Rocco.png)
 * [Alex Ross Perry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Ross%20Perry.png)
+* [Alex Rudzinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Rudzinski.png)
 * [Alex Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Russell.png)
 * [Alex Sharp](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Sharp.png)
 * [Alex Sharpe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Sharpe.png)

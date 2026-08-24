@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - D (801 Images)
-![Grid](grid.jpg)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20A.%20Pennebaker.png)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)

@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - L (573 Images)
-![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)

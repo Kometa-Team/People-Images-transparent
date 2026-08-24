@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - F (256 Images)
-![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)

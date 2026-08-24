@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - E (459 Images)
-![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.J.%20Bonilla.png)

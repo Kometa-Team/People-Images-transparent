@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - P (514 Images)
-![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.J.%20Byrne.png)

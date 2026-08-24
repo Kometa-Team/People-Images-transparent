@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - N (356 Images)
-![Grid](grid.jpg)
 
 * [N. Linguswamy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.%20Linguswamy.png)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)

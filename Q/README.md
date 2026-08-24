@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - Q (12 Images)
-![Grid](grid.jpg)
 
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Queen%20Latifah.png)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quentin%20Dupieux.png)

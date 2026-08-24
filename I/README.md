@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - I (158 Images)
-![Grid](grid.jpg)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)

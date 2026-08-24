@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - Z (62 Images)
-![Grid](grid.jpg)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Baylin.png)

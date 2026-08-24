@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - S (946 Images)
-![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SUGA.png)

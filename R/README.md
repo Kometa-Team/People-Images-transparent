@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - R (825 Images)
-![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)

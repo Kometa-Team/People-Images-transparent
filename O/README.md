@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - O (124 Images)
-![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O-T%20Fagbenle.png)

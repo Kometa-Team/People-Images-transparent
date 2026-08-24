@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - V (148 Images)
-![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vaibhav%20Sethia.png)

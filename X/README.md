@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - X (7 Images)
-![Grid](grid.jpg)
 
 * [Xander Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xander%20Berkeley.png)
 * [Xavier Gens](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xavier%20Gens.png)

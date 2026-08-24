@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - U (33 Images)
-![Grid](grid.jpg)
 
 * [Uchida Maaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uchida%20Maaya.png)
 * [Uchida Yuuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uchida%20Yuuma.png)

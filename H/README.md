@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - H (346 Images)
-![Grid](grid.jpg)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)

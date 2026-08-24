@@ -1,5 +1,4 @@
 # Kometa People Images - Transparent (transparent) - J (1566 Images)
-![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)

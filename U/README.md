@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - U (33 Images)
+# Kometa People Images - Transparent (transparent) - U (34 Images)
 
 * [Uchida Maaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uchida%20Maaya.png)
 * [Uchida Yuuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uchida%20Yuuma.png)
@@ -10,6 +10,7 @@
 * [Ueda Reina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ueda%20Reina.png)
 * [Uesaka Sumire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uesaka%20Sumire.png)
 * [Ugo Tognazzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ugo%20Tognazzi.png)
+* [Ui Mihara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ui%20Mihara.png)
 * [Ukweli Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ukweli%20Roach.png)
 * [Uli Edel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Uli%20Edel.png)
 * [Ulrich Noethen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/U/Images/Ulrich%20Noethen.png)

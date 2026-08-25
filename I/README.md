@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (158 Images)
+# Kometa People Images - Transparent (transparent) - I (159 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -68,6 +68,7 @@
 * [Imelda Staunton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Imelda%20Staunton.png)
 * [Imogen Poots](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Imogen%20Poots.png)
 * [Inbar Lavi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inbar%20Lavi.png)
+* [Inde Navarrette](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inde%20Navarrette.png)
 * [Indie DesRoches](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Indie%20DesRoches.png)
 * [Indira Varma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Indira%20Varma.png)
 * [Indya Bussey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Indya%20Bussey.png)

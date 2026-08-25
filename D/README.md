@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (801 Images)
+# Kometa People Images - Transparent (transparent) - D (803 Images)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20A.%20Pennebaker.png)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -173,6 +173,7 @@
 * [Daniela Melchior](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daniela%20Melchior.png)
 * [Daniela Taplin Lundberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daniela%20Taplin%20Lundberg.png)
 * [Daniella Pineda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daniella%20Pineda.png)
+* [Daniella Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daniella%20Wang.png)
 * [Danielle Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Brooks.png)
 * [Danielle Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Harris.png)
 * [Danielle Jalade](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Jalade.png)
@@ -450,6 +451,7 @@
 * [David-Paul Grove](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David-Paul%20Grove.png)
 * [Dawn Dininger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20Dininger.png)
 * [Dawn French](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20French.png)
+* [Dawn Olivieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20Olivieri.png)
 * [Dawnn Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawnn%20Lewis.png)
 * [Daws Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daws%20Butler.png)
 * [Dax Flame](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dax%20Flame.png)

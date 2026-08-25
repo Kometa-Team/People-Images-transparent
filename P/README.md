@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (514 Images)
+# Kometa People Images - Transparent (transparent) - P (516 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.J.%20Byrne.png)
@@ -29,6 +29,7 @@
 * [Panos Cosmatos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Panos%20Cosmatos.png)
 * [Panta Mosleh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Panta%20Mosleh.png)
 * [Panuvat Anthony Nanakornpanom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Panuvat%20Anthony%20Nanakornpanom.png)
+* [Paola Fernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paola%20Fern%C3%A1ndez.png)
 * [Paola Nuñez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paola%20Nu%C3%B1ez.png)
 * [Paola Pitagora](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paola%20Pitagora.png)
 * [Paoli Dam](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paoli%20Dam.png)
@@ -473,6 +474,7 @@
 * [Piper Perabo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Piper%20Perabo.png)
 * [Pippa Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pippa%20Harris.png)
 * [Polly Walker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Polly%20Walker.png)
+* [Pollyanna McIntosh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pollyanna%20McIntosh.png)
 * [Pom Klementieff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pom%20Klementieff.png)
 * [Pooch Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pooch%20Hall.png)
 * [Pooja Hegde](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pooja%20Hegde.png)

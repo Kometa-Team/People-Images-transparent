@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (346 Images)
+# Kometa People Images - Transparent (transparent) - H (347 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -126,6 +126,7 @@
 * [Haruka Shiraishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruka%20Shiraishi.png)
 * [Haruka Tomatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruka%20Tomatsu.png)
 * [Haruna Mikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruna%20Mikawa.png)
+* [Harutoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harutoki.png)
 * [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harve%20Bennett.png)
 * [Harvey Guillén](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harvey%20Guill%C3%A9n.png)
 * [Harvey Kahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harvey%20Kahn.png)
@@ -139,7 +140,7 @@
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayao%20Miyazaki.png)
 * [Hayashibara Megumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayashibara%20Megumi.png)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayden%20Christensen.png)
-* [Hayden Schlossberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayden%20Schlossberg.png)
+* [Hayden Panettiere](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayden%20Panettiere.png)
 * [Hayes MacArthur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayes%20MacArthur.png)
 * [Hayley Atwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayley%20Atwell.png)
 * [Hayley Gagner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hayley%20Gagner.png)

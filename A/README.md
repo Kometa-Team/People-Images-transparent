@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1070 Images)
+# Kometa People Images - Transparent (transparent) - A (1072 Images)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -405,6 +405,7 @@
 * [Ali Ahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20Ahn.png)
 * [Ali Fazal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20Fazal.png)
 * [Ali Larter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20Larter.png)
+* [Ali Lopez-Sohaili](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20Lopez-Sohaili.png)
 * [Ali MacGraw](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20MacGraw.png)
 * [Ali Siddiq](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20Siddiq.png)
 * [Ali Wentworth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ali%20Wentworth.png)
@@ -979,6 +980,7 @@
 * [Ashley Jensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Jensen.png)
 * [Ashley Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Johnson.png)
 * [Ashley Judd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Judd.png)
+* [Ashley Lopez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Lopez.png)
 * [Ashley Madekwe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Madekwe.png)
 * [Ashley McGuire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20McGuire.png)
 * [Ashley Newbrough](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ashley%20Newbrough.png)

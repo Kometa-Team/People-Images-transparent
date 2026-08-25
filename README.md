@@ -1,10 +1,10 @@
-# Kometa People Images - Transparent (transparent) (13035 Images)
+# Kometa People Images - Transparent (transparent) (13037 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/'/Images/%27Weird%20Al%27%20Yankovic.png)
 </details>
-<details><summary><a href="A">A (1066 Images)</a></summary>
+<details><summary><a href="A">A (1067 Images)</a></summary>
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -574,6 +574,7 @@
 * [Anamaria Marinca](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anamaria%20Marinca.png)
 * [Anamaria Vartolomei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anamaria%20Vartolomei.png)
 * [Anastasia Hille](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anastasia%20Hille.png)
+* [Anastasia Shestakova](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anastasia%20Shestakova.png)
 * [Anatole Dauman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anatole%20Dauman.png)
 * [Anatole Litvak](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anatole%20Litvak.png)
 * [Anatole Taubman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anatole%20Taubman.png)
@@ -7819,7 +7820,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L%C3%A9a%20Seydoux.png)
 * [Lúcio Andrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L%C3%BAcio%20Andrey.png)
 </details>
-<details><summary><a href="M">M (1224 Images)</a></summary>
+<details><summary><a href="M">M (1225 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -8449,6 +8450,7 @@
 * [Maya Saroya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maya%20Saroya.png)
 * [Mayim Bialik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mayim%20Bialik.png)
 * [Maynard James Keenan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maynard%20James%20Keenan.png)
+* [Mayuko Sasaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mayuko%20Sasaki.png)
 * [Mayumi Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mayumi%20Tanaka.png)
 * [Maz Jobrani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maz%20Jobrani.png)
 * [Maïwenn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Ma%C3%AFwenn.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1066 Images)
+# Kometa People Images - Transparent (transparent) - A (1067 Images)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -568,6 +568,7 @@
 * [Anamaria Marinca](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anamaria%20Marinca.png)
 * [Anamaria Vartolomei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anamaria%20Vartolomei.png)
 * [Anastasia Hille](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anastasia%20Hille.png)
+* [Anastasia Shestakova](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anastasia%20Shestakova.png)
 * [Anatole Dauman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anatole%20Dauman.png)
 * [Anatole Litvak](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anatole%20Litvak.png)
 * [Anatole Taubman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anatole%20Taubman.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1224 Images)
+# Kometa People Images - Transparent (transparent) - M (1225 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -628,6 +628,7 @@
 * [Maya Saroya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maya%20Saroya.png)
 * [Mayim Bialik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mayim%20Bialik.png)
 * [Maynard James Keenan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maynard%20James%20Keenan.png)
+* [Mayuko Sasaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mayuko%20Sasaki.png)
 * [Mayumi Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mayumi%20Tanaka.png)
 * [Maz Jobrani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Maz%20Jobrani.png)
 * [Maïwenn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Ma%C3%AFwenn.png)

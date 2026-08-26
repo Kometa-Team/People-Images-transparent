@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (258 Images)
+# Kometa People Images - Transparent (transparent) - F (259 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)
@@ -85,6 +85,7 @@
 * [Fiona Dourif](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fiona%20Dourif.png)
 * [Fiona Glascott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fiona%20Glascott.png)
 * [Fiona O'Shaughnessy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fiona%20O%27Shaughnessy.png)
+* [Fiona Palomo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fiona%20Palomo.png)
 * [Fiona Rene](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fiona%20Rene.png)
 * [Fiona Shaw](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fiona%20Shaw.png)
 * [Fionnula Flanagan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fionnula%20Flanagan.png)

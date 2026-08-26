@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1575 Images)
+# Kometa People Images - Transparent (transparent) - J (1576 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -717,6 +717,7 @@
 * [Jett Klyne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jett%20Klyne.png)
 * [Jewel Staite](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jewel%20Staite.png)
 * [Ji Chang-wook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Ji%20Chang-wook.png)
+* [Jiang Peiyao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jiang%20Peiyao.png)
 * [Jiang Qiming](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jiang%20Qiming.png)
 * [Jill Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jill%20Bennett.png)
 * [Jill Buchanan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jill%20Buchanan.png)

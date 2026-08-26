@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (658 Images)
+# Kometa People Images - Transparent (transparent) - B (660 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -17,6 +17,7 @@
 * [Bae Sung-woo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Sung-woo.png)
 * [Bae Suzy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Suzy.png)
 * [Baek Min-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baek%20Min-hyun.png)
+* [Baek Se-ri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baek%20Se-ri.png)
 * [Bailee Madison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bailee%20Madison.png)
 * [Baltasar Kormákur](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baltasar%20Korm%C3%A1kur.png)
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bam%20Margera.png)
@@ -518,6 +519,7 @@
 * [Brian Smyj](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Smyj.png)
 * [Brian Steele](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Steele.png)
 * [Brian Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Taylor.png)
+* [Brian Tee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Tee.png)
 * [Brian Trenchard-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Trenchard-Smith.png)
 * [Brian Tyree Henry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Tyree%20Henry.png)
 * [Brian Van Holt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Van%20Holt.png)

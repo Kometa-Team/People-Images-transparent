@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (807 Images)
+# Kometa People Images - Transparent (transparent) - D (809 Images)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20A.%20Pennebaker.png)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20David%20Morin.png)
@@ -596,6 +596,7 @@
 * [Diana García](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diana%20Garc%C3%ADa.png)
 * [Diana Kaarina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diana%20Kaarina.png)
 * [Diana Lee Inosanto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diana%20Lee%20Inosanto.png)
+* [Diana Pang Dan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diana%20Pang%20Dan.png)
 * [Diane Guerrero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diane%20Guerrero.png)
 * [Diane Keaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diane%20Keaton.png)
 * [Diane Kruger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diane%20Kruger.png)
@@ -631,6 +632,7 @@
 * [Dina Morrone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dina%20Morrone.png)
 * [Dina Shihabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dina%20Shihabi.png)
 * [Dinesh D'Souza](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dinesh%20D%27Souza.png)
+* [Ding Yuxi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Ding%20Yuxi.png)
 * [Dino De Laurentiis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dino%20De%20Laurentiis.png)
 * [Dino Risi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dino%20Risi.png)
 * [Diogo Morgado](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diogo%20Morgado.png)

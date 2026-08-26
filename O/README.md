@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (125 Images)
+# Kometa People Images - Transparent (transparent) - O (126 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O-T%20Fagbenle.png)
@@ -93,6 +93,7 @@
 * [Orla Brady](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Orla%20Brady.png)
 * [Orlando Bloom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Orlando%20Bloom.png)
 * [Orlando Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Orlando%20Jones.png)
+* [Ornella Muti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ornella%20Muti.png)
 * [Orny Adams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Orny%20Adams.png)
 * [Orson Welles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Orson%20Welles.png)
 * [Osamu Saka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Osamu%20Saka.png)

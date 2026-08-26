@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (66 Images)
+# Kometa People Images - Transparent (transparent) - Z (67 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Baylin.png)
@@ -46,6 +46,7 @@
 * [Zenobia Shroff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zenobia%20Shroff.png)
 * [Zhang Fengyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhang%20Fengyi.png)
 * [Zhang Linghe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhang%20Linghe.png)
+* [Zhang Miaoyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhang%20Miaoyi.png)
 * [Zhang Ruonan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhang%20Ruonan.png)
 * [Zhang Yanqi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhang%20Yanqi.png)
 * [Zhang Yimou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhang%20Yimou.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (159 Images)
+# Kometa People Images - Transparent (transparent) - I (160 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -33,6 +33,7 @@
 * [Ian Pirie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Pirie.png)
 * [Ian Puleston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Puleston.png)
 * [Ian Richardson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Richardson.png)
+* [Ian Somerhalder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Somerhalder.png)
 * [Ian Tracey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Tracey.png)
 * [Ian Wolfe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Wolfe.png)
 * [Ian Ziering](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ian%20Ziering.png)

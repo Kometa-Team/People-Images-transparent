@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (464 Images)
+# Kometa People Images - Transparent (transparent) - E (465 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.J.%20Bonilla.png)
@@ -163,6 +163,7 @@
 * [Elizabeth Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Taylor.png)
 * [Elizabeth Tulloch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Tulloch.png)
 * [Elizabeth Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Wilson.png)
+* [Ella Bright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Bright.png)
 * [Ella Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Hunt.png)
 * [Ella Jay Basco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Jay%20Basco.png)
 * [Ella Leyers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Leyers.png)

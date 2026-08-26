@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (644 Images)
+# Kometa People Images - Transparent (transparent) - T (645 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20Love.png)
@@ -607,6 +607,7 @@
 * [Troy Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Troy%20Miller.png)
 * [Troy Quane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Troy%20Quane.png)
 * [Troy Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Troy%20Roberts.png)
+* [Truman Hanks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Truman%20Hanks.png)
 * [Trystan Gravelle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Trystan%20Gravelle.png)
 * [Tsai Chin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tsai%20Chin.png)
 * [Tsai Ming-liang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tsai%20Ming-liang.png)

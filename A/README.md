@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1087 Images)
+# Kometa People Images - Transparent (transparent) - A (1088 Images)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Michael%20Baldwin.png)
@@ -1016,6 +1016,7 @@
 * [Asier Etxeandia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Asier%20Etxeandia.png)
 * [Asif Ali](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Asif%20Ali.png)
 * [Asim Chaudhry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Asim%20Chaudhry.png)
+* [Astrid Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Astrid%20Lee.png)
 * [Atanas Srebrev](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Atanas%20Srebrev.png)
 * [Atlee Smallman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Atlee%20Smallman.png)
 * [Atlee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Atlee.png)

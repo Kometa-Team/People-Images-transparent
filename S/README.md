@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (956 Images)
+# Kometa People Images - Transparent (transparent) - S (957 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SUGA.png)
@@ -641,6 +641,7 @@
 * [Sophie Levy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20Levy.png)
 * [Sophie Marceau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20Marceau.png)
 * [Sophie McShera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20McShera.png)
+* [Sophie Ngan Chin-Man](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20Ngan%20Chin-Man.png)
 * [Sophie Okonedo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20Okonedo.png)
 * [Sophie Rundle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20Rundle.png)
 * [Sophie Thatcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sophie%20Thatcher.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (432 Images)
+# Kometa People Images - Transparent (transparent) - G (433 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -328,6 +328,7 @@
 * [Grace Gummer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Gummer.png)
 * [Grace Kaufman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Kaufman.png)
 * [Grace Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Kelly.png)
+* [Grace Lam Nga-Si](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Lam%20Nga-Si.png)
 * [Grace Lee Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Lee%20Whitney.png)
 * [Grace Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Park.png)
 * [Grace Rex](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Grace%20Rex.png)

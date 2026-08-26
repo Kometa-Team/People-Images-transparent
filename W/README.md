@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (232 Images)
+# Kometa People Images - Transparent (transparent) - W (235 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Earl%20Brown.png)
@@ -45,6 +45,8 @@
 * [Walton Goggins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walton%20Goggins.png)
 * [Wanda Sykes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wanda%20Sykes.png)
 * [Wang Bing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Bing.png)
+* [Wang Churan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Churan.png)
+* [Wang Xingwei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Xingwei.png)
 * [Wang Xueqi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Xueqi.png)
 * [Ward Bond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Ward%20Bond.png)
 * [Warren Beatty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Warren%20Beatty.png)
@@ -88,6 +90,7 @@
 * [Wesley Kimmel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wesley%20Kimmel.png)
 * [Wesley Snipes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wesley%20Snipes.png)
 * [Whit Bissell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Whit%20Bissell.png)
+* [White Sugar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/White%20Sugar.png)
 * [Whitney Cummings](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Whitney%20Cummings.png)
 * [Whitney Houston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Whitney%20Houston.png)
 * [Whoopi Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Whoopi%20Goldberg.png)

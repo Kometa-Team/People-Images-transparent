@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (656 Images)
+# Kometa People Images - Transparent (transparent) - B (658 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -360,6 +360,7 @@
 * [Bobby Nish](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bobby%20Nish.png)
 * [Bobby Schofield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bobby%20Schofield.png)
 * [Bobcat Goldthwait](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bobcat%20Goldthwait.png)
+* [Bodhi Rae Breathnach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bodhi%20Rae%20Breathnach.png)
 * [Bojana Novakovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bojana%20Novakovic.png)
 * [Bojana Novaković](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bojana%20Novakovi%C4%87.png)
 * [Bokeem Woodbine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bokeem%20Woodbine.png)
@@ -530,6 +531,7 @@
 * [Bridget Fonda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bridget%20Fonda.png)
 * [Bridget Hoffman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bridget%20Hoffman.png)
 * [Bridget Moynahan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bridget%20Moynahan.png)
+* [Bridget Regan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bridget%20Regan.png)
 * [Brie Larson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brie%20Larson.png)
 * [Brighton Sharbino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brighton%20Sharbino.png)
 * [Brigitte Millar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brigitte%20Millar.png)

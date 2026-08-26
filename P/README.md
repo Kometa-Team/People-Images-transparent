@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (516 Images)
+# Kometa People Images - Transparent (transparent) - P (517 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.J.%20Byrne.png)
@@ -124,6 +124,7 @@
 * [Patrick Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Stewart.png)
 * [Patrick Swayze](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Swayze.png)
 * [Patrick Troughton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Troughton.png)
+* [Patrick Walshe McBride](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Walshe%20McBride.png)
 * [Patrick Warburton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Warburton.png)
 * [Patrick Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patrick%20Wilson.png)
 * [Patrícia Tavares](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Patr%C3%ADcia%20Tavares.png)

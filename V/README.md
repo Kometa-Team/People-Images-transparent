@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (148 Images)
+# Kometa People Images - Transparent (transparent) - V (150 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vaibhav%20Sethia.png)
@@ -44,6 +44,7 @@
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vernon%20Dobtcheff.png)
 * [Veronica Cartwright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Veronica%20Cartwright.png)
 * [Veronica Falcón](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Veronica%20Falc%C3%B3n.png)
+* [Veronika Zhuravleva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Veronika%20Zhuravleva.png)
 * [Veryl Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Veryl%20Jones.png)
 * [Verónica Echegui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Ver%C3%B3nica%20Echegui.png)
 * [Vetrimaaran](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vetrimaaran.png)
@@ -88,6 +89,7 @@
 * [Vikram](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vikram.png)
 * [Vikrant Massey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vikrant%20Massey.png)
 * [Vin Diesel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vin%20Diesel.png)
+* [Vina Asiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vina%20Asiki.png)
 * [Vinani Mwazanzale](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vinani%20Mwazanzale.png)
 * [Vinay Pathak](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vinay%20Pathak.png)
 * [Vince McMahon Sr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vince%20McMahon%20Sr..png)

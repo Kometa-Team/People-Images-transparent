@@ -1,0 +1,63 @@
+name: Update-Readmes
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  Update-Readmes:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Check Out Auto Readme Repo
+        uses: actions/checkout@v6
+        with:
+          repository: Kometa-Team/People-Auto-Readme
+
+      - name: Check Out Images Repo
+        uses: actions/checkout@v6
+        with:
+          path: imagerepo
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12.x"
+
+      - name: Install Requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Update Readmes
+        run: python auto_readme.py -s "transparent" -d "imagerepo"
+
+      - name: Check Diff
+        id: verify_diff
+        working-directory: ./imagerepo
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push Changes
+        if: steps.verify_diff.outputs.changed == 'true'
+        working-directory: ./imagerepo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Readme Update" -a
+          git push origin master
+
+      - name: Discord Failure Notification
+        uses: Kometa-Team/discord-notifications@master
+        if: failure()
+        with:
+          webhook_id_token: ${{ secrets.BUILD_WEBHOOK }}
+          message: ${{ vars.BUILD_FAILURE_ROLE }}
+          title: "${{ vars.NAME }}: ${{ vars.TEXT_COPYRIGHT }}"
+          url: https://github.com/Kometa-Team/${{ vars.NAME }}/actions/runs/${{ github.run_id }}
+          color: ${{ vars.COLOR_FAILURE }}
+          username: ${{ vars.BOT_NAME }}
+          avatar_url: ${{ vars.BOT_IMAGE }}
+          author: ${{ vars.GIT_NAME }}
+          author_icon_url: ${{ vars.GIT_IMAGE }}

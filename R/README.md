@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (863 Images)
+# Kometa People Images - Transparent (transparent) - R (864 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -16,6 +16,7 @@
 * [Rachael Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachael%20Taylor.png)
 * [Racheal Ofori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Racheal%20Ofori.png)
 * [Rachel Bilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Bilson.png)
+* [Rachel Blanchard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Blanchard.png)
 * [Rachel Bloom](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Bloom.png)
 * [Rachel Boston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Boston.png)
 * [Rachel Denning](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rachel%20Denning.png)

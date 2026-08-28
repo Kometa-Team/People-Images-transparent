@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (672 Images)
+# Kometa People Images - Transparent (transparent) - T (674 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20Love.png)
@@ -64,6 +64,7 @@
 * [Tan Songyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tan%20Songyun.png)
 * [Tan Yanyan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tan%20Yanyan.png)
 * [Tanezaki Atsumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tanezaki%20Atsumi.png)
+* [Tang Yixin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tang%20Yixin.png)
 * [Tania Mallet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tania%20Mallet.png)
 * [Tania Raymonde](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tania%20Raymonde.png)
 * [Tania Verafield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tania%20Verafield.png)
@@ -125,6 +126,7 @@
 * [Taylor Tomlinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taylor%20Tomlinson.png)
 * [Tchéky Karyo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tch%C3%A9ky%20Karyo.png)
 * [Te Kohe Tuhaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Te%20Kohe%20Tuhaka.png)
+* [Teagan Croft](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teagan%20Croft.png)
 * [Teal Marchande](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teal%20Marchande.png)
 * [Ted Alexandro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Ted%20Alexandro.png)
 * [Ted Billings](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Ted%20Billings.png)

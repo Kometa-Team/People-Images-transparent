@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1015 Images)
+# Kometa People Images - Transparent (transparent) - S (1017 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SUGA.png)
@@ -632,6 +632,7 @@
 * [Sofia Boutella](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Boutella.png)
 * [Sofia Carson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Carson.png)
 * [Sofia Coppola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Coppola.png)
+* [Sofia Hasmik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Hasmik.png)
 * [Sofia Helin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Helin.png)
 * [Sofia Hublitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Hublitz.png)
 * [Sofia Lesaffre](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sofia%20Lesaffre.png)
@@ -855,6 +856,7 @@
 * [Steve Tisch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Tisch.png)
 * [Steve Toussaint](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Toussaint.png)
 * [Steve Trevino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Trevino.png)
+* [Steve Way](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Way.png)
 * [Steve Whitmire](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Whitmire.png)
 * [Steve Zahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Zahn.png)
 * [Steve Zissis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Steve%20Zissis.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1144 Images)
+# Kometa People Images - Transparent (transparent) - A (1145 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -945,6 +945,7 @@
 * [Aramis Knight](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aramis%20Knight.png)
 * [Arata Iura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arata%20Iura.png)
 * [Aravind SA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aravind%20SA.png)
+* [Arcelia Ramírez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arcelia%20Ram%C3%ADrez.png)
 * [Archie Panjabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Archie%20Panjabi.png)
 * [Ardalan Esmaili](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ardalan%20Esmaili.png)
 * [Ari Aster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ari%20Aster.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (628 Images)
+# Kometa People Images - Transparent (transparent) - L (630 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -285,6 +285,7 @@
 * [Leslie Carrara-Rudolph](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Carrara-Rudolph.png)
 * [Leslie Dixon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Dixon.png)
 * [Leslie Grossman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Grossman.png)
+* [Leslie Hope](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Hope.png)
 * [Leslie Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Howard.png)
 * [Leslie Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Jones.png)
 * [Leslie Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leslie%20Mann.png)
@@ -451,6 +452,7 @@
 * [Lois Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lois%20Smith.png)
 * [Lokesh Kanagaraj](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lokesh%20Kanagaraj.png)
 * [Lola Forner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lola%20Forner.png)
+* [Lola Petticrew](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lola%20Petticrew.png)
 * [Loletta Lee Lai-Chun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Loletta%20Lee%20Lai-Chun.png)
 * [Lombardo Boyar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lombardo%20Boyar.png)
 * [Lon Chaney Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lon%20Chaney%20Jr..png)

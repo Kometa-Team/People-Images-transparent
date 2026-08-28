@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (871 Images)
+# Kometa People Images - Transparent (transparent) - C (872 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -559,6 +559,7 @@
 * [Christoph Waltz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christoph%20Waltz.png)
 * [Christoph von Friedl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christoph%20von%20Friedl.png)
 * [Christophe Gans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christophe%20Gans.png)
+* [Christopher Abbott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christopher%20Abbott.png)
 * [Christopher Berry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christopher%20Berry.png)
 * [Christopher Connelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christopher%20Connelly.png)
 * [Christopher Convery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Christopher%20Convery.png)

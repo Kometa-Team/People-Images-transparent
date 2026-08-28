@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (156 Images)
+# Kometa People Images - Transparent (transparent) - V (158 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vaibhav%20Sethia.png)
@@ -17,6 +17,7 @@
 * [Valerie Wildman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerie%20Wildman.png)
 * [Valerio Aprea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerio%20Aprea.png)
 * [Valerio Mastandrea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valerio%20Mastandrea.png)
+* [Valorie Curry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Valorie%20Curry.png)
 * [Van Quattro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Van%20Quattro.png)
 * [Vance Gerry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vance%20Gerry.png)
 * [Vanessa Aspillaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vanessa%20Aspillaga.png)
@@ -150,6 +151,7 @@
 * [Vivica A. Fox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vivica%20A.%20Fox.png)
 * [Vivien Cardone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vivien%20Cardone.png)
 * [Vivien Lyra Blair](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vivien%20Lyra%20Blair.png)
+* [Vivienne Tien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vivienne%20Tien.png)
 * [Vladek Sheybal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vladek%20Sheybal.png)
 * [Vlasta Pospíšilová](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vlasta%20Posp%C3%AD%C5%A1ilov%C3%A1.png)
 * [Volker Bruch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Volker%20Bruch.png)

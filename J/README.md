@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1636 Images)
+# Kometa People Images - Transparent (transparent) - J (1638 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -121,6 +121,7 @@
 * [Jacob Tomuri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacob%20Tomuri.png)
 * [Jacob Tremblay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacob%20Tremblay.png)
 * [Jacob Vargas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacob%20Vargas.png)
+* [Jacob Whiteduck-Lavoie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacob%20Whiteduck-Lavoie.png)
 * [Jacqueline Bassett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacqueline%20Bassett.png)
 * [Jacqueline Bisset](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacqueline%20Bisset.png)
 * [Jacqueline Ng Suet-Man](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jacqueline%20Ng%20Suet-Man.png)
@@ -344,6 +345,7 @@
 * [Jang Young-hwan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jang%20Young-hwan.png)
 * [Janina Elkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Janina%20Elkin.png)
 * [Janina Faye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Janina%20Faye.png)
+* [Jansen Panettiere](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jansen%20Panettiere.png)
 * [January Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/January%20Jones.png)
 * [Jarand Herdal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jarand%20Herdal.png)
 * [Jared Bush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jared%20Bush.png)

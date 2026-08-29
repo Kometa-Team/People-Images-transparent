@@ -1,10 +1,10 @@
-# Kometa People Images - Transparent (transparent) (13887 Images)
+# Kometa People Images - Transparent (transparent) (13890 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/'/Images/%27Weird%20Al%27%20Yankovic.png)
 </details>
-<details><summary><a href="A">A (1145 Images)</a></summary>
+<details><summary><a href="A">A (1147 Images)</a></summary>
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -204,6 +204,7 @@
 * [Aisha Tyler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aisha%20Tyler.png)
 * [Aishwarya Rajinikanth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aishwarya%20Rajinikanth.png)
 * [Aisling Bea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aisling%20Bea.png)
+* [Aisling Sharkey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aisling%20Sharkey.png)
 * [Aja Naomi King](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aja%20Naomi%20King.png)
 * [Ajay Devgn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ajay%20Devgn.png)
 * [Akaji Maro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akaji%20Maro.png)
@@ -768,6 +769,7 @@
 * [Angus Sampson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Angus%20Sampson.png)
 * [Angus Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Angus%20Young.png)
 * [Aniesh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aniesh.png)
+* [Anil Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anil%20Kapoor.png)
 * [Aniston, Jennifer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aniston%2C%20Jennifer.png)
 * [Anita Caprioli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anita%20Caprioli.png)
 * [Anita Ekberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anita%20Ekberg.png)
@@ -1837,7 +1839,7 @@
 * [Børge Ring](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C3%B8rge%20Ring.png)
 * [Břetislav Pojar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C5%99etislav%20Pojar.png)
 </details>
-<details><summary><a href="C">C (872 Images)</a></summary>
+<details><summary><a href="C">C (873 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -2242,6 +2244,7 @@
 * [Chloe Lea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Lea.png)
 * [Chloe Pirrie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Pirrie.png)
 * [Chloe Van Landschoot](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chloe%20Van%20Landschoot.png)
+* [Chloé Sweetlove](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%A9%20Sweetlove.png)
 * [Chloé Zhao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%A9%20Zhao.png)
 * [Chloë Grace Moretz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%AB%20Grace%20Moretz.png)
 * [Chloë Sevigny](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%AB%20Sevigny.png)

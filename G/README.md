@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (446 Images)
+# Kometa People Images - Transparent (transparent) - G (448 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -36,6 +36,7 @@
 * [Gale Anne Hurd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gale%20Anne%20Hurd.png)
 * [Galen Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Galen%20Howard.png)
 * [Galyn Susman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Galyn%20Susman.png)
+* [Gan Tingting](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gan%20Tingting.png)
 * [Gao Ye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gao%20Ye.png)
 * [Gareth Dunnet-Alcocer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gareth%20Dunnet-Alcocer.png)
 * [Gareth Edwards](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gareth%20Edwards.png)
@@ -243,6 +244,7 @@
 * [Gilbert R. Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gilbert%20R.%20Hill.png)
 * [Gill Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gill%20Dennis.png)
 * [Gilles Marini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gilles%20Marini.png)
+* [Gilles Sandoz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gilles%20Sandoz.png)
 * [Gillian Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gillian%20Anderson.png)
 * [Gillian Jacobs](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gillian%20Jacobs.png)
 * [Gillian Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gillian%20Jones.png)

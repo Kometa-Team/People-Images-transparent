@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1017 Images)
+# Kometa People Images - Transparent (transparent) - S (1018 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SUGA.png)
@@ -924,6 +924,7 @@
 * [Sumeet Vyas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sumeet%20Vyas.png)
 * [Sumi Shimamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sumi%20Shimamoto.png)
 * [Sumire Uesaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sumire%20Uesaka.png)
+* [Sun Qian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sun%20Qian.png)
 * [Sun Tianyu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sun%20Tianyu.png)
 * [Sung Dong-il](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sung%20Dong-il.png)
 * [Sung Kang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sung%20Kang.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (268 Images)
+# Kometa People Images - Transparent (transparent) - F (269 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)
@@ -245,6 +245,7 @@
 * [Freddie Highmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Freddie%20Highmore.png)
 * [Freddie Stroma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Freddie%20Stroma.png)
 * [Frederic Forrest](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frederic%20Forrest.png)
+* [Frederick Burlingham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frederick%20Burlingham.png)
 * [Frederick Lau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frederick%20Lau.png)
 * [Frederick Weller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frederick%20Weller.png)
 * [Frederick Wiseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frederick%20Wiseman.png)

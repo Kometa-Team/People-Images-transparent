@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (132 Images)
+# Kometa People Images - Transparent (transparent) - O (133 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O-T%20Fagbenle.png)
@@ -80,6 +80,7 @@
 * [Ono Daisuke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ono%20Daisuke.png)
 * [Ono Kenshou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ono%20Kenshou.png)
 * [Oohara Sayaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oohara%20Sayaka.png)
+* [Oona Chaplin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oona%20Chaplin.png)
 * [Oonishi Saori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oonishi%20Saori.png)
 * [Oosaka Ryouta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oosaka%20Ryouta.png)
 * [Ootsuka Akio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ootsuka%20Akio.png)

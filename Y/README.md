@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (158 Images)
+# Kometa People Images - Transparent (transparent) - Y (159 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yahya%20Abdul-Mateen%20II.png)
@@ -24,6 +24,7 @@
 * [Yasujiro Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasujiro%20Ozu.png)
 * [Yasujirō Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasujir%C5%8D%20Ozu.png)
 * [Yasumoto Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasumoto%20Hiroki.png)
+* [Yasuo Furuhata](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasuo%20Furuhata.png)
 * [Yaya DaCosta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yaya%20DaCosta.png)
 * [Yda Manzano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yda%20Manzano.png)
 * [Yeo Jin-goo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yeo%20Jin-goo.png)

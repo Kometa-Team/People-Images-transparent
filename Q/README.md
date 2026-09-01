@@ -1,5 +1,6 @@
-# Kometa People Images - Transparent (transparent) - Q (12 Images)
+# Kometa People Images - Transparent (transparent) - Q (13 Images)
 
+* [Qi Tianqing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Qi%20Tianqing.png)
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Queen%20Latifah.png)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quentin%20Dupieux.png)
 * [Quentin Tarantino Movies](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Q/Images/Quentin%20Tarantino%20Movies.png)

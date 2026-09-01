@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (489 Images)
+# Kometa People Images - Transparent (transparent) - E (491 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.J.%20Bonilla.png)
@@ -168,6 +168,7 @@
 * [Elizabeth Tulloch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Tulloch.png)
 * [Elizabeth Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Wilson.png)
 * [Elizabeth Yu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Yu.png)
+* [Elizaveta Neretin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizaveta%20Neretin.png)
 * [Ella Bright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Bright.png)
 * [Ella Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Hunt.png)
 * [Ella Jay Basco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ella%20Jay%20Basco.png)
@@ -224,6 +225,7 @@
 * [Emilie de Ravin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilie%20de%20Ravin.png)
 * [Emilio Echevarría](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilio%20Echevarr%C3%ADa.png)
 * [Emilio Estevez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilio%20Estevez.png)
+* [Emily Alatalo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Alatalo.png)
 * [Emily Baldoni](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Baldoni.png)
 * [Emily Beecham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Beecham.png)
 * [Emily Bergl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Bergl.png)

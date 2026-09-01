@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (167 Images)
+# Kometa People Images - Transparent (transparent) - I (168 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -153,6 +153,7 @@
 * [Iuri Saraiva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iuri%20Saraiva.png)
 * [Iurie Darie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iurie%20Darie.png)
 * [Ivan Atkinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ivan%20Atkinson.png)
+* [Ivan Lapikov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ivan%20Lapikov.png)
 * [Ivan Mbakop](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ivan%20Mbakop.png)
 * [Ivan Rassimov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ivan%20Rassimov.png)
 * [Ivan Reitman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ivan%20Reitman.png)

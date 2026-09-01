@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (247 Images)
+# Kometa People Images - Transparent (transparent) - W (248 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Earl%20Brown.png)
@@ -47,6 +47,7 @@
 * [Walton Goggins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Walton%20Goggins.png)
 * [Wan Qian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wan%20Qian.png)
 * [Wanda Sykes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wanda%20Sykes.png)
+* [Wang Anyu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Anyu.png)
 * [Wang Bing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Bing.png)
 * [Wang Churan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Churan.png)
 * [Wang Haozhen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wang%20Haozhen.png)

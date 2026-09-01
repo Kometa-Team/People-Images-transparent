@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1018 Images)
+# Kometa People Images - Transparent (transparent) - S (1020 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SUGA.png)
@@ -17,6 +17,7 @@
 * [Saffron Hocking](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Saffron%20Hocking.png)
 * [Sahil Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sahil%20Shah.png)
 * [Sai-Kit Yung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sai-Kit%20Yung.png)
+* [Sairam Isayeva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sairam%20Isayeva.png)
 * [Saitou Souma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Saitou%20Souma.png)
 * [Sajid Nadiadwala](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sajid%20Nadiadwala.png)
 * [Sajid Varda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sajid%20Varda.png)
@@ -117,6 +118,7 @@
 * [Samuel Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Jackson.png)
 * [Samuel Joslin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Joslin.png)
 * [Samuel L. Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20L.%20Jackson.png)
+* [Samuel Monroe Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Monroe%20Jr..png)
 * [Samuel S. Hinds](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20S.%20Hinds.png)
 * [Samuel West](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20West.png)
 * [Samuel Witwer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Witwer.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (836 Images)
+# Kometa People Images - Transparent (transparent) - D (837 Images)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20A.%20Pennebaker.png)
 * [D. B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D.%20B.%20Woodside.png)
@@ -831,6 +831,7 @@
 * [Dylan Minnette](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Minnette.png)
 * [Dylan Moran](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Moran.png)
 * [Dylan O'Brien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20O%27Brien.png)
+* [Dylan Rourke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Rourke.png)
 * [Dylan Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Smith.png)
 * [Dylan Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Walsh.png)
 * [Dylan Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Wang.png)

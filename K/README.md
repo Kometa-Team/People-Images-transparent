@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (697 Images)
+# Kometa People Images - Transparent (transparent) - K (698 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -608,6 +608,7 @@
 * [Koyama Rikiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koyama%20Rikiya.png)
 * [Koyasu Takehito](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koyasu%20Takehito.png)
 * [Koyu Rankin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Koyu%20Rankin.png)
+* [Kozue Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kozue%20Tanaka.png)
 * [Kris Hitchen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kris%20Hitchen.png)
 * [Kris Kristofferson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kris%20Kristofferson.png)
 * [Kris Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kris%20Marshall.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1147 Images)
+# Kometa People Images - Transparent (transparent) - A (1149 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -57,6 +57,7 @@
 * [Abhin Galeya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abhin%20Galeya.png)
 * [Abhishek Pathak](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abhishek%20Pathak.png)
 * [Abigail Breslin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abigail%20Breslin.png)
+* [Abigail Morris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abigail%20Morris.png)
 * [Abigail Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abigail%20Spencer.png)
 * [Abraham Benrubi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abraham%20Benrubi.png)
 * [Abraham Popoola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Abraham%20Popoola.png)
@@ -525,6 +526,7 @@
 * [Amanda Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Burton.png)
 * [Amanda Bynes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Bynes.png)
 * [Amanda Chiu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Chiu.png)
+* [Amanda Collin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Collin.png)
 * [Amanda Donohoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Donohoe.png)
 * [Amanda Foreman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Foreman.png)
 * [Amanda Lucas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amanda%20Lucas.png)

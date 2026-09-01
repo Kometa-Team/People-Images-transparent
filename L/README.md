@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (630 Images)
+# Kometa People Images - Transparent (transparent) - L (631 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -421,6 +421,7 @@
 * [Liu Shishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Shishi.png)
 * [Liu Siwei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Siwei.png)
 * [Liu Tao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Tao.png)
+* [Liu Xiaobei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Xiaobei.png)
 * [Liu Yifei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Yifei.png)
 * [Liu Yuning](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Yuning.png)
 * [Liv Lisa Fries](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liv%20Lisa%20Fries.png)

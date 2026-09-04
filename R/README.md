@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (912 Images)
+# Kometa People Images - Transparent (transparent) - R (913 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -672,6 +672,7 @@
 * [Roland Emmerich](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roland%20Emmerich.png)
 * [Roland Kibbee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roland%20Kibbee.png)
 * [Roland Møller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roland%20M%C3%B8ller.png)
+* [Roland Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roland%20Winters.png)
 * [Rolando Boyce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rolando%20Boyce.png)
 * [Rolf Lassgård](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rolf%20Lassg%C3%A5rd.png)
 * [Rolf de Heer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rolf%20de%20Heer.png)

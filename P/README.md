@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (577 Images)
+# Kometa People Images - Transparent (transparent) - P (578 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.J.%20Byrne.png)
@@ -164,6 +164,7 @@
 * [Paul Briggs](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Briggs.png)
 * [Paul Brizzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Brizzi.png)
 * [Paul Brooke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Brooke.png)
+* [Paul Calderon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Calderon.png)
 * [Paul Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Campbell.png)
 * [Paul Chowdhry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Chowdhry.png)
 * [Paul Collett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Paul%20Collett.png)

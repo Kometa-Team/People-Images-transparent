@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (932 Images)
+# Kometa People Images - Transparent (transparent) - C (934 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -379,6 +379,7 @@
 * [Chen Heyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Heyi.png)
 * [Chen Hsin-I](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Hsin-I.png)
 * [Chen Kaige](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Kaige.png)
+* [Chen Kuan-Tai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Kuan-Tai.png)
 * [Chen Kun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Kun.png)
 * [Chen Xiaoyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Xiaoyun.png)
 * [Chen Xingxu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chen%20Xingxu.png)
@@ -876,6 +877,7 @@
 * [Courtney Eaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Eaton.png)
 * [Courtney Henggeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Henggeler.png)
 * [Courtney Lauren Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Lauren%20Penn.png)
+* [Courtney Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Love.png)
 * [Courtney Thorne-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Courtney%20Thorne-Smith.png)
 * [Craig Austin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Austin.png)
 * [Craig Brewer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Brewer.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1740 Images)
+# Kometa People Images - Transparent (transparent) - J (1741 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -8,6 +8,7 @@
 * [J. Lee Thompson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20Lee%20Thompson.png)
 * [J. Michael Hunter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20Michael%20Hunter.png)
 * [J. Michael Straczynski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20Michael%20Straczynski.png)
+* [J. Miles Dale](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20Miles%20Dale.png)
 * [J. Neilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20Neilson.png)
 * [J. Pat O'Malley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20Pat%20O%27Malley.png)
 * [J. R. R. Tolkien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20R.%20R.%20Tolkien.png)

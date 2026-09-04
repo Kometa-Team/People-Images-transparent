@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (722 Images)
+# Kometa People Images - Transparent (transparent) - B (724 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -245,6 +245,7 @@
 * [Bibo Bergeron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bibo%20Bergeron.png)
 * [Biff Wiff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Biff%20Wiff.png)
 * [Bijou Phillips](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bijou%20Phillips.png)
+* [Bilal Hasna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bilal%20Hasna.png)
 * [Bilall Fallah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bilall%20Fallah.png)
 * [Bill Allison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Allison.png)
 * [Bill Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Anderson.png)
@@ -536,6 +537,7 @@
 * [Brian Grazer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Grazer.png)
 * [Brian Hayes Currie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Hayes%20Currie.png)
 * [Brian Helgeland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Helgeland.png)
+* [Brian Henson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Henson.png)
 * [Brian Herring](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Herring.png)
 * [Brian Hooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Hooks.png)
 * [Brian Huskey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Brian%20Huskey.png)

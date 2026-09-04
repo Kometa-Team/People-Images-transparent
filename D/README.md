@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (885 Images)
+# Kometa People Images - Transparent (transparent) - D (887 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -389,6 +389,7 @@
 * [David Hornsby](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Hornsby.png)
 * [David Hugh Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Hugh%20Jones.png)
 * [David Hyde Pierce](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Hyde%20Pierce.png)
+* [David Janssen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Janssen.png)
 * [David Jason](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Jason.png)
 * [David Kallaway](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Kallaway.png)
 * [David Kaye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Kaye.png)
@@ -428,6 +429,7 @@
 * [David Nykl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Nykl.png)
 * [David O'Hara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20O%27Hara.png)
 * [David O. Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20O.%20Russell.png)
+* [David O. Selznick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20O.%20Selznick.png)
 * [David Ogden Stiers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Ogden%20Stiers.png)
 * [David Ondříček](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Ond%C5%99%C3%AD%C4%8Dek.png)
 * [David Otunga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/David%20Otunga.png)

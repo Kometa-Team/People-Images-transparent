@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (724 Images)
+# Kometa People Images - Transparent (transparent) - B (725 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -166,6 +166,7 @@
 * [Ben Wheatley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Wheatley.png)
 * [Ben Whishaw](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Whishaw.png)
 * [Ben Willbond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Ben%20Willbond.png)
+* [Benedetta Porcaroli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benedetta%20Porcaroli.png)
 * [Benedict Cumberbatch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benedict%20Cumberbatch.png)
 * [Benedict Samuel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benedict%20Samuel.png)
 * [Benedict Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benedict%20Taylor.png)

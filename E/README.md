@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (529 Images)
+# Kometa People Images - Transparent (transparent) - E (531 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.%20G.%20Daily.png)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -105,7 +105,9 @@
 * [Ehren Kruger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ehren%20Kruger.png)
 * [Ehren McGhehey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ehren%20McGhehey.png)
 * [Ei Aoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ei%20Aoki.png)
+* [Eiji Funakoshi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eiji%20Funakoshi.png)
 * [Eiji Gō](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eiji%20G%C5%8D.png)
+* [Eiko Masuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eiko%20Masuyama.png)
 * [Eileen Atkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eileen%20Atkins.png)
 * [Eion Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eion%20Bailey.png)
 * [Eisner und Fellner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eisner%20und%20Fellner.png)

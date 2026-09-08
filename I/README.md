@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (186 Images)
+# Kometa People Images - Transparent (transparent) - I (189 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -43,6 +43,7 @@
 * [Ibrahima Gueye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ibrahima%20Gueye.png)
 * [Ice Cube](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ice%20Cube.png)
 * [Ice-T](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ice-T.png)
+* [Ichirō Zaitsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ichir%C5%8D%20Zaitsu.png)
 * [Ida Galli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ida%20Galli.png)
 * [Ida Lupino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ida%20Lupino.png)
 * [Iddo Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iddo%20Goldberg.png)
@@ -108,6 +109,7 @@
 * [Irene Wan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irene%20Wan.png)
 * [Iron Eyes Cody](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iron%20Eyes%20Cody.png)
 * [Irrfan Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irrfan%20Khan.png)
+* [Irshad](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irshad.png)
 * [Irvin Allen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irvin%20Allen.png)
 * [Irvin Kershner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irvin%20Kershner.png)
 * [Irving Bacon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Irving%20Bacon.png)
@@ -185,4 +187,5 @@
 * [Izabella Alvarez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izabella%20Alvarez.png)
 * [Izabella Scorupco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izabella%20Scorupco.png)
 * [Izo Hashimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izo%20Hashimoto.png)
+* [Izumi Ashikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izumi%20Ashikawa.png)
 * [Izumi Shima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Izumi%20Shima.png)

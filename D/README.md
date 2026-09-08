@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (887 Images)
+# Kometa People Images - Transparent (transparent) - D (889 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -547,6 +547,7 @@
 * [Dee Bradley Baker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dee%20Bradley%20Baker.png)
 * [Dee Wallace](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dee%20Wallace.png)
 * [Deep Roy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deep%20Roy.png)
+* [Deidre Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deidre%20Hall.png)
 * [Deirdre O'Connell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deirdre%20O%27Connell.png)
 * [Del Close](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Del%20Close.png)
 * [Delane Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Delane%20Matthews.png)
@@ -647,6 +648,7 @@
 * [Dhanush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dhanush.png)
 * [Dhanushka Gunathilake](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dhanushka%20Gunathilake.png)
 * [Dharmadasa Kuruppu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dharmadasa%20Kuruppu.png)
+* [Dharmajan Bolgatty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dharmajan%20Bolgatty.png)
 * [Di Zhu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Di%20Zhu.png)
 * [Diana Coupland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diana%20Coupland.png)
 * [Diana Darrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Diana%20Darrin.png)

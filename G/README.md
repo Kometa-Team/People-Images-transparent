@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (477 Images)
+# Kometa People Images - Transparent (transparent) - G (479 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -20,6 +20,7 @@
 * [Gabriele Ferzetti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriele%20Ferzetti.png)
 * [Gabriele Lavia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriele%20Lavia.png)
 * [Gabriele Mainetti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriele%20Mainetti.png)
+* [Gabriele Muccino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriele%20Muccino.png)
 * [Gabriele Salvatores](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriele%20Salvatores.png)
 * [Gabriele Tinti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriele%20Tinti.png)
 * [Gabriella Wilde](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriella%20Wilde.png)
@@ -194,6 +195,7 @@
 * [George Tillman Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Tillman%20Jr..png)
 * [George Wendt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Wendt.png)
 * [George Zucco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Zucco.png)
+* [Georges Arnaud](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20Arnaud.png)
 * [Georges Khabbaz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20Khabbaz.png)
 * [Georges Lopez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20Lopez.png)
 * [Georges Méliès](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20M%C3%A9li%C3%A8s.png)

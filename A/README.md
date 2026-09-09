@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1248 Images)
+# Kometa People Images - Transparent (transparent) - A (1250 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -347,6 +347,7 @@
 * [Alejandro Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20Jodorowsky.png)
 * [Aleks Paunovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleks%20Paunovic.png)
 * [Aleksandr Kuznetsov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksandr%20Kuznetsov.png)
+* [Aleksandr Rogozhkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksandr%20Rogozhkin.png)
 * [Aleksey Serebryakov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksey%20Serebryakov.png)
 * [Aleksey Sharanin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksey%20Sharanin.png)
 * [Alena Mihulová](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alena%20Mihulov%C3%A1.png)
@@ -1106,6 +1107,7 @@
 * [Arthur Tovey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arthur%20Tovey.png)
 * [Artie Lange](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Artie%20Lange.png)
 * [Artur Brauner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Artur%20Brauner.png)
+* [Arturo Brachetti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arturo%20Brachetti.png)
 * [Arturo Castro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arturo%20Castro.png)
 * [Arturo Dominici](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arturo%20Dominici.png)
 * [Arturo Valls](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arturo%20Valls.png)

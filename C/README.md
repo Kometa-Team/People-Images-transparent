@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (937 Images)
+# Kometa People Images - Transparent (transparent) - C (939 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -461,6 +461,7 @@
 * [Chris Bender](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Bender.png)
 * [Chris Brinker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Brinker.png)
 * [Chris Buck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Buck.png)
+* [Chris Caldovino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Caldovino.png)
 * [Chris Cavener](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Cavener.png)
 * [Chris Chalk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Chalk.png)
 * [Chris Claremont](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chris%20Claremont.png)
@@ -712,6 +713,7 @@
 * [Claude Berri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Berri.png)
 * [Claude Chabrol](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Chabrol.png)
 * [Claude Lelouch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Lelouch.png)
+* [Claude Nougaro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Nougaro.png)
 * [Claude Poirier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Poirier.png)
 * [Claude Sautet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Sautet.png)
 * [Claude Starling](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Claude%20Starling.png)

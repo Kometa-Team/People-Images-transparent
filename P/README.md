@@ -1,5 +1,6 @@
-# Kometa People Images - Transparent (transparent) - P (580 Images)
+# Kometa People Images - Transparent (transparent) - P (581 Images)
 
+* [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.%20D.%20James.png)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.J.%20Byrne.png)
 * [Pablo Derqui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pablo%20Derqui.png)

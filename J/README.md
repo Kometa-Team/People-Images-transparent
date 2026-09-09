@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1744 Images)
+# Kometa People Images - Transparent (transparent) - J (1745 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -210,6 +210,7 @@
 * [James Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Dean.png)
 * [James Denton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Denton.png)
 * [James Doohan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Doohan.png)
+* [James Drury](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Drury.png)
 * [James Earl Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Earl%20Jones.png)
 * [James Edward Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Edward%20Grant.png)
 * [James Faulkner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/James%20Faulkner.png)

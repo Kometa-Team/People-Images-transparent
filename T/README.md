@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (729 Images)
+# Kometa People Images - Transparent (transparent) - T (731 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -165,8 +165,10 @@
 * [Teeradon Supapunpinyo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Teeradon%20Supapunpinyo.png)
 * [Telly Savalas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Telly%20Savalas.png)
 * [Telma Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Telma%20Hopkins.png)
+* [Temper Vamsi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Temper%20Vamsi.png)
 * [Temuera Morrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Temuera%20Morrison.png)
 * [Tendo Nagenda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tendo%20Nagenda.png)
+* [Tenika Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tenika%20Davis.png)
 * [Tennessee Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tennessee%20Williams.png)
 * [Tenoch Huerta Mejía](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tenoch%20Huerta%20Mej%C3%ADa.png)
 * [Tensai Okamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tensai%20Okamura.png)

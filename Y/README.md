@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (197 Images)
+# Kometa People Images - Transparent (transparent) - Y (199 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Vijaya.png)
@@ -52,6 +52,7 @@
 * [Yogi Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yogi%20Babu.png)
 * [Yoji Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoji%20Tanaka.png)
 * [Yoji Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoji%20Yamada.png)
+* [Yoko Fujita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoko%20Fujita.png)
 * [Yoko Hikasa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoko%20Hikasa.png)
 * [Yoko Honna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoko%20Honna.png)
 * [Yoko Kawanami](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yoko%20Kawanami.png)
@@ -136,6 +137,7 @@
 * [Yuki Kazamatsuri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuki%20Kazamatsuri.png)
 * [Yuki Mamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuki%20Mamiya.png)
 * [Yuki Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuki%20Ono.png)
+* [Yuki Sakurai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuki%20Sakurai.png)
 * [Yuki Uchida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuki%20Uchida.png)
 * [Yukie Nakama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yukie%20Nakama.png)
 * [Yuko Araki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuko%20Araki.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (768 Images)
+# Kometa People Images - Transparent (transparent) - K (770 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -217,6 +217,7 @@
 * [Katsuhiro Otomo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katsuhiro%20Otomo.png)
 * [Katsuhiro Takei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katsuhiro%20Takei.png)
 * [Katsuhisa Houki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katsuhisa%20Houki.png)
+* [Katsuyori Shibata](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katsuyori%20Shibata.png)
 * [Katsuyuki Konishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katsuyuki%20Konishi.png)
 * [Katt Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katt%20Williams.png)
 * [Katy Breier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Katy%20Breier.png)
@@ -747,6 +748,7 @@
 * [Kyle Bornheimer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Bornheimer.png)
 * [Kyle Cassie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Cassie.png)
 * [Kyle Chandler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Chandler.png)
+* [Kyle Clark](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Clark.png)
 * [Kyle Gallner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Gallner.png)
 * [Kyle Gass](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Gass.png)
 * [Kyle Glenn Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Glenn%20Thomas.png)

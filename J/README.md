@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1745 Images)
+# Kometa People Images - Transparent (transparent) - J (1747 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -382,6 +382,7 @@
 * [Jarod Joseph](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jarod%20Joseph.png)
 * [Jarred Blancard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jarred%20Blancard.png)
 * [Jasmin Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jasmin%20Lawrence.png)
+* [Jasmine Blackborow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jasmine%20Blackborow.png)
 * [Jasmine Cephas Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jasmine%20Cephas%20Jones.png)
 * [Jasmine Trinca](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jasmine%20Trinca.png)
 * [Jasmyn Rae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jasmyn%20Rae.png)
@@ -1124,6 +1125,7 @@
 * [John Fusco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Fusco.png)
 * [John G. Avildsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20G.%20Avildsen.png)
 * [John Gallagher Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Gallagher%20Jr..png)
+* [John Galliano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Galliano.png)
 * [John Gatins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Gatins.png)
 * [John Gay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20Gay.png)
 * [John George](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/John%20George.png)

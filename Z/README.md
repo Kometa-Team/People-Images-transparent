@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (99 Images)
+# Kometa People Images - Transparent (transparent) - Z (100 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Baylin.png)
@@ -89,6 +89,7 @@
 * [Zoe Saldana](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoe%20Saldana.png)
 * [Zoe Saldaña](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoe%20Salda%C3%B1a.png)
 * [Zoey Deutch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoey%20Deutch.png)
+* [Zoie Palmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoie%20Palmer.png)
 * [Zola Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zola%20Williams.png)
 * [Zoltan Korda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoltan%20Korda.png)
 * [Zooey Deschanel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zooey%20Deschanel.png)

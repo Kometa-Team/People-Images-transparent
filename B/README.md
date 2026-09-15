@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (725 Images)
+# Kometa People Images - Transparent (transparent) - B (727 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -274,6 +274,7 @@
 * [Bill Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Johnson.png)
 * [Bill Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Kelly.png)
 * [Bill Kopp](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Kopp.png)
+* [Bill Kurtis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Kurtis.png)
 * [Bill Macy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Macy.png)
 * [Bill Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Maher.png)
 * [Bill Melendez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bill%20Melendez.png)
@@ -329,6 +330,7 @@
 * [Billy Zane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Billy%20Zane.png)
 * [Bing Crosby](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bing%20Crosby.png)
 * [Bing Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bing%20Wang.png)
+* [Binnie Barnes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Binnie%20Barnes.png)
 * [Binnur Kaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Binnur%20Kaya.png)
 * [Birce Akalay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Birce%20Akalay.png)
 * [Birgit Minichmayr](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Birgit%20Minichmayr.png)

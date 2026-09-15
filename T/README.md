@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (731 Images)
+# Kometa People Images - Transparent (transparent) - T (732 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -494,6 +494,7 @@
 * [Tom Segura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Segura.png)
 * [Tom Selleck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Selleck.png)
 * [Tom Shadyac](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Shadyac.png)
+* [Tom Sharp](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Sharp.png)
 * [Tom Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Silva.png)
 * [Tom Six](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Six.png)
 * [Tom Sizemore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tom%20Sizemore.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (693 Images)
+# Kometa People Images - Transparent (transparent) - L (695 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -39,6 +39,7 @@
 * [Lance E. Nichols](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lance%20E.%20Nichols.png)
 * [Lance Gross](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lance%20Gross.png)
 * [Lance Henriksen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lance%20Henriksen.png)
+* [Lance Oppenheim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lance%20Oppenheim.png)
 * [Lance Reddick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lance%20Reddick.png)
 * [Lance Woods](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lance%20Woods.png)
 * [Lane Edwards](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lane%20Edwards.png)
@@ -579,6 +580,7 @@
 * [Lowell Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lowell%20Dean.png)
 * [Lowell Ganz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lowell%20Ganz.png)
 * [Loyiso Gola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Loyiso%20Gola.png)
+* [Loïc Corbery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lo%C3%AFc%20Corbery.png)
 * [Lu Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Han.png)
 * [Lu Wei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Wei.png)
 * [Lu Yuxiao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Yuxiao.png)

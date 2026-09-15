@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (174 Images)
+# Kometa People Images - Transparent (transparent) - V (175 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vadivelu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vadivelu.png)
@@ -85,6 +85,7 @@
 * [Victoria Justice](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Victoria%20Justice.png)
 * [Victoria Luengo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Victoria%20Luengo.png)
 * [Victoria Pedretti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Victoria%20Pedretti.png)
+* [Victoria Song](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Victoria%20Song.png)
 * [Victoria Yeates](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Victoria%20Yeates.png)
 * [Vidhu Vinod Chopra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vidhu%20Vinod%20Chopra.png)
 * [Vidya Balan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vidya%20Balan.png)

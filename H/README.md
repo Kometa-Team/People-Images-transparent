@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (419 Images)
+# Kometa People Images - Transparent (transparent) - H (421 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -117,6 +117,7 @@
 * [Harry Earles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Earles.png)
 * [Harry Enfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Enfield.png)
 * [Harry Goaz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Goaz.png)
+* [Harry Goodwins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Goodwins.png)
 * [Harry Gregson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Gregson.png)
 * [Harry Hadden-Paton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Hadden-Paton.png)
 * [Harry Holland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harry%20Holland.png)
@@ -372,6 +373,7 @@
 * [Hoyte van Hoytema](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hoyte%20van%20Hoytema.png)
 * [Hrithik Roshan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hrithik%20Roshan.png)
 * [Hu Jun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hu%20Jun.png)
+* [Hu Xianxu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hu%20Xianxu.png)
 * [Hu Yaozhi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hu%20Yaozhi.png)
 * [Hu Yitian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hu%20Yitian.png)
 * [Hualālai Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hual%C4%81lai%20Chung.png)

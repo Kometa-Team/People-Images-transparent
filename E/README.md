@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (531 Images)
+# Kometa People Images - Transparent (transparent) - E (533 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.%20G.%20Daily.png)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -166,6 +166,7 @@
 * [Elizabeth Gracen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Gracen.png)
 * [Elizabeth Gwynne Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Gwynne%20Wilson.png)
 * [Elizabeth Healey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Healey.png)
+* [Elizabeth Holmes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Holmes.png)
 * [Elizabeth Hurley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Hurley.png)
 * [Elizabeth Judd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Judd.png)
 * [Elizabeth Lail](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Lail.png)
@@ -176,6 +177,7 @@
 * [Elizabeth Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Mitchell.png)
 * [Elizabeth Olsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Olsen.png)
 * [Elizabeth Pan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Pan.png)
+* [Elizabeth Patterson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Patterson.png)
 * [Elizabeth Perkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Perkins.png)
 * [Elizabeth Regen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Regen.png)
 * [Elizabeth Rodriguez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Elizabeth%20Rodriguez.png)

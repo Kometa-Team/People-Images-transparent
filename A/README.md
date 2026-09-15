@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1250 Images)
+# Kometa People Images - Transparent (transparent) - A (1252 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -257,6 +257,7 @@
 * [Akshay Kumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akshay%20Kumar.png)
 * [Akshay Kumar1](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akshay%20Kumar1.png)
 * [Al Cerullo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Cerullo.png)
+* [Al Jean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Jean.png)
 * [Al Leong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Leong.png)
 * [Al Lettieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Lettieri.png)
 * [Al Madrigal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Al%20Madrigal.png)
@@ -898,6 +899,7 @@
 * [AnnaSophia Robb](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/AnnaSophia%20Robb.png)
 * [Annabel Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabel%20Jones.png)
 * [Annabel Scholey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabel%20Scholey.png)
+* [Annabel Wolfe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabel%20Wolfe.png)
 * [Annabella Sciorra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabella%20Sciorra.png)
 * [Annabelle Wallis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabelle%20Wallis.png)
 * [Annabeth Gish](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Annabeth%20Gish.png)

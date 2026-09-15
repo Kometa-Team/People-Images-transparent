@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (284 Images)
+# Kometa People Images - Transparent (transparent) - F (285 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)
@@ -139,6 +139,7 @@
 * [Frances Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frances%20Turner.png)
 * [Frances de la Tour](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Frances%20de%20la%20Tour.png)
 * [Francesca Xuereb](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Francesca%20Xuereb.png)
+* [Francesco Anniballi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Francesco%20Anniballi.png)
 * [Francesco Barilli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Francesco%20Barilli.png)
 * [Francesco Bauco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Francesco%20Bauco.png)
 * [Francesco Munzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Francesco%20Munzi.png)

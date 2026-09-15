@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (479 Images)
+# Kometa People Images - Transparent (transparent) - G (480 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -474,6 +474,7 @@
 * [Gábor Máté](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A1bor%20M%C3%A1t%C3%A9.png)
 * [Gérard Brach](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A9rard%20Brach.png)
 * [Gérard Depardieu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A9rard%20Depardieu.png)
+* [Gérard Krawczyk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A9rard%20Krawczyk.png)
 * [Gérard Lanvin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A9rard%20Lanvin.png)
 * [Géza von Cziffra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%A9za%20von%20Cziffra.png)
 * [Götz Otto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G%C3%B6tz%20Otto.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (265 Images)
+# Kometa People Images - Transparent (transparent) - W (266 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Earl%20Brown.png)
@@ -203,6 +203,7 @@
 * [William Mueller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Mueller.png)
 * [William Nadylam](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Nadylam.png)
 * [William Nicholson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Nicholson.png)
+* [William Powell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Powell.png)
 * [William Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Roberts.png)
 * [William Rose](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Rose.png)
 * [William Russ](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William%20Russ.png)

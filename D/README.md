@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (893 Images)
+# Kometa People Images - Transparent (transparent) - D (894 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -207,6 +207,7 @@
 * [Danielle Rose Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Rose%20Russell.png)
 * [Danielle Sanchez-Witzel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Sanchez-Witzel.png)
 * [Danielle Tabor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danielle%20Tabor.png)
+* [Danila Kozlovsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danila%20Kozlovsky.png)
 * [Danishka Esterhazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danishka%20Esterhazy.png)
 * [Danièle Huillet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dani%C3%A8le%20Huillet.png)
 * [Danny Aiello](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Aiello.png)

@@ -1,8 +1,9 @@
-# Kometa People Images - Transparent (transparent) - S (1118 Images)
+# Kometa People Images - Transparent (transparent) - S (1120 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
+* [SANA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SANA.png)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/SUGA.png)
 * [Saagar Shaikh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Saagar%20Shaikh.png)
 * [Saamer Usmani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Saamer%20Usmani.png)
@@ -516,6 +517,7 @@
 * [Sheri Moon Zombie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sheri%20Moon%20Zombie.png)
 * [Sheridan Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sheridan%20Smith.png)
 * [Sherilyn Fenn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sherilyn%20Fenn.png)
+* [Sherman Hemsley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sherman%20Hemsley.png)
 * [Sherri Shepherd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sherri%20Shepherd.png)
 * [Sherrod Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sherrod%20Brown.png)
 * [Sherry Lynn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sherry%20Lynn.png)

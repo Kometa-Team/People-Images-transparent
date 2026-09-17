@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (421 Images)
+# Kometa People Images - Transparent (transparent) - H (422 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -345,6 +345,7 @@
 * [Honor Blackman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Honor%20Blackman.png)
 * [Honor Kneafsey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Honor%20Kneafsey.png)
 * [Hoon Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hoon%20Lee.png)
+* [Hope Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hope%20Clarke.png)
 * [Hope Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hope%20Davis.png)
 * [Hope Easterbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hope%20Easterbrook.png)
 * [Hope Levy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hope%20Levy.png)

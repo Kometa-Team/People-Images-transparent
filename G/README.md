@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (480 Images)
+# Kometa People Images - Transparent (transparent) - G (481 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -7,6 +7,7 @@
 * [Gabourey Sidibe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabourey%20Sidibe.png)
 * [Gabriel Akuwudike](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Akuwudike.png)
 * [Gabriel Basso](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Basso.png)
+* [Gabriel Beristain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Beristain.png)
 * [Gabriel Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Byrne.png)
 * [Gabriel Casseus](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Casseus.png)
 * [Gabriel Chavarria](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Chavarria.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (581 Images)
+# Kometa People Images - Transparent (transparent) - P (582 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.%20D.%20James.png)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -518,6 +518,7 @@
 * [Pierre Taki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Taki.png)
 * [Pierre Tchernia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Tchernia.png)
 * [Pierre Tornade](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Tornade.png)
+* [Pierre Vaneck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Vaneck.png)
 * [Piers Morgan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Piers%20Morgan.png)
 * [Pietro De Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pietro%20De%20Silva.png)
 * [Pilar Savone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pilar%20Savone.png)

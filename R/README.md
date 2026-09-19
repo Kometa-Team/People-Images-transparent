@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (918 Images)
+# Kometa People Images - Transparent (transparent) - R (919 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -911,6 +911,7 @@
 * [Ryou Horikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryou%20Horikawa.png)
 * [Ryouta Oosaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryouta%20Oosaka.png)
 * [Ryu Jun-yeol](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryu%20Jun-yeol.png)
+* [Ryuhei Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryuhei%20Matsuda.png)
 * [Ryuichi Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryuichi%20Hiroki.png)
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryunosuke%20Kamiki.png)
 * [Ryusei Nakao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ryusei%20Nakao.png)

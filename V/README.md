@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (175 Images)
+# Kometa People Images - Transparent (transparent) - V (177 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vadivelu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vadivelu.png)
@@ -48,6 +48,7 @@
 * [Vera Farmiga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera%20Farmiga.png)
 * [Vera Glagoleva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera%20Glagoleva.png)
 * [Vera Vitali](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera%20Vitali.png)
+* [Vera-Ellen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vera-Ellen.png)
 * [Verne Troyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Verne%20Troyer.png)
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vernon%20Dobtcheff.png)
 * [Veronica Cartwright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Veronica%20Cartwright.png)
@@ -111,6 +112,7 @@
 * [Vince Vaughn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vince%20Vaughn.png)
 * [Vincent Cao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Cao.png)
 * [Vincent Cassel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Cassel.png)
+* [Vincent Chansard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Chansard.png)
 * [Vincent Curatola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Curatola.png)
 * [Vincent D'Onofrio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20D%27Onofrio.png)
 * [Vincent Fuentes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vincent%20Fuentes.png)

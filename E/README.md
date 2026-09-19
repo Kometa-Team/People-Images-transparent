@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (533 Images)
+# Kometa People Images - Transparent (transparent) - E (534 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.%20G.%20Daily.png)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -374,6 +374,7 @@
 * [Eric McLeod](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20McLeod.png)
 * [Eric Newman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Newman.png)
 * [Eric Pearson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Pearson.png)
+* [Eric Porter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Porter.png)
 * [Eric Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Roberts.png)
 * [Eric Roth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Roth.png)
 * [Eric Steelberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Steelberg.png)

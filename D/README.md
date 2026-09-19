@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (894 Images)
+# Kometa People Images - Transparent (transparent) - D (895 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -496,6 +496,7 @@
 * [Dawn Dininger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20Dininger.png)
 * [Dawn French](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20French.png)
 * [Dawn Olivieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20Olivieri.png)
+* [Dawn Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawn%20Wells.png)
 * [Dawnn Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dawnn%20Lewis.png)
 * [Daws Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daws%20Butler.png)
 * [Dax Flame](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dax%20Flame.png)

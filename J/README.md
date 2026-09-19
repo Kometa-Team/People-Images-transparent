@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1749 Images)
+# Kometa People Images - Transparent (transparent) - J (1751 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -366,6 +366,7 @@
 * [Jang Tae Hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jang%20Tae%20Hoon.png)
 * [Jang Yo-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jang%20Yo-hoon.png)
 * [Jang Young-hwan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jang%20Young-hwan.png)
+* [Janice Karman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Janice%20Karman.png)
 * [Janina Elkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Janina%20Elkin.png)
 * [Janina Faye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Janina%20Faye.png)
 * [Jansen Panettiere](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jansen%20Panettiere.png)
@@ -446,6 +447,7 @@
 * [Jason Whyte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jason%20Whyte.png)
 * [Jason Wiles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jason%20Wiles.png)
 * [Jason Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jason%20Wong.png)
+* [Jasper Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jasper%20Jones.png)
 * [Jaume Balagueró](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jaume%20Balaguer%C3%B3.png)
 * [Jaume Collet-Serra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jaume%20Collet-Serra.png)
 * [Javed Akhtar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Javed%20Akhtar.png)

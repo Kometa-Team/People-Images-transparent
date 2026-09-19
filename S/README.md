@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1120 Images)
+# Kometa People Images - Transparent (transparent) - S (1122 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -119,6 +119,7 @@
 * [Sammi Rotibi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sammi%20Rotibi.png)
 * [Sammo Hung Kam-Bo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sammo%20Hung%20Kam-Bo.png)
 * [Sammo Hung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sammo%20Hung.png)
+* [Sammy Davis Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sammy%20Davis%20Jr..png)
 * [Samuel Adewunmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Adewunmi.png)
 * [Samuel Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Anderson.png)
 * [Samuel Blenkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samuel%20Blenkin.png)
@@ -623,6 +624,7 @@
 * [Sierra McClain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sierra%20McClain.png)
 * [Sierra McCormick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sierra%20McCormick.png)
 * [Sigourney Weaver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sigourney%20Weaver.png)
+* [Sigrid Valdis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sigrid%20Valdis.png)
 * [Silambarasan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Silambarasan.png)
 * [Silas Carson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Silas%20Carson.png)
 * [Silence Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Silence%20Wang.png)

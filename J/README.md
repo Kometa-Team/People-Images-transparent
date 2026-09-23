@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1751 Images)
+# Kometa People Images - Transparent (transparent) - J (1753 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -371,6 +371,7 @@
 * [Janina Faye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Janina%20Faye.png)
 * [Jansen Panettiere](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jansen%20Panettiere.png)
 * [January Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/January%20Jones.png)
+* [Januel Mercado](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Januel%20Mercado.png)
 * [Jarand Herdal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jarand%20Herdal.png)
 * [Jared Bush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jared%20Bush.png)
 * [Jared Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jared%20Harris.png)
@@ -763,6 +764,7 @@
 * [Jesse V. Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jesse%20V.%20Johnson.png)
 * [Jesse White](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jesse%20White.png)
 * [Jessica Alba](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jessica%20Alba.png)
+* [Jessica Barden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jessica%20Barden.png)
 * [Jessica Biel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jessica%20Biel.png)
 * [Jessica Brown Findlay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jessica%20Brown%20Findlay.png)
 * [Jessica Camacho](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jessica%20Camacho.png)

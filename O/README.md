@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (147 Images)
+# Kometa People Images - Transparent (transparent) - O (148 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O-T%20Fagbenle.png)
@@ -15,6 +15,7 @@
 * [Oh Eui-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Eui-sik.png)
 * [Oh Joo-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Joo-ha.png)
 * [Oh Jung-hae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Jung-hae.png)
+* [Oh Jung-se](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Jung-se.png)
 * [Oh Man-seok](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Man-seok.png)
 * [Oh Na-ra](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20Na-ra.png)
 * [Oh San-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oh%20San-ha.png)

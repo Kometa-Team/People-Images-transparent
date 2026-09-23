@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1122 Images)
+# Kometa People Images - Transparent (transparent) - S (1123 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -588,6 +588,7 @@
 * [Shree Troietta Crooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shree%20Troietta%20Crooks.png)
 * [Shriya Pilgaonkar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shriya%20Pilgaonkar.png)
 * [Shu Qi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shu%20Qi.png)
+* [Shuichi Ikeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuichi%20Ikeda.png)
 * [Shuichi Okita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuichi%20Okita.png)
 * [Shuko Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuko%20Murase.png)
 * [Shun Oguri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shun%20Oguri.png)

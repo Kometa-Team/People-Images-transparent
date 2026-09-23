@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1413 Images)
+# Kometa People Images - Transparent (transparent) - M (1414 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -632,6 +632,7 @@
 * [Matthew Bates](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Bates.png)
 * [Matthew Broderick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Broderick.png)
 * [Matthew Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Davis.png)
+* [Matthew Del Negro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Del%20Negro.png)
 * [Matthew Dennis Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Dennis%20Lewis.png)
 * [Matthew Fox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Fox.png)
 * [Matthew Goode](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Matthew%20Goode.png)

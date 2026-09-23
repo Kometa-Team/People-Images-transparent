@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (771 Images)
+# Kometa People Images - Transparent (transparent) - K (772 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -584,6 +584,7 @@
 * [Kimura Ryouhei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kimura%20Ryouhei.png)
 * [King Hu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/King%20Hu.png)
 * [King Vidor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/King%20Vidor.png)
+* [Kingdom Yuen King-Tan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kingdom%20Yuen%20King-Tan.png)
 * [Kingston Rumi Southwick](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kingston%20Rumi%20Southwick.png)
 * [Kinji Fukasaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kinji%20Fukasaku.png)
 * [Kinoko Nasu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kinoko%20Nasu.png)

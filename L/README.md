@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (695 Images)
+# Kometa People Images - Transparent (transparent) - L (696 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -361,6 +361,7 @@
 * [Liam Hemsworth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liam%20Hemsworth.png)
 * [Liam Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liam%20Hughes.png)
 * [Liam MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liam%20MacDonald.png)
+* [Liam McIntyre](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liam%20McIntyre.png)
 * [Liam Neeson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liam%20Neeson.png)
 * [Liam O'Brien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liam%20O%27Brien.png)
 * [Liani Samuel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liani%20Samuel.png)

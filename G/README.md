@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (482 Images)
+# Kometa People Images - Transparent (transparent) - G (483 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -203,6 +203,7 @@
 * [Georges Rivière](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20Rivi%C3%A8re.png)
 * [Georges Schwizgebel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20Schwizgebel.png)
 * [Georges St-Pierre](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georges%20St-Pierre.png)
+* [Georgi Burkov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgi%20Burkov.png)
 * [Georgia Goodman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgia%20Goodman.png)
 * [Georgia Meacham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgia%20Meacham.png)
 * [Georgia Oakley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georgia%20Oakley.png)

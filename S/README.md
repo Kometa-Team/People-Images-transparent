@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1125 Images)
+# Kometa People Images - Transparent (transparent) - S (1126 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -480,6 +480,7 @@
 * [Sharon Osbourne](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sharon%20Osbourne.png)
 * [Sharon Stone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sharon%20Stone.png)
 * [Sharon Washington](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sharon%20Washington.png)
+* [Shashank Yeleti](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shashank%20Yeleti.png)
 * [Shathiga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shathiga.png)
 * [Shaun Benson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaun%20Benson.png)
 * [Shaun McKee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaun%20McKee.png)

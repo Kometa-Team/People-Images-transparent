@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (923 Images)
+# Kometa People Images - Transparent (transparent) - R (924 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -234,6 +234,7 @@
 * [Rena Takeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rena%20Takeda.png)
 * [Renate Reinsve](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Renate%20Reinsve.png)
 * [Renato Carpentieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Renato%20Carpentieri.png)
+* [Renato Castellani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Renato%20Castellani.png)
 * [Renato Polselli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Renato%20Polselli.png)
 * [Renato Rascel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Renato%20Rascel.png)
 * [Renato Salvatori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Renato%20Salvatori.png)

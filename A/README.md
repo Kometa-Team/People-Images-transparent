@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1256 Images)
+# Kometa People Images - Transparent (transparent) - A (1257 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -938,6 +938,7 @@
 * [Anoop Menon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anoop%20Menon.png)
 * [Anouk Aimée](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anouk%20Aim%C3%A9e.png)
 * [Anouk Christiansen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anouk%20Christiansen.png)
+* [Anri Katsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anri%20Katsu.png)
 * [Anri Suzuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anri%20Suzuki.png)
 * [Ansel Elgort](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ansel%20Elgort.png)
 * [Ansley Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ansley%20Gordon.png)

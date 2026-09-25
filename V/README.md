@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - V (177 Images)
+# Kometa People Images - Transparent (transparent) - V (178 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vadivelu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vadivelu.png)
@@ -171,6 +171,7 @@
 * [Vivienne Tien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vivienne%20Tien.png)
 * [Vladek Sheybal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vladek%20Sheybal.png)
 * [Vladimir Mashchenko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vladimir%20Mashchenko.png)
+* [Vladislav Dvorzhetsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vladislav%20Dvorzhetsky.png)
 * [Vlasta Pospíšilová](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Vlasta%20Posp%C3%AD%C5%A1ilov%C3%A1.png)
 * [Volker Bruch](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Volker%20Bruch.png)
 * [Volker Schlöndorff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/V/Images/Volker%20Schl%C3%B6ndorff.png)

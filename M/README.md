@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1414 Images)
+# Kometa People Images - Transparent (transparent) - M (1415 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -1216,6 +1216,7 @@
 * [Miki Nagasawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Nagasawa.png)
 * [Miki Shin`ichirou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Shin%60ichirou.png)
 * [Miki Takakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Takakura.png)
+* [Miki Yoshii](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Yoshii.png)
 * [Mikio Naruse](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mikio%20Naruse.png)
 * [Mikio Osawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mikio%20Osawa.png)
 * [Mikkel Boe Følsgaard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mikkel%20Boe%20F%C3%B8lsgaard.png)

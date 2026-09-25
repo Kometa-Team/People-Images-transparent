@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (939 Images)
+# Kometa People Images - Transparent (transparent) - C (940 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -901,6 +901,7 @@
 * [Craig T. Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20T.%20Nelson.png)
 * [Craig Tate](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Tate.png)
 * [Craig Zobel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Craig%20Zobel.png)
+* [Crauford Kent](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Crauford%20Kent.png)
 * [Cree Cicchino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cree%20Cicchino.png)
 * [Cree Summer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cree%20Summer.png)
 * [Crispin Bonham-Carter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Crispin%20Bonham-Carter.png)

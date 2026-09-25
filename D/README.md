@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (895 Images)
+# Kometa People Images - Transparent (transparent) - D (896 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -219,6 +219,7 @@
 * [Danny Elfman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Elfman.png)
 * [Danny Glover](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Glover.png)
 * [Danny Huston](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Huston.png)
+* [Danny Keogh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Keogh.png)
 * [Danny Kirrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Kirrane.png)
 * [Danny Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20Mann.png)
 * [Danny McBride](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Danny%20McBride.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1123 Images)
+# Kometa People Images - Transparent (transparent) - S (1125 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -263,6 +263,7 @@
 * [Saïd Taghmaoui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sa%C3%AFd%20Taghmaoui.png)
 * [Scaachi Koul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scaachi%20Koul.png)
 * [Scarlet Johansson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scarlet%20Johansson.png)
+* [Scarlett DeMeo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scarlett%20DeMeo.png)
 * [Scarlett Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scarlett%20Diamond.png)
 * [Scarlett Estevez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scarlett%20Estevez.png)
 * [Scarlett Hefner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scarlett%20Hefner.png)
@@ -429,6 +430,7 @@
 * [Shade Rupe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shade%20Rupe.png)
 * [Shadoe Stevens](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shadoe%20Stevens.png)
 * [Shah Rukh Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shah%20Rukh%20Khan.png)
+* [Shahab Hosseini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shahab%20Hosseini.png)
 * [Shahadi Wright Joseph](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shahadi%20Wright%20Joseph.png)
 * [Shaheem Sanchez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaheem%20Sanchez.png)
 * [Shahid Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shahid%20Kapoor.png)

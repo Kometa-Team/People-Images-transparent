@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (922 Images)
+# Kometa People Images - Transparent (transparent) - R (923 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -356,6 +356,7 @@
 * [Richard Moll](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Moll.png)
 * [Richard N. Gladstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20N.%20Gladstein.png)
 * [Richard Ng Man-Tat](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Ng%20Man-Tat.png)
+* [Richard Ng Yiu-Hon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Ng%20Yiu-Hon.png)
 * [Richard Nixon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Nixon.png)
 * [Richard O'Brien](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20O%27Brien.png)
 * [Richard Portnow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Richard%20Portnow.png)

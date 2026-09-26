@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (582 Images)
+# Kometa People Images - Transparent (transparent) - P (583 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.%20D.%20James.png)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -512,6 +512,7 @@
 * [Pierfrancesco Favino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierfrancesco%20Favino.png)
 * [Pierre Coffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Coffin.png)
 * [Pierre Even](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Even.png)
+* [Pierre Hossein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Hossein.png)
 * [Pierre Mondy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Mondy.png)
 * [Pierre Morel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Morel.png)
 * [Pierre Perifel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pierre%20Perifel.png)

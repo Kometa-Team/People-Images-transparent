@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1257 Images)
+# Kometa People Images - Transparent (transparent) - A (1258 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -598,6 +598,7 @@
 * [Amber Stevens West](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amber%20Stevens%20West.png)
 * [Amber Tamblyn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amber%20Tamblyn.png)
 * [Ambika Mohan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ambika%20Mohan.png)
+* [Ambika](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ambika.png)
 * [Ambra Angiolini](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ambra%20Angiolini.png)
 * [Ameenah Kaplan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Ameenah%20Kaplan.png)
 * [Amelia Bullmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Amelia%20Bullmore.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (483 Images)
+# Kometa People Images - Transparent (transparent) - G (484 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -336,6 +336,7 @@
 * [Goldie Hawn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goldie%20Hawn.png)
 * [Golshifteh Farahani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Golshifteh%20Farahani.png)
 * [Gong Li](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Li.png)
+* [Gong Xuehua](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Xuehua.png)
 * [Gong Yoo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Yoo.png)
 * [Goo Ga-Lau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goo%20Ga-Lau.png)
 * [Googie Withers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Googie%20Withers.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1416 Images)
+# Kometa People Images - Transparent (transparent) - M (1418 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -536,6 +536,7 @@
 * [Masami Nagasawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masami%20Nagasawa.png)
 * [Masamune Shirow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masamune%20Shirow.png)
 * [Masanobu Ando](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masanobu%20Ando.png)
+* [Masao Maruyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masao%20Maruyama.png)
 * [Masashi Ando](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masashi%20Ando.png)
 * [Masashi Kishimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masashi%20Kishimoto.png)
 * [Masataka Kubota](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Masataka%20Kubota.png)
@@ -1215,6 +1216,7 @@
 * [Miki Manojlović](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Manojlovi%C4%87.png)
 * [Miki Mizuno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Mizuno.png)
 * [Miki Nagasawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Nagasawa.png)
+* [Miki Odagiri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Odagiri.png)
 * [Miki Shin`ichirou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Shin%60ichirou.png)
 * [Miki Takakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Takakura.png)
 * [Miki Yoshii](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miki%20Yoshii.png)

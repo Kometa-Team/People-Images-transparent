@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (896 Images)
+# Kometa People Images - Transparent (transparent) - D (897 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -24,6 +24,7 @@
 * [Dacre Montgomery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dacre%20Montgomery.png)
 * [Dafne Keen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dafne%20Keen.png)
 * [Dai Gaozheng](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dai%20Gaozheng.png)
+* [Dai Sato](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dai%20Sato.png)
 * [Dai Xu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dai%20Xu.png)
 * [Daihachi Yoshida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daihachi%20Yoshida.png)
 * [Daijirô Harada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daijir%C3%B4%20Harada.png)

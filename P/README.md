@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (583 Images)
+# Kometa People Images - Transparent (transparent) - P (584 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.%20D.%20James.png)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -568,6 +568,7 @@
 * [Priyadarshan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Priyadarshan.png)
 * [Priyanga Burford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Priyanga%20Burford.png)
 * [Priyanka Chopra Jonas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Priyanka%20Chopra%20Jonas.png)
+* [Priyanka Kedia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Priyanka%20Kedia.png)
 * [Professor Brian Cox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Professor%20Brian%20Cox.png)
 * [Pruitt Taylor Vince](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pruitt%20Taylor%20Vince.png)
 * [Prunella Scales](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Prunella%20Scales.png)

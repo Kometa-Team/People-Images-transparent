@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (897 Images)
+# Kometa People Images - Transparent (transparent) - D (899 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -700,6 +700,7 @@
 * [Dilraba Dilmurat](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dilraba%20Dilmurat.png)
 * [Dimiter D. Marinov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dimiter%20D.%20Marinov.png)
 * [Dimitri Diatchenko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dimitri%20Diatchenko.png)
+* [Dimple Kapadia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dimple%20Kapadia.png)
 * [Dina Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dina%20Meyer.png)
 * [Dina Morrone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dina%20Morrone.png)
 * [Dina Shihabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dina%20Shihabi.png)
@@ -831,6 +832,7 @@
 * [Doug Marcaida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Marcaida.png)
 * [Doug McGrath](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20McGrath.png)
 * [Doug Stanhope](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Doug%20Stanhope.png)
+* [Douglas Booth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Douglas%20Booth.png)
 * [Douglas Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Douglas%20Gordon.png)
 * [Douglas Hodge](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Douglas%20Hodge.png)
 * [Douglas M. Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Douglas%20M.%20Griffin.png)

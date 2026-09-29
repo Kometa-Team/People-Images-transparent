@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (425 Images)
+# Kometa People Images - Transparent (transparent) - H (426 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -59,6 +59,7 @@
 * [Hanna Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hanna%20Hall.png)
 * [Hannah Berner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hannah%20Berner.png)
 * [Hannah Cheramy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hannah%20Cheramy.png)
+* [Hannah Christine Shetler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hannah%20Christine%20Shetler.png)
 * [Hannah Dodd](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hannah%20Dodd.png)
 * [Hannah Einbinder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hannah%20Einbinder.png)
 * [Hannah Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hannah%20Gordon.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (773 Images)
+# Kometa People Images - Transparent (transparent) - K (774 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -262,6 +262,7 @@
 * [Keenan Wynn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keenan%20Wynn.png)
 * [Keenen Ivory Wayans](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keenen%20Ivory%20Wayans.png)
 * [KeiLyn Durrel Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/KeiLyn%20Durrel%20Jones.png)
+* [Keiju Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keiju%20Kobayashi.png)
 * [Keiko Kitagawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keiko%20Kitagawa.png)
 * [Keiko Matsuzaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keiko%20Matsuzaka.png)
 * [Keiko Takeshita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keiko%20Takeshita.png)

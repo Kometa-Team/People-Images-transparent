@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1753 Images)
+# Kometa People Images - Transparent (transparent) - J (1754 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -1051,6 +1051,7 @@
 * [Joey Lauren Adams](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Lauren%20Adams.png)
 * [Joey Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Lawrence.png)
 * [Joey Perillo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Perillo.png)
+* [Joey Pollari](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Pollari.png)
 * [Joey Scarpellino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Scarpellino.png)
 * [Joey Simmrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Simmrin.png)
 * [Joey Vieira](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joey%20Vieira.png)

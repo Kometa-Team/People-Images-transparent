@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (940 Images)
+# Kometa People Images - Transparent (transparent) - C (941 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -864,6 +864,7 @@
 * [Cormac Wibberley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cormac%20Wibberley.png)
 * [Cornell John](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cornell%20John.png)
 * [Cornell Woolrich](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cornell%20Woolrich.png)
+* [Cornell Young IV](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cornell%20Young%20IV.png)
 * [Corrado Invernizzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Corrado%20Invernizzi.png)
 * [Cory Booker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cory%20Booker.png)
 * [Cory DuVal](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cory%20DuVal.png)

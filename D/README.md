@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (899 Images)
+# Kometa People Images - Transparent (transparent) - D (901 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -33,6 +33,7 @@
 * [Daisuke Namikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Namikawa.png)
 * [Daisuke Nishio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Nishio.png)
 * [Daisuke Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Ono.png)
+* [Daisuke Ryū](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Ry%C5%AB.png)
 * [Daisuke Tengan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisuke%20Tengan.png)
 * [Daisy Beaumont](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisy%20Beaumont.png)
 * [Daisy Earles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Daisy%20Earles.png)
@@ -896,6 +897,7 @@
 * [Dylan Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Smith.png)
 * [Dylan Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Walsh.png)
 * [Dylan Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dylan%20Wang.png)
+* [Dziga Vertov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dziga%20Vertov.png)
 * [Débora Nascimento](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%C3%A9bora%20Nascimento.png)
 * [Déborah Révy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%C3%A9borah%20R%C3%A9vy.png)
 * [Díana Bermudez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%C3%ADana%20Bermudez.png)

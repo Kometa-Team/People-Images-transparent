@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (727 Images)
+# Kometa People Images - Transparent (transparent) - B (728 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -182,6 +182,7 @@
 * [Benjamin Clémentine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benjamin%20Cl%C3%A9mentine.png)
 * [Benjamin Evan Ainsworth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benjamin%20Evan%20Ainsworth.png)
 * [Benjamin Rigby](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benjamin%20Rigby.png)
+* [Benjamin Satterly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benjamin%20Satterly.png)
 * [Benjamin Walker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benjamin%20Walker.png)
 * [Benjamin Zephaniah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Benjamin%20Zephaniah.png)
 * [Bennet Guillory](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bennet%20Guillory.png)

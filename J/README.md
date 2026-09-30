@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1754 Images)
+# Kometa People Images - Transparent (transparent) - J (1756 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -1709,6 +1709,7 @@
 * [Juno Temple](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Juno%20Temple.png)
 * [Junya Enoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Junya%20Enoki.png)
 * [Junya Ikeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Junya%20Ikeda.png)
+* [Junya Satō](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Junya%20Sat%C5%8D.png)
 * [Juri Sam Winkler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Juri%20Sam%20Winkler.png)
 * [Jurnee Smollett-Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jurnee%20Smollett-Bell.png)
 * [Jurnee Smollett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jurnee%20Smollett.png)
@@ -1742,6 +1743,7 @@
 * [Justine Triet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Justine%20Triet.png)
 * [Justyn Shippelt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Justyn%20Shippelt.png)
 * [Juwan Mass](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Juwan%20Mass.png)
+* [Jyothika](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jyothika.png)
 * [Jyoti Deshpande](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jyoti%20Deshpande.png)
 * [Jérôme Kircher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%C3%A9r%C3%B4me%20Kircher.png)
 * [Jóhann Jóhannsson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%C3%B3hann%20J%C3%B3hannsson.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (774 Images)
+# Kometa People Images - Transparent (transparent) - K (776 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -730,6 +730,7 @@
 * [Kunal Khemu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kunal%20Khemu.png)
 * [Kunal Nayyar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kunal%20Nayyar.png)
 * [Kunichi Nomura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kunichi%20Nomura.png)
+* [Kunie Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kunie%20Tanaka.png)
 * [Kunihiko Yuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kunihiko%20Yuyama.png)
 * [Kuno Becker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kuno%20Becker.png)
 * [Kurosawa Tomoyo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kurosawa%20Tomoyo.png)
@@ -773,4 +774,5 @@
 * [Kō Nakahira](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8D%20Nakahira.png)
 * [Kōgo Noda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dgo%20Noda.png)
 * [Kōichi Imaizumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dichi%20Imaizumi.png)
+* [Kōji Shima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dji%20Shima.png)
 * [Kōji Wakamatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dji%20Wakamatsu.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (697 Images)
+# Kometa People Images - Transparent (transparent) - L (698 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -199,6 +199,7 @@
 * [Lee Jung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Jung-jae.png)
 * [Lee Kwang-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Kwang-hoon.png)
 * [Lee Kyoo-hyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Kyoo-hyung.png)
+* [Lee Kyung-young](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Kyung-young.png)
 * [Lee Latchford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Latchford.png)
 * [Lee Lik-chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Lik-chi.png)
 * [Lee Mack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Mack.png)

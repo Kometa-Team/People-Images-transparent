@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1133 Images)
+# Kometa People Images - Transparent (transparent) - S (1135 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -263,6 +263,7 @@
 * [Sayaka Ohara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sayaka%20Ohara.png)
 * [Sayed Badreya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sayed%20Badreya.png)
 * [Sayumi Suzushiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sayumi%20Suzushiro.png)
+* [Sayuri Hara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sayuri%20Hara.png)
 * [Saïd Taghmaoui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sa%C3%AFd%20Taghmaoui.png)
 * [Scaachi Koul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scaachi%20Koul.png)
 * [Scarlet Johansson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scarlet%20Johansson.png)
@@ -600,6 +601,7 @@
 * [Shuichi Ikeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuichi%20Ikeda.png)
 * [Shuichi Okita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuichi%20Okita.png)
 * [Shuko Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shuko%20Murase.png)
+* [Shukou Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shukou%20Murase.png)
 * [Shun Oguri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shun%20Oguri.png)
 * [Shunji Iwai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shunji%20Iwai.png)
 * [Shunsuke Daitoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shunsuke%20Daitoh.png)

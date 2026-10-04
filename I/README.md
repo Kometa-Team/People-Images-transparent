@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (191 Images)
+# Kometa People Images - Transparent (transparent) - I (192 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -163,6 +163,7 @@
 * [Israel Broussard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Israel%20Broussard.png)
 * [Issa Rae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Issa%20Rae.png)
 * [Issey Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Issey%20Takahashi.png)
+* [Itaru Era](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Itaru%20Era.png)
 * [Ithamar Enriquez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ithamar%20Enriquez.png)
 * [Itou Shizuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Itou%20Shizuka.png)
 * [Itziar Ituño](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Itziar%20Itu%C3%B1o.png)

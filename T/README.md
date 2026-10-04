@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (741 Images)
+# Kometa People Images - Transparent (transparent) - T (743 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -39,6 +39,7 @@
 * [Takashi Shimizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takashi%20Shimizu.png)
 * [Takashi Shimura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takashi%20Shimura.png)
 * [Takashi Tsukamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takashi%20Tsukamoto.png)
+* [Takashi Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takashi%20Yamazaki.png)
 * [Takayuki Hirao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takayuki%20Hirao.png)
 * [Takayuki Tsubaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takayuki%20Tsubaki.png)
 * [Takayuki Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takayuki%20Yamada.png)
@@ -107,6 +108,7 @@
 * [Tarik Saleh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tarik%20Saleh.png)
 * [Taron Egerton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taron%20Egerton.png)
 * [Taryn Manning](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Taryn%20Manning.png)
+* [Tasos Leivaditis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tasos%20Leivaditis.png)
 * [Tasuku Emoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tasuku%20Emoto.png)
 * [Tasuku Hatanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tasuku%20Hatanaka.png)
 * [Tate Donovan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tate%20Donovan.png)

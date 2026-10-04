@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (776 Images)
+# Kometa People Images - Transparent (transparent) - K (778 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -343,6 +343,7 @@
 * [Ken Takakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Takakura.png)
 * [Ken Watanabe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Watanabe.png)
 * [Ken Yamauchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%20Yamauchi.png)
+* [Ken'ichi Fujiwara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ken%27ichi%20Fujiwara.png)
 * [Kenan Thompson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenan%20Thompson.png)
 * [Kenda Henthorn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenda%20Henthorn.png)
 * [Kenichi Matsuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenichi%20Matsuyama.png)
@@ -388,6 +389,7 @@
 * [Kent Faulcon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kent%20Faulcon.png)
 * [Kenta Fukasaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenta%20Fukasaku.png)
 * [Kenta Miyake](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenta%20Miyake.png)
+* [Kento Hayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kento%20Hayashi.png)
 * [Kento Kaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kento%20Kaku.png)
 * [Kento Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kento%20Yamazaki.png)
 * [Kenya Barris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kenya%20Barris.png)

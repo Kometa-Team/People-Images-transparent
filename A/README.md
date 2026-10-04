@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1266 Images)
+# Kometa People Images - Transparent (transparent) - A (1268 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -349,6 +349,7 @@
 * [Alejandro González Iñárritu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu.png)
 * [Alejandro Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alejandro%20Jodorowsky.png)
 * [Aleks Paunovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleks%20Paunovic.png)
+* [Aleksandr Baluev](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksandr%20Baluev.png)
 * [Aleksandr Kaydanovskiy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksandr%20Kaydanovskiy.png)
 * [Aleksandr Kuznetsov](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksandr%20Kuznetsov.png)
 * [Aleksandr Rogozhkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aleksandr%20Rogozhkin.png)
@@ -888,6 +889,7 @@
 * [Anna Maxwell Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Maxwell%20Martin.png)
 * [Anna Mikami](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Mikami.png)
 * [Anna Mucha](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Mucha.png)
+* [Anna Nagase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Nagase.png)
 * [Anna Paquin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Paquin.png)
 * [Anna Parmas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Parmas.png)
 * [Anna Popplewell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Anna%20Popplewell.png)

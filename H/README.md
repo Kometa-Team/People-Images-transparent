@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (427 Images)
+# Kometa People Images - Transparent (transparent) - H (428 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -193,6 +193,7 @@
 * [Hei Zi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hei%20Zi.png)
 * [Heidi Klum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heidi%20Klum.png)
 * [Heidi Moneymaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heidi%20Moneymaker.png)
+* [Heihachirō Ōkawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heihachir%C5%8D%20%C5%8Ckawa.png)
 * [Heiko Lange](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heiko%20Lange.png)
 * [Heino Hansen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heino%20Hansen.png)
 * [Heinz Erhardt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Heinz%20Erhardt.png)

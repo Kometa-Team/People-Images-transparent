@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (698 Images)
+# Kometa People Images - Transparent (transparent) - L (699 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -265,6 +265,7 @@
 * [Lenny Kravitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lenny%20Kravitz.png)
 * [Lenny McLean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lenny%20McLean.png)
 * [Lenny Montana](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lenny%20Montana.png)
+* [Lenny Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lenny%20Rush.png)
 * [Lenora Crichlow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lenora%20Crichlow.png)
 * [Lenore Aubert](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lenore%20Aubert.png)
 * [Leo Bill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leo%20Bill.png)

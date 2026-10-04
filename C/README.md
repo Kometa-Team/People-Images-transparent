@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (941 Images)
+# Kometa People Images - Transparent (transparent) - C (943 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -258,6 +258,7 @@
 * [Chang Che-Hao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Che-Hao.png)
 * [Chang Cheh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Cheh.png)
 * [Chang Chen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Chen.png)
+* [Chang Ki-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Ki-ha.png)
 * [Channing Tatum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Channing%20Tatum.png)
 * [Chantal Akerman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chantal%20Akerman.png)
 * [Chao-Li Chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chao-Li%20Chi.png)
@@ -425,6 +426,7 @@
 * [Chip Gaines](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chip%20Gaines.png)
 * [Chipo Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chipo%20Chung.png)
 * [Chiranjeevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chiranjeevi.png)
+* [Chisako Hara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chisako%20Hara.png)
 * [Chishū Ryū](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chish%C5%AB%20Ry%C5%AB.png)
 * [Chiu Wai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chiu%20Wai.png)
 * [Chiwetel Ejiofor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chiwetel%20Ejiofor.png)

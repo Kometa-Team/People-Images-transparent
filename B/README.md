@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (728 Images)
+# Kometa People Images - Transparent (transparent) - B (729 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -422,6 +422,7 @@
 * [Bonnie Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bonnie%20Wright.png)
 * [Bora Dağtekin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bora%20Da%C4%9Ftekin.png)
 * [Borden Chase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Borden%20Chase.png)
+* [Boris Barnet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boris%20Barnet.png)
 * [Boris Karloff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boris%20Karloff.png)
 * [Boris Kodjoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boris%20Kodjoe.png)
 * [Boris McGiver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Boris%20McGiver.png)

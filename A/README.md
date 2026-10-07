@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1268 Images)
+# Kometa People Images - Transparent (transparent) - A (1270 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -499,6 +499,7 @@
 * [Alicia Witt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alicia%20Witt.png)
 * [Alida Valli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alida%20Valli.png)
 * [Aliette Opheim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aliette%20Opheim.png)
+* [Alijah Kai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alijah%20Kai.png)
 * [Aline Brosh McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aline%20Brosh%20McKenna.png)
 * [Aline Mineiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aline%20Mineiro.png)
 * [Alireza Golafshan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alireza%20Golafshan.png)
@@ -1232,6 +1233,7 @@
 * [Avi Arad](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Avi%20Arad.png)
 * [Avi Lerner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Avi%20Lerner.png)
 * [Avi Nash](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Avi%20Nash.png)
+* [Avtandil Makharadze](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Avtandil%20Makharadze.png)
 * [Awkwafina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Awkwafina.png)
 * [Aya Asahina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aya%20Asahina.png)
 * [Aya Cash](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Aya%20Cash.png)

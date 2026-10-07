@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (535 Images)
+# Kometa People Images - Transparent (transparent) - E (536 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.%20G.%20Daily.png)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -341,6 +341,7 @@
 * [Eoin Macken](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eoin%20Macken.png)
 * [Erana James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Erana%20James.png)
 * [Erdem Şanlı](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Erdem%20%C5%9Eanl%C4%B1.png)
+* [Eri Fukatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eri%20Fukatsu.png)
 * [Eri Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eri%20Kitamura.png)
 * [Eric André](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Andr%C3%A9.png)
 * [Eric Balfour](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eric%20Balfour.png)

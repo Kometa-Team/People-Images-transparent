@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (699 Images)
+# Kometa People Images - Transparent (transparent) - L (700 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -445,6 +445,7 @@
 * [Lisa Freeman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Freeman.png)
 * [Lisa Gaye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Gaye.png)
 * [Lisa Gerrard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Gerrard.png)
+* [Lisa Gilroy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Gilroy.png)
 * [Lisa Henson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Henson.png)
 * [Lisa Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Howard.png)
 * [Lisa Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Jackson.png)

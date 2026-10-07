@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (927 Images)
+# Kometa People Images - Transparent (transparent) - R (929 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -56,6 +56,7 @@
 * [Raffey Cassidy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raffey%20Cassidy.png)
 * [Rahul Kohli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rahul%20Kohli.png)
 * [Rahul Kumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rahul%20Kumar.png)
+* [Rahul Sankrityan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rahul%20Sankrityan.png)
 * [Rahul Subramanian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rahul%20Subramanian.png)
 * [Rainer Werner Fassbinder](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rainer%20Werner%20Fassbinder.png)
 * [Raini Rodriguez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raini%20Rodriguez.png)
@@ -777,6 +778,7 @@
 * [Ross Noble](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ross%20Noble.png)
 * [Ross Partridge](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ross%20Partridge.png)
 * [Rossella Falk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rossella%20Falk.png)
+* [Rossif Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rossif%20Sutherland.png)
 * [Rosy McEwen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rosy%20McEwen.png)
 * [Rouben Mamoulian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rouben%20Mamoulian.png)
 * [Rouiched](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rouiched.png)

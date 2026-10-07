@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1427 Images)
+# Kometa People Images - Transparent (transparent) - M (1429 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -123,6 +123,7 @@
 * [Malin Akerman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malin%20Akerman.png)
 * [Malin Buska](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malin%20Buska.png)
 * [Malin Åkerman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malin%20%C3%85kerman.png)
+* [Malina Weissman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malina%20Weissman.png)
 * [Malou Pantera](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malou%20Pantera.png)
 * [Malte Grunert](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malte%20Grunert.png)
 * [Malte Gårdinger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Malte%20G%C3%A5rdinger.png)
@@ -1181,6 +1182,7 @@
 * [Mike E. Winfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20E.%20Winfield.png)
 * [Mike Elliott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20Elliott.png)
 * [Mike Epps](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20Epps.png)
+* [Mike Faist](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20Faist.png)
 * [Mike Flanagan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20Flanagan.png)
 * [Mike Goodwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20Goodwin.png)
 * [Mike Grady](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mike%20Grady.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (100 Images)
+# Kometa People Images - Transparent (transparent) - Z (101 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Baylin.png)
@@ -83,6 +83,7 @@
 * [Zhou Yiran](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhou%20Yiran.png)
 * [Zhu Yilong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhu%20Yilong.png)
 * [Zhu Zhu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zhu%20Zhu.png)
+* [Zi Yu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zi%20Yu.png)
 * [Zijiao Liu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zijiao%20Liu.png)
 * [Zo In-sung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zo%20In-sung.png)
 * [Zoe Perry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zoe%20Perry.png)

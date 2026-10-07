@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (428 Images)
+# Kometa People Images - Transparent (transparent) - H (430 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -156,6 +156,7 @@
 * [Hasith Goli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hasith%20Goli.png)
 * [Hassani Shapi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hassani%20Shapi.png)
 * [Hassie Harrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hassie%20Harrison.png)
+* [Hatsuki Tsuji](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hatsuki%20Tsuji.png)
 * [Hattie Kragten](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hattie%20Kragten.png)
 * [Hattie Morahan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hattie%20Morahan.png)
 * [Havana Rose Liu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Havana%20Rose%20Liu.png)
@@ -308,6 +309,7 @@
 * [Hiroko Maruyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroko%20Maruyama.png)
 * [Hiromasa Yonebayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiromasa%20Yonebayashi.png)
 * [Hiromi Tsuru](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiromi%20Tsuru.png)
+* [Hiromichi Horikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiromichi%20Horikawa.png)
 * [Hirona Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hirona%20Yamazaki.png)
 * [Hiroshi Abe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroshi%20Abe.png)
 * [Hiroshi Kamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hiroshi%20Kamiya.png)

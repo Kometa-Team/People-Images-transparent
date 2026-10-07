@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (901 Images)
+# Kometa People Images - Transparent (transparent) - D (902 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -598,6 +598,7 @@
 * [Dennis Farina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Farina.png)
 * [Dennis Gaxiola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Gaxiola.png)
 * [Dennis Greene](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Greene.png)
+* [Dennis Haskins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Haskins.png)
 * [Dennis Haysbert](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Haysbert.png)
 * [Dennis Hopper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Hopper.png)
 * [Dennis Keiffer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dennis%20Keiffer.png)

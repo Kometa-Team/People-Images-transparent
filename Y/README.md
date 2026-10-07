@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (208 Images)
+# Kometa People Images - Transparent (transparent) - Y (210 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Vijaya.png)
@@ -26,6 +26,7 @@
 * [Yasmine Al Khatib](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasmine%20Al%20Khatib.png)
 * [Yasmine Al Massri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasmine%20Al%20Massri.png)
 * [Yasser Ali Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasser%20Ali%20Maher.png)
+* [Yasser Arafat](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasser%20Arafat.png)
 * [Yasuhiro Takemoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasuhiro%20Takemoto.png)
 * [Yasujiro Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasujiro%20Ozu.png)
 * [Yasujirō Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasujir%C5%8D%20Ozu.png)
@@ -189,6 +190,7 @@
 * [Yuuma Uchida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuuma%20Uchida.png)
 * [Yuumi Kawai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuumi%20Kawai.png)
 * [Yuya Yagira](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuya%20Yagira.png)
+* [Yuzo Sato](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuzo%20Sato.png)
 * [Yuzuru Tachikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuzuru%20Tachikawa.png)
 * [Yves Barsacq](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yves%20Barsacq.png)
 * [Yves-Marie Maurin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yves-Marie%20Maurin.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (943 Images)
+# Kometa People Images - Transparent (transparent) - C (944 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -234,6 +234,7 @@
 * [Chad Hayes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Hayes.png)
 * [Chad L. Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20L.%20Coleman.png)
 * [Chad Lindberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Lindberg.png)
+* [Chad Lowe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Lowe.png)
 * [Chad Michael Collins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Michael%20Collins.png)
 * [Chad Michael Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Michael%20Murray.png)
 * [Chad Oman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chad%20Oman.png)

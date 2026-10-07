@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (287 Images)
+# Kometa People Images - Transparent (transparent) - F (288 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)
@@ -283,6 +283,7 @@
 * [Fukuyama Jun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fukuyama%20Jun.png)
 * [Fumihiko Tachiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fumihiko%20Tachiki.png)
 * [Fumiko Orikasa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fumiko%20Orikasa.png)
+* [Fumio Ishimori](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fumio%20Ishimori.png)
 * [Furio Scarpelli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Furio%20Scarpelli.png)
 * [Furukawa Makoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Furukawa%20Makoto.png)
 * [Futoshi Nishiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Futoshi%20Nishiya.png)

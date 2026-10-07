@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (743 Images)
+# Kometa People Images - Transparent (transparent) - T (745 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -230,6 +230,7 @@
 * [Tetiana Gaidar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetiana%20Gaidar.png)
 * [Tetsu Inada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetsu%20Inada.png)
 * [Tetsu Komai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetsu%20Komai.png)
+* [Tetsuo Shinohara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetsuo%20Shinohara.png)
 * [Tetsuro Kodama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetsuro%20Kodama.png)
 * [Tetsuya Kakihara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tetsuya%20Kakihara.png)
 * [Tex Avery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tex%20Avery.png)
@@ -543,6 +544,7 @@
 * [Tommy O'Haver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20O%27Haver.png)
 * [Tommy Wirkola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tommy%20Wirkola.png)
 * [Tomoaki Maeno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomoaki%20Maeno.png)
+* [Tomoharu Katsumata](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomoharu%20Katsumata.png)
 * [Tomokazu Seki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomokazu%20Seki.png)
 * [Tomokazu Sugita](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomokazu%20Sugita.png)
 * [Tomoko Kawakami](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tomoko%20Kawakami.png)

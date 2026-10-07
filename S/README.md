@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1139 Images)
+# Kometa People Images - Transparent (transparent) - S (1140 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -728,6 +728,7 @@
 * [Sofía Espinosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sof%C3%ADa%20Espinosa.png)
 * [Sofía Vergara](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sof%C3%ADa%20Vergara.png)
 * [Soichi Masui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Soichi%20Masui.png)
+* [Soichiro Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Soichiro%20Kitamura.png)
 * [Sol C. Siegel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sol%20C.%20Siegel.png)
 * [Solomon Northup](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Solomon%20Northup.png)
 * [Solomon Sturges](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Solomon%20Sturges.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (745 Images)
+# Kometa People Images - Transparent (transparent) - T (746 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -240,6 +240,7 @@
 * [Thanaphum Sestasittikul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thanaphum%20Sestasittikul.png)
 * [Thandiwe Newton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thandiwe%20Newton.png)
 * [Thandolwethu Zondi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thandolwethu%20Zondi.png)
+* [Thasorn Klinnium](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thasorn%20Klinnium.png)
 * [Thayne Jasperson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thayne%20Jasperson.png)
 * [Thayr Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thayr%20Harris.png)
 * [The Coen Brothers](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/The%20Coen%20Brothers.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1140 Images)
+# Kometa People Images - Transparent (transparent) - S (1141 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -1034,6 +1034,7 @@
 * [Sumi Shimamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sumi%20Shimamoto.png)
 * [Sumire Uesaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sumire%20Uesaka.png)
 * [Summer Glau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Summer%20Glau.png)
+* [Summer H. Howell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Summer%20H.%20Howell.png)
 * [Sun Qian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sun%20Qian.png)
 * [Sun Tianyu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sun%20Tianyu.png)
 * [Sunao Katabuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sunao%20Katabuchi.png)

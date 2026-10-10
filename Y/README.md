@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (210 Images)
+# Kometa People Images - Transparent (transparent) - Y (212 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Vijaya.png)
@@ -124,6 +124,7 @@
 * [Yuen Qiu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuen%20Qiu.png)
 * [Yuhko Kaida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuhko%20Kaida.png)
 * [Yui Aragaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Aragaki.png)
+* [Yui Fukuo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Fukuo.png)
 * [Yui Hatano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Hatano.png)
 * [Yui Horie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Horie.png)
 * [Yui Ishikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yui%20Ishikawa.png)
@@ -177,6 +178,7 @@
 * [Yuriko Hishimi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuriko%20Hishimi.png)
 * [Yuriko Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuriko%20Ishida.png)
 * [Yuriko Yoshitaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuriko%20Yoshitaka.png)
+* [Yury Olesha](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yury%20Olesha.png)
 * [Yusei Yagi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yusei%20Yagi.png)
 * [Yusuke Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yusuke%20Kobayashi.png)
 * [Yuta Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yuta%20Kobayashi.png)

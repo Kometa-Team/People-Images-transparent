@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - D (902 Images)
+# Kometa People Images - Transparent (transparent) - D (903 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Arcy%20Carden.png)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/D%27Mile.png)
@@ -526,6 +526,7 @@
 * [Dean Stockwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean%20Stockwell.png)
 * [Dean Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean%20Winters.png)
 * [Dean-Charles Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Dean-Charles%20Chapman.png)
+* [Deanie Ip](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deanie%20Ip.png)
 * [Deanna Russo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deanna%20Russo.png)
 * [Deb Adair](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Deb%20Adair.png)
 * [Debbie Isitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/D/Images/Debbie%20Isitt.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (929 Images)
+# Kometa People Images - Transparent (transparent) - R (931 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -451,6 +451,7 @@
 * [Risa Hayamizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Hayamizu.png)
 * [Risa Mizuno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Mizuno.png)
 * [Risa Taneda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Taneda.png)
+* [Risa Tsumugi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Risa%20Tsumugi.png)
 * [Rish Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rish%20Shah.png)
 * [Rishi Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rishi%20Kapoor.png)
 * [Rishikanth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rishikanth.png)
@@ -856,6 +857,7 @@
 * [Ruta Gedmintas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruta%20Gedmintas.png)
 * [Rutanya Alda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rutanya%20Alda.png)
 * [Rutger Hauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rutger%20Hauer.png)
+* [Ruth Bradley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruth%20Bradley.png)
 * [Ruth Gemmell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruth%20Gemmell.png)
 * [Ruth Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruth%20Gordon.png)
 * [Ruth Kobart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruth%20Kobart.png)

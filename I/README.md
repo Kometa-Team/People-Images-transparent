@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (192 Images)
+# Kometa People Images - Transparent (transparent) - I (193 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -74,6 +74,7 @@
 * [Im Gi-hong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Gi-hong.png)
 * [Im Ji-yeon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Ji-yeon.png)
 * [Im Kwon-taek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Kwon-taek.png)
+* [Im Se-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Se-joo.png)
 * [Im Tae-mok](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Im%20Tae-mok.png)
 * [Ima Caryl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ima%20Caryl.png)
 * [Iman Vellani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Iman%20Vellani.png)

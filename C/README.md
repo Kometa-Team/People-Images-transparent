@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (944 Images)
+# Kometa People Images - Transparent (transparent) - C (945 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -446,6 +446,7 @@
 * [Chloë Sevigny](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chlo%C3%AB%20Sevigny.png)
 * [Cho Ah-in](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cho%20Ah-in.png)
 * [Cho Han-cheul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cho%20Han-cheul.png)
+* [Cho Seung-woo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cho%20Seung-woo.png)
 * [Cho Yeo-jeong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cho%20Yeo-jeong.png)
 * [Choi Bo-pil](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Bo-pil.png)
 * [Choi Dae-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Choi%20Dae-hoon.png)

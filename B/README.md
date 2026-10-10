@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (729 Images)
+# Kometa People Images - Transparent (transparent) - B (730 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -14,6 +14,7 @@
 * [Badja Djola](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Badja%20Djola.png)
 * [Bae Doo-na](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Doo-na.png)
 * [Bae Doona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Doona.png)
+* [Bae Soo-bin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Soo-bin.png)
 * [Bae Sung-woo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Sung-woo.png)
 * [Bae Suzy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bae%20Suzy.png)
 * [Baek Ji-won](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Baek%20Ji-won.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1759 Images)
+# Kometa People Images - Transparent (transparent) - J (1760 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -664,6 +664,7 @@
 * [Jenny Ortega](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jenny%20Ortega.png)
 * [Jenny Slate](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jenny%20Slate.png)
 * [Jenny Tamburi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jenny%20Tamburi.png)
+* [Jeno](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeno.png)
 * [Jens Hultén](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jens%20Hult%C3%A9n.png)
 * [Jensen Ackles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jensen%20Ackles.png)
 * [Jensen Atwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jensen%20Atwood.png)

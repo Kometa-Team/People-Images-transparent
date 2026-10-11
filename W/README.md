@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - W (268 Images)
+# Kometa People Images - Transparent (transparent) - W (269 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Bruce%20Cameron.png)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/W.%20Earl%20Brown.png)
@@ -227,6 +227,7 @@
 * [William-Christopher Stephens](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/William-Christopher%20Stephens.png)
 * [Willie Garson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willie%20Garson.png)
 * [Willie Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willie%20Nelson.png)
+* [Willow Kean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willow%20Kean.png)
 * [Willow Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Willow%20Shields.png)
 * [Wilmar Zimosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wilmar%20Zimosa.png)
 * [Wilmer Valderrama](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/W/Images/Wilmer%20Valderrama.png)

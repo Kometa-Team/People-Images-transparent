@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (700 Images)
+# Kometa People Images - Transparent (transparent) - L (701 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -147,6 +147,7 @@
 * [Laurie Faso](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laurie%20Faso.png)
 * [Laurie MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laurie%20MacDonald.png)
 * [Laurie Metcalf](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Laurie%20Metcalf.png)
+* [Lauryn Hardy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lauryn%20Hardy.png)
 * [Lavell Crawford](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lavell%20Crawford.png)
 * [Lawrence Bender](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Bender.png)
 * [Lawrence Chou Chun-Wai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lawrence%20Chou%20Chun-Wai.png)

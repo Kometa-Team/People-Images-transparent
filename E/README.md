@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (536 Images)
+# Kometa People Images - Transparent (transparent) - E (537 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.%20G.%20Daily.png)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -38,6 +38,7 @@
 * [Eddie Cahill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Cahill.png)
 * [Eddie Cibrian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Cibrian.png)
 * [Eddie Constantine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Constantine.png)
+* [Eddie Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Garcia.png)
 * [Eddie Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Griffin.png)
 * [Eddie Izzard](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20Izzard.png)
 * [Eddie J. Fernandez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Eddie%20J.%20Fernandez.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1141 Images)
+# Kometa People Images - Transparent (transparent) - S (1143 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -113,6 +113,7 @@
 * [Samantha Mathis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Mathis.png)
 * [Samantha Morton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Morton.png)
 * [Samantha Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Russell.png)
+* [Samantha Sloyan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Sloyan.png)
 * [Samantha Soule](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Soule.png)
 * [Samantha Stark](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Stark.png)
 * [Samara Weaving](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samara%20Weaving.png)
@@ -633,6 +634,7 @@
 * [Sidney Poitier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sidney%20Poitier.png)
 * [Sidney Sheldon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sidney%20Sheldon.png)
 * [Sidse Babett Knudsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sidse%20Babett%20Knudsen.png)
+* [Siena Agudong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Siena%20Agudong.png)
 * [Sienna Guillory](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sienna%20Guillory.png)
 * [Sienna Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sienna%20Miller.png)
 * [Sierra Aylina McClain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sierra%20Aylina%20McClain.png)

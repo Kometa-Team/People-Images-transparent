@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1270 Images)
+# Kometa People Images - Transparent (transparent) - A (1272 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -368,6 +368,7 @@
 * [Alex Edelman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Edelman.png)
 * [Alex Ferns](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Ferns.png)
 * [Alex Ferris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Ferris.png)
+* [Alex Fine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Fine.png)
 * [Alex Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Garcia.png)
 * [Alex Garland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Garland.png)
 * [Alex Gibney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alex%20Gibney.png)
@@ -515,6 +516,7 @@
 * [Alison Steadman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alison%20Steadman.png)
 * [Alison Sudol](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alison%20Sudol.png)
 * [Alison Sweeney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alison%20Sweeney.png)
+* [Alison Thornton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alison%20Thornton.png)
 * [Alison Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alison%20Wright.png)
 * [Alissa Yagi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alissa%20Yagi.png)
 * [Alistair Petrie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Alistair%20Petrie.png)

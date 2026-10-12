@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (931 Images)
+# Kometa People Images - Transparent (transparent) - R (933 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -552,6 +552,7 @@
 * [Robert K. Weiss](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20K.%20Weiss.png)
 * [Robert Katims](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Katims.png)
 * [Robert Kazinsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Kazinsky.png)
+* [Robert Kelker-Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Kelker-Kelly.png)
 * [Robert Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Kelly.png)
 * [Robert Klein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Klein.png)
 * [Robert Knepper](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Robert%20Knepper.png)
@@ -675,6 +676,7 @@
 * [Roger Vadim](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roger%20Vadim.png)
 * [Roger Yuan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roger%20Yuan.png)
 * [Roh Jeong-eui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roh%20Jeong-eui.png)
+* [Rohan Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rohan%20Campbell.png)
 * [Rohini Hattangadi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rohini%20Hattangadi.png)
 * [Roisin Conaty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roisin%20Conaty.png)
 * [Roland Emmerich](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Roland%20Emmerich.png)

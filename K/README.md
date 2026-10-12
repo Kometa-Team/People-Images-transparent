@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (785 Images)
+# Kometa People Images - Transparent (transparent) - K (786 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -785,3 +785,4 @@
 * [Kōichi Imaizumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dichi%20Imaizumi.png)
 * [Kōji Shima](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dji%20Shima.png)
 * [Kōji Wakamatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Dji%20Wakamatsu.png)
+* [Kōjirō Kusanagi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%C5%8Djir%C5%8D%20Kusanagi.png)

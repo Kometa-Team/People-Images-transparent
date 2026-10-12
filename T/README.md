@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (748 Images)
+# Kometa People Images - Transparent (transparent) - T (749 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -394,6 +394,7 @@
 * [Tipper Seifert-Cleveland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tipper%20Seifert-Cleveland.png)
 * [Tisa Farrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tisa%20Farrow.png)
 * [Tito Ortiz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tito%20Ortiz.png)
+* [Titos Vandis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Titos%20Vandis.png)
 * [Titus Welliver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Titus%20Welliver.png)
 * [Tiya Sircar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tiya%20Sircar.png)
 * [Toa Fraser](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Toa%20Fraser.png)

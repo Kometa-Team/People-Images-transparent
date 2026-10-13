@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) (15314 Images)
+# Kometa People Images - Transparent (transparent) (15315 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2016,7 +2016,7 @@
 * [Børge Ring](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C3%B8rge%20Ring.png)
 * [Břetislav Pojar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B%C5%99etislav%20Pojar.png)
 </details>
-<details><summary><a href="C">C (945 Images)</a></summary>
+<details><summary><a href="C">C (946 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -2035,6 +2035,7 @@
 * [Cal Brunker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cal%20Brunker.png)
 * [Cal Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cal%20Johnson.png)
 * [Calah Lane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Calah%20Lane.png)
+* [Cale Boyter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cale%20Boyter.png)
 * [Caleb Bellavance](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Caleb%20Bellavance.png)
 * [Caleb Landry Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Caleb%20Landry%20Jones.png)
 * [Caleb McLaughlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Caleb%20McLaughlin.png)

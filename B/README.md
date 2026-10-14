@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (730 Images)
+# Kometa People Images - Transparent (transparent) - B (731 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -364,6 +364,7 @@
 * [Bo Dietl](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bo%20Dietl.png)
 * [Bo Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bo%20Hopkins.png)
 * [Bo Svenson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bo%20Svenson.png)
+* [BoA](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/BoA.png)
 * [Bob Balaban](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bob%20Balaban.png)
 * [Bob Bergen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bob%20Bergen.png)
 * [Bob Clark](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bob%20Clark.png)

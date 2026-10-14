@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (786 Images)
+# Kometa People Images - Transparent (transparent) - K (788 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -276,6 +276,7 @@
 * [Keira Knightley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keira%20Knightley.png)
 * [Keisha Castle-Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keisha%20Castle-Hughes.png)
 * [Keisha Tucker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keisha%20Tucker.png)
+* [Keisuke Yoshida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keisuke%20Yoshida.png)
 * [Keith Buckley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keith%20Buckley.png)
 * [Keith Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keith%20Campbell.png)
 * [Keith Carradine](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Keith%20Carradine.png)
@@ -637,6 +638,7 @@
 * [Klaus Kinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Klaus%20Kinski.png)
 * [Klaus Maria Brandauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Klaus%20Maria%20Brandauer.png)
 * [Knate Gwaltney](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Knate%20Gwaltney.png)
+* [Ko Asung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ko%20Asung.png)
 * [Ko Kyu-pil](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ko%20Kyu-pil.png)
 * [Ko Matsuo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ko%20Matsuo.png)
 * [Ko Shibasaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Ko%20Shibasaki.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (432 Images)
+# Kometa People Images - Transparent (transparent) - H (433 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -144,6 +144,7 @@
 * [Haruka Shiraishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruka%20Shiraishi.png)
 * [Haruka Tomatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruka%20Tomatsu.png)
 * [Haruna Mikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruna%20Mikawa.png)
+* [Haruo Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Haruo%20Tanaka.png)
 * [Harutoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harutoki.png)
 * [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harve%20Bennett.png)
 * [Harvey Fierstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Harvey%20Fierstein.png)

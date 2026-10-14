@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - X (22 Images)
+# Kometa People Images - Transparent (transparent) - X (23 Images)
 
 * [X Mayo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/X%20Mayo.png)
 * [Xander Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xander%20Berkeley.png)
@@ -7,6 +7,7 @@
 * [Xavier Jiménez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xavier%20Jim%C3%A9nez.png)
 * [Xavyer Ureña](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xavyer%20Ure%C3%B1a.png)
 * [Xenia Kalogeropoulou](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xenia%20Kalogeropoulou.png)
+* [Xi Jinping](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xi%20Jinping.png)
 * [Xiao Shenyang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xiao%20Shenyang.png)
 * [Xiao Shunyao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xiao%20Shunyao.png)
 * [Xiao Zhan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/X/Images/Xiao%20Zhan.png)

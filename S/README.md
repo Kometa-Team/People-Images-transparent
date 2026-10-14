@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1143 Images)
+# Kometa People Images - Transparent (transparent) - S (1144 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -841,6 +841,7 @@
 * [Stany De Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stany%20De%20Silva.png)
 * [Star Slade](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Star%20Slade.png)
 * [Stavros Halkias](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stavros%20Halkias.png)
+* [Stavros Tsoumanis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stavros%20Tsoumanis.png)
 * [Stef Dawson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stef%20Dawson.png)
 * [Stefan Arndt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stefan%20Arndt.png)
 * [Stefan Betz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Stefan%20Betz.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1272 Images)
+# Kometa People Images - Transparent (transparent) - A (1273 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -242,6 +242,7 @@
 * [Akiko Yodo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akiko%20Yodo.png)
 * [Akim Tamiroff](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akim%20Tamiroff.png)
 * [Akin Gazi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akin%20Gazi.png)
+* [Akio Isono](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akio%20Isono.png)
 * [Akio Otsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akio%20Otsuka.png)
 * [Akira Akbar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akira%20Akbar.png)
 * [Akira Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Akira%20Ishida.png)

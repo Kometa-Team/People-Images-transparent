@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (946 Images)
+# Kometa People Images - Transparent (transparent) - C (947 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -246,6 +246,7 @@
 * [Chae Jong-hyeop](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chae%20Jong-hyeop.png)
 * [Chae Jung-an](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chae%20Jung-an.png)
 * [Chae Seo-an](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chae%20Seo-an.png)
+* [Chae Soo-bin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chae%20Soo-bin.png)
 * [Chafurin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chafurin.png)
 * [Chafuurin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chafuurin.png)
 * [Chaim Topol](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chaim%20Topol.png)

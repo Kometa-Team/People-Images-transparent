@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1144 Images)
+# Kometa People Images - Transparent (transparent) - S (1145 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -751,6 +751,7 @@
 * [Song Min-hyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Song%20Min-hyung.png)
 * [Song Weilong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Song%20Weilong.png)
 * [Song Young-chang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Song%20Young-chang.png)
+* [Song Yun-ah](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Song%20Yun-ah.png)
 * [Song Yuqi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Song%20Yuqi.png)
 * [Song Zuer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Song%20Zuer.png)
 * [Sonia Bergamasco](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Sonia%20Bergamasco.png)

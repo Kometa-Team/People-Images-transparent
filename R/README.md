@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (935 Images)
+# Kometa People Images - Transparent (transparent) - R (936 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -168,6 +168,7 @@
 * [Ray Wise](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ray%20Wise.png)
 * [Raymond Ablack](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20Ablack.png)
 * [Raymond Chandler](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20Chandler.png)
+* [Raymond Chow](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20Chow.png)
 * [Raymond Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20Cruz.png)
 * [Raymond J. Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20J.%20Barry.png)
 * [Raymond Lam Fung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Raymond%20Lam%20Fung.png)

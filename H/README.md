@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - H (433 Images)
+# Kometa People Images - Transparent (transparent) - H (434 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20C.%20Potter.png)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/H.%20G.%20Wells.png)
@@ -48,6 +48,7 @@
 * [Han So-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Han%20So-hee.png)
 * [Han Tian-Lu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Han%20Tian-Lu.png)
 * [Han Yi-seul](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Han%20Yi-seul.png)
+* [Hana Hishikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hana%20Hishikawa.png)
 * [Hana Hrzic](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hana%20Hrzic.png)
 * [Hana Mae Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hana%20Mae%20Lee.png)
 * [Hanae Natsuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/H/Images/Hanae%20Natsuki.png)

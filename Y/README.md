@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Y (214 Images)
+# Kometa People Images - Transparent (transparent) - Y (215 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Ravi%20Shankar.png)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Y.%20Vijaya.png)
@@ -27,6 +27,7 @@
 * [Yasmine Al Massri](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasmine%20Al%20Massri.png)
 * [Yasser Ali Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasser%20Ali%20Maher.png)
 * [Yasser Arafat](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasser%20Arafat.png)
+* [Yasuhiro Aoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasuhiro%20Aoki.png)
 * [Yasuhiro Takemoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasuhiro%20Takemoto.png)
 * [Yasujiro Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasujiro%20Ozu.png)
 * [Yasujirō Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Y/Images/Yasujir%C5%8D%20Ozu.png)

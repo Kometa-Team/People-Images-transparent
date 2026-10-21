@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (731 Images)
+# Kometa People Images - Transparent (transparent) - B (732 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -649,6 +649,7 @@
 * [Bruce Glover](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Glover.png)
 * [Bruce Greenwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Greenwood.png)
 * [Bruce He](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20He.png)
+* [Bruce Langley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Langley.png)
 * [Bruce Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Lee.png)
 * [Bruce Leung Siu-Lung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20Leung%20Siu-Lung.png)
 * [Bruce McGill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bruce%20McGill.png)

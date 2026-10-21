@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - O (149 Images)
+# Kometa People Images - Transparent (transparent) - O (150 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O%27Shea%20Jackson%20Jr..png)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/O-T%20Fagbenle.png)
@@ -29,6 +29,7 @@
 * [Ol Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Ol%20Parker.png)
 * [Olalla Hernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Olalla%20Hern%C3%A1ndez.png)
 * [Oleksandr Rodnyanskyy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oleksandr%20Rodnyanskyy.png)
+* [Oleksandr Rudynskyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Oleksandr%20Rudynskyi.png)
 * [Olf Fischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Olf%20Fischer.png)
 * [Olga Karlatos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Olga%20Karlatos.png)
 * [Olga Kurylenko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/O/Images/Olga%20Kurylenko.png)

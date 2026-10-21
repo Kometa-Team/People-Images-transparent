@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (701 Images)
+# Kometa People Images - Transparent (transparent) - L (703 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -175,6 +175,7 @@
 * [Lee Bowman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Bowman.png)
 * [Lee Byung-hun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Byung-hun.png)
 * [Lee Chae-dam](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Chae-dam.png)
+* [Lee Chan-hyeong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Chan-hyeong.png)
 * [Lee Chiu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Chiu.png)
 * [Lee Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Daniels.png)
 * [Lee Do-hyeon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lee%20Do-hyeon.png)
@@ -464,6 +465,7 @@
 * [Lisandro Boccacci](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisandro%20Boccacci.png)
 * [Lisseth Chavez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisseth%20Chavez.png)
 * [Liu Chang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Chang.png)
+* [Liu Cong](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Cong.png)
 * [Liu Fengchao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Fengchao.png)
 * [Liu Haocun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Haocun.png)
 * [Liu Lin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Liu%20Lin.png)

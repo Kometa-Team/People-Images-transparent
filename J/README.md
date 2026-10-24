@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1764 Images)
+# Kometa People Images - Transparent (transparent) - J (1766 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -1034,6 +1034,7 @@
 * [Joel McHale](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20McHale.png)
 * [Joel McKinnon Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20McKinnon%20Miller.png)
 * [Joel Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20Murray.png)
+* [Joel Oulette](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20Oulette.png)
 * [Joel Schumacher](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20Schumacher.png)
 * [Joel Silver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20Silver.png)
 * [Joel Silverstone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Joel%20Silverstone.png)
@@ -1511,6 +1512,7 @@
 * [Josh Charles](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Charles.png)
 * [Josh Cooley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Cooley.png)
 * [Josh Cowdery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Cowdery.png)
+* [Josh Cruddas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Cruddas.png)
 * [Josh Dallas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Dallas.png)
 * [Josh Duhamel](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Duhamel.png)
 * [Josh Elliott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Josh%20Elliott.png)

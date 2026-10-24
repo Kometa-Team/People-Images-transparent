@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (749 Images)
+# Kometa People Images - Transparent (transparent) - T (751 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -261,6 +261,7 @@
 * [Theresa Rebeck](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Theresa%20Rebeck.png)
 * [Thiago Martins](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thiago%20Martins.png)
 * [Thierry Wermuth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thierry%20Wermuth.png)
+* [Thinley Lhamo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thinley%20Lhamo.png)
 * [Thom Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thom%20Barry.png)
 * [Thom Gossom Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thom%20Gossom%20Jr..png)
 * [Thom Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Thom%20Green.png)
@@ -328,6 +329,7 @@
 * [Til Schweiger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Til%20Schweiger.png)
 * [Tilda Swinton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tilda%20Swinton.png)
 * [Tim Allen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Allen.png)
+* [Tim Bagley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Bagley.png)
 * [Tim Baltz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Baltz.png)
 * [Tim Bevan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Bevan.png)
 * [Tim Blake Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Tim%20Blake%20Nelson.png)

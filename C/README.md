@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (947 Images)
+# Kometa People Images - Transparent (transparent) - C (949 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -23,6 +23,7 @@
 * [Caleb McLaughlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Caleb%20McLaughlin.png)
 * [Calista Flockhart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Calista%20Flockhart.png)
 * [Callan Mulvey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callan%20Mulvey.png)
+* [Callina Liang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callina%20Liang.png)
 * [Callum Keith Rennie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20Keith%20Rennie.png)
 * [Callum McDougall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20McDougall.png)
 * [Callum Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20Turner.png)
@@ -262,6 +263,7 @@
 * [Chang Cheh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Cheh.png)
 * [Chang Chen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Chen.png)
 * [Chang Ki-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Ki-ha.png)
+* [Chang Yi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chang%20Yi.png)
 * [Channing Tatum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Channing%20Tatum.png)
 * [Chantal Akerman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chantal%20Akerman.png)
 * [Chao-Li Chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Chao-Li%20Chi.png)

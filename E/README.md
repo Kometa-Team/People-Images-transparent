@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - E (538 Images)
+# Kometa People Images - Transparent (transparent) - E (540 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.%20G.%20Daily.png)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/E.G.%20Marshall.png)
@@ -247,6 +247,7 @@
 * [Emilie de Ravin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilie%20de%20Ravin.png)
 * [Emilio Echevarría](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilio%20Echevarr%C3%ADa.png)
 * [Emilio Estevez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilio%20Estevez.png)
+* [Emilio Sakraya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emilio%20Sakraya.png)
 * [Emily Alatalo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Alatalo.png)
 * [Emily Alyn Lind](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Alyn%20Lind.png)
 * [Emily Baldoni](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Emily%20Baldoni.png)
@@ -458,6 +459,7 @@
 * [Ester Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ester%20Dean.png)
 * [Ester Expósito](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Ester%20Exp%C3%B3sito.png)
 * [Esther Acebo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Esther%20Acebo.png)
+* [Esther McGregor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Esther%20McGregor.png)
 * [Esther Povitsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Esther%20Povitsky.png)
 * [Esther Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Esther%20Scott.png)
 * [Esther Sedlaczek](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/E/Images/Esther%20Sedlaczek.png)

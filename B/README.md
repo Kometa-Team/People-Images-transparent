@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - B (732 Images)
+# Kometa People Images - Transparent (transparent) - B (733 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.F.%20Blinn.png)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/B.J.%20Penn.png)
@@ -334,6 +334,7 @@
 * [Bing Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bing%20Wang.png)
 * [Binnie Barnes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Binnie%20Barnes.png)
 * [Binnur Kaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Binnur%20Kaya.png)
+* [Bipasha Basu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Bipasha%20Basu.png)
 * [Birce Akalay](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Birce%20Akalay.png)
 * [Birgit Minichmayr](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Birgit%20Minichmayr.png)
 * [Birgitte Hjort Sørensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/B/Images/Birgitte%20Hjort%20S%C3%B8rensen.png)

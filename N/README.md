@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - N (427 Images)
+# Kometa People Images - Transparent (transparent) - N (428 Images)
 
 * [N. Linguswamy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.%20Linguswamy.png)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/N.T.%20Rama%20Rao%20Jr..png)
@@ -86,6 +86,7 @@
 * [Natalie Wood](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natalie%20Wood.png)
 * [Natalie Zea](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natalie%20Zea.png)
 * [Natar Ungalaaq](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natar%20Ungalaaq.png)
+* [Natasa Asiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natasa%20Asiki.png)
 * [Natascha McElhone](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natascha%20McElhone.png)
 * [Natasha Culzac](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natasha%20Culzac.png)
 * [Natasha Henstridge](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/N/Images/Natasha%20Henstridge.png)

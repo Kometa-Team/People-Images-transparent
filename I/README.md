@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (193 Images)
+# Kometa People Images - Transparent (transparent) - I (194 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -96,6 +96,7 @@
 * [Ingvar Hirdwall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ingvar%20Hirdwall.png)
 * [Ingvar Sigurdsson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ingvar%20Sigurdsson.png)
 * [Ingvild Deila](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ingvild%20Deila.png)
+* [Inna Churikova](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inna%20Churikova.png)
 * [Inori Minase](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inori%20Minase.png)
 * [Inoue Kikuko](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inoue%20Kikuko.png)
 * [Inoue Marina](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Inoue%20Marina.png)

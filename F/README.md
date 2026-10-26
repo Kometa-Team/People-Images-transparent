@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - F (288 Images)
+# Kometa People Images - Transparent (transparent) - F (289 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Gary%20Gray.png)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/F.%20Murray%20Abraham.png)
@@ -279,6 +279,7 @@
 * [Frédéric Back](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fr%C3%A9d%C3%A9ric%20Back.png)
 * [Frédéric Forestier](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fr%C3%A9d%C3%A9ric%20Forestier.png)
 * [Frédéric North](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fr%C3%A9d%C3%A9ric%20North.png)
+* [Fuka Izumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fuka%20Izumi.png)
 * [Fukushi Ochiai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fukushi%20Ochiai.png)
 * [Fukuyama Jun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fukuyama%20Jun.png)
 * [Fumihiko Tachiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/F/Images/Fumihiko%20Tachiki.png)

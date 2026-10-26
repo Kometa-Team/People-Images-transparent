@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (751 Images)
+# Kometa People Images - Transparent (transparent) - T (752 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T.%20J.%20Miller.png)
@@ -47,6 +47,7 @@
 * [Takeo Otsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeo%20Otsuka.png)
 * [Takeo Ōtsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeo%20%C5%8Ctsuka.png)
 * [Takeru Satoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeru%20Satoh.png)
+* [Takeshi Kaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeshi%20Kaga.png)
 * [Takeshi Kaneshiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeshi%20Kaneshiro.png)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeshi%20Kitano.png)
 * [Takeshi Koike](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Takeshi%20Koike.png)

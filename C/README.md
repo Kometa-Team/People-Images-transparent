@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - C (949 Images)
+# Kometa People Images - Transparent (transparent) - C (950 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20Robert%20Cargill.png)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/C.%20S.%20Forester.png)
@@ -27,6 +27,7 @@
 * [Callum Keith Rennie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20Keith%20Rennie.png)
 * [Callum McDougall](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20McDougall.png)
 * [Callum Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20Turner.png)
+* [Callum Vinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Callum%20Vinson.png)
 * [Calum Worthy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Calum%20Worthy.png)
 * [Cam Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cam%20Clarke.png)
 * [Cam Gigandet](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/C/Images/Cam%20Gigandet.png)

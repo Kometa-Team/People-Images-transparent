@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (703 Images)
+# Kometa People Images - Transparent (transparent) - L (705 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -288,6 +288,7 @@
 * [Leonard Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonard%20Mann.png)
 * [Leonard Mudie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonard%20Mudie.png)
 * [Leonard Nimoy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonard%20Nimoy.png)
+* [Leonard Rosenman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonard%20Rosenman.png)
 * [Leonardo Di Caprio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonardo%20Di%20Caprio.png)
 * [Leonardo Di Costanzo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonardo%20Di%20Costanzo.png)
 * [Leonardo DiCaprio](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leonardo%20DiCaprio.png)
@@ -591,6 +592,7 @@
 * [Loïc Corbery](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lo%C3%AFc%20Corbery.png)
 * [Lu Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Han.png)
 * [Lu Wei](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Wei.png)
+* [Lu Yi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Yi.png)
 * [Lu Yuxiao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lu%20Yuxiao.png)
 * [Luan Yuanhui](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Luan%20Yuanhui.png)
 * [Luanne Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Luanne%20Roberts.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (488 Images)
+# Kometa People Images - Transparent (transparent) - G (490 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -144,6 +144,7 @@
 * [Geoffrey Zakarian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Geoffrey%20Zakarian.png)
 * [Georg H. Schnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Georg%20H.%20Schnell.png)
 * [George A. Romero](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20A.%20Romero.png)
+* [George Abbott](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Abbott.png)
 * [George Axelrod](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Axelrod.png)
 * [George B. Seitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20B.%20Seitz.png)
 * [George Baker](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/George%20Baker.png)
@@ -337,6 +338,7 @@
 * [Goldie Hawn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goldie%20Hawn.png)
 * [Golshifteh Farahani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Golshifteh%20Farahani.png)
 * [Gong Li](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Li.png)
+* [Gong Myoung](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Myoung.png)
 * [Gong Xuehua](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Xuehua.png)
 * [Gong Yoo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gong%20Yoo.png)
 * [Goo Ga-Lau](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Goo%20Ga-Lau.png)

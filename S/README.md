@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1151 Images)
+# Kometa People Images - Transparent (transparent) - S (1153 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -296,6 +296,7 @@
 * [Scott Glenn](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Glenn.png)
 * [Scott Grimes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Grimes.png)
 * [Scott K. Foley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20K.%20Foley.png)
+* [Scott Kolk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Kolk.png)
 * [Scott Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20Lawrence.png)
 * [Scott M. Jefferson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20M.%20Jefferson.png)
 * [Scott MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Scott%20MacDonald.png)
@@ -445,6 +446,7 @@
 * [Shaheem Sanchez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaheem%20Sanchez.png)
 * [Shahid Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shahid%20Kapoor.png)
 * [Shai Avivi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shai%20Avivi.png)
+* [Shaike Ophir](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaike%20Ophir.png)
 * [Shailene Woodley](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shailene%20Woodley.png)
 * [Shaina West](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaina%20West.png)
 * [Shaji Kailas](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Shaji%20Kailas.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - A (1281 Images)
+# Kometa People Images - Transparent (transparent) - A (1282 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A%20Martinez.png)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/A.%20Edward%20Sutherland.png)
@@ -1095,6 +1095,7 @@
 * [Armida Lopez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Armida%20Lopez.png)
 * [Armie Hammer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Armie%20Hammer.png)
 * [Armin Rohde](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Armin%20Rohde.png)
+* [Arnold Lucy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arnold%20Lucy.png)
 * [Arnold Schwarzenegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arnold%20Schwarzenegger.png)
 * [Arnold Vosloo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arnold%20Vosloo.png)
 * [Arnon Milchan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/A/Images/Arnon%20Milchan.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - K (788 Images)
+# Kometa People Images - Transparent (transparent) - K (790 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/K.%20S.%20Ravikumar.png)
@@ -242,6 +242,7 @@
 * [Kazuchika Kise](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazuchika%20Kise.png)
 * [Kazue Fukiishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazue%20Fukiishi.png)
 * [Kazuhiko Inoue](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazuhiko%20Inoue.png)
+* [Kazuhiro Yamaji](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazuhiro%20Yamaji.png)
 * [Kazuki Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazuki%20Kitamura.png)
 * [Kazuki Yao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazuki%20Yao.png)
 * [Kazuko Yanaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kazuko%20Yanaga.png)
@@ -758,6 +759,7 @@
 * [Kwak Sin-ae](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kwak%20Sin-ae.png)
 * [Kwesi Ameyaw](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kwesi%20Ameyaw.png)
 * [Kwesi Boakye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kwesi%20Boakye.png)
+* [Kwong Wa](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kwong%20Wa.png)
 * [Kyan Khojandi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyan%20Khojandi.png)
 * [Kyla Pratt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyla%20Pratt.png)
 * [Kyle Balda](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/K/Images/Kyle%20Balda.png)

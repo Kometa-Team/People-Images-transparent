@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1767 Images)
+# Kometa People Images - Transparent (transparent) - J (1768 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -1614,6 +1614,7 @@
 * [Judy Freudberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Judy%20Freudberg.png)
 * [Judy Greer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Judy%20Greer.png)
 * [Judy Kain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Judy%20Kain.png)
+* [Judy Levitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Judy%20Levitt.png)
 * [Judy Marte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Judy%20Marte.png)
 * [Juho Kuosmanen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Juho%20Kuosmanen.png)
 * [Juicy J](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Juicy%20J.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - I (194 Images)
+# Kometa People Images - Transparent (transparent) - I (195 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/I.%20A.%20L.%20Diamond.png)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/IU.png)
@@ -43,6 +43,7 @@
 * [Ibrahima Gueye](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ibrahima%20Gueye.png)
 * [Ice Cube](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ice%20Cube.png)
 * [Ice-T](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ice-T.png)
+* [Ichirō Ryūzaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ichir%C5%8D%20Ry%C5%ABzaki.png)
 * [Ichirō Zaitsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ichir%C5%8D%20Zaitsu.png)
 * [Ida Galli](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ida%20Galli.png)
 * [Ida Lupino](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/I/Images/Ida%20Lupino.png)

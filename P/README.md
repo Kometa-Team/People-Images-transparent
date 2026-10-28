@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (585 Images)
+# Kometa People Images - Transparent (transparent) - P (586 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.%20D.%20James.png)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -501,6 +501,7 @@
 * [Phoebe Robinson-Galvin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phoebe%20Robinson-Galvin.png)
 * [Phoebe Robinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phoebe%20Robinson.png)
 * [Phoebe Waller-Bridge](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phoebe%20Waller-Bridge.png)
+* [Phromphiriya Thongputtaruk](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phromphiriya%20Thongputtaruk.png)
 * [Phuwin Tangsakyuen](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phuwin%20Tangsakyuen.png)
 * [Phylicia Rashād](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phylicia%20Rash%C4%81d.png)
 * [Phyllis Haver](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Phyllis%20Haver.png)

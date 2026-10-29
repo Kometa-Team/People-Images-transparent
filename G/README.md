@@ -1,8 +1,9 @@
-# Kometa People Images - Transparent (transparent) - G (490 Images)
+# Kometa People Images - Transparent (transparent) - G (491 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
 * [G.W. Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.W.%20Bailey.png)
+* [Gabee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabee.png)
 * [Gabor Maté](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabor%20Mat%C3%A9.png)
 * [Gabourey Sidibe](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabourey%20Sidibe.png)
 * [Gabriel Akuwudike](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gabriel%20Akuwudike.png)

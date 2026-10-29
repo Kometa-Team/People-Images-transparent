@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - T (758 Images)
+# Kometa People Images - Transparent (transparent) - T (759 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%20Bone%20Burnett.png)
 * [T'Nia Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/T%27Nia%20Miller.png)
@@ -430,6 +430,7 @@
 * [Todd Glass](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20Glass.png)
 * [Todd Hallowell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20Hallowell.png)
 * [Todd Haynes](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20Haynes.png)
+* [Todd Holland](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20Holland.png)
 * [Todd Lieberman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20Lieberman.png)
 * [Todd McFarlane](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20McFarlane.png)
 * [Todd Phillips](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/T/Images/Todd%20Phillips.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - Z (104 Images)
+# Kometa People Images - Transparent (transparent) - Z (105 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zac%20Efron.png)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zach%20Baylin.png)
@@ -38,6 +38,7 @@
 * [Zak Santiago](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zak%20Santiago.png)
 * [Zakir Hussain](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zakir%20Hussain.png)
 * [Zane Weiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zane%20Weiner.png)
+* [Zara Larsson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zara%20Larsson.png)
 * [Zara Phythian](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zara%20Phythian.png)
 * [Zazie Beetz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zazie%20Beetz.png)
 * [Zeeko Zaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/Z/Images/Zeeko%20Zaki.png)

@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - J (1768 Images)
+# Kometa People Images - Transparent (transparent) - J (1769 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J%27Dvonte.png)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/J.%20A.%20Bayona.png)
@@ -674,6 +674,7 @@
 * [Jeon Bae-soo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeon%20Bae-soo.png)
 * [Jeon Do-yeon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeon%20Do-yeon.png)
 * [Jeon Eun-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeon%20Eun-jin.png)
+* [Jeon Hye-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeon%20Hye-jin.png)
 * [Jeon Yeo-been](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeon%20Yeo-been.png)
 * [Jeong Yoon-I](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jeong%20Yoon-I.png)
 * [Jerami Cruise](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/J/Images/Jerami%20Cruise.png)

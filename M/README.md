@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - M (1434 Images)
+# Kometa People Images - Transparent (transparent) - M (1435 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M%27laah%20Kaur%20Singh.png)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/M.%20Emmet%20Walsh.png)
@@ -1281,6 +1281,7 @@
 * [Minori Terada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Minori%20Terada.png)
 * [Minoru Chiaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Minoru%20Chiaki.png)
 * [Mio Imada](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mio%20Imada.png)
+* [Mio Sakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mio%20Sakura.png)
 * [Miquel Fernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Miquel%20Fern%C3%A1ndez.png)
 * [Mira Furlan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mira%20Furlan.png)
 * [Mira Nair](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/M/Images/Mira%20Nair.png)

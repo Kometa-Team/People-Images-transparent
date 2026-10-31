@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - G (491 Images)
+# Kometa People Images - Transparent (transparent) - G (492 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G-Eazy.png)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/G.%20D.%20Spradlin.png)
@@ -329,6 +329,7 @@
 * [Gloria Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gloria%20Foster.png)
 * [Gloria Hendry](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gloria%20Hendry.png)
 * [Gloria Katz](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Gloria%20Katz.png)
+* [Glynis Johns](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Glynis%20Johns.png)
 * [Glynn Turman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Glynn%20Turman.png)
 * [Go Joon-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Go%20Joon-hee.png)
 * [Go Won-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/G/Images/Go%20Won-hee.png)

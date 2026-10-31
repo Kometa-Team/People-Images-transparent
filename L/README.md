@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - L (705 Images)
+# Kometa People Images - Transparent (transparent) - L (707 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Q.%20Jones.png)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/L.%20Scott%20Caldwell.png)
@@ -345,6 +345,7 @@
 * [Leythum](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Leythum.png)
 * [Li Bingbing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Bingbing.png)
 * [Li Chuan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Chuan.png)
+* [Li Gengxi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Gengxi.png)
 * [Li Guangjie](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Guangjie.png)
 * [Li Jing](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Jing.png)
 * [Li Keyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Li%20Keyi.png)
@@ -462,6 +463,7 @@
 * [Lisa Vicari](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Vicari.png)
 * [Lisa Vischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Vischer.png)
 * [Lisa Wilcox](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa%20Wilcox.png)
+* [Lisa-Marie Koroll](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisa-Marie%20Koroll.png)
 * [LisaGay Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/LisaGay%20Hamilton.png)
 * [Lisandro Boccacci](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisandro%20Boccacci.png)
 * [Lisseth Chavez](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/L/Images/Lisseth%20Chavez.png)

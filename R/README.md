@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - R (941 Images)
+# Kometa People Images - Transparent (transparent) - R (943 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/R.%20Madhavan.png)
@@ -67,6 +67,7 @@
 * [Rajesh Khanna](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rajesh%20Khanna.png)
 * [Rajesh Sharma](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rajesh%20Sharma.png)
 * [Rajinikanth](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rajinikanth.png)
+* [Rajiv Gupta](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rajiv%20Gupta.png)
 * [Rajkumar Hirani](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rajkumar%20Hirani.png)
 * [Rajkummar Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rajkummar%20Rao.png)
 * [Rakesh Bedi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rakesh%20Bedi.png)
@@ -841,6 +842,7 @@
 * [Rupert Penry-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Penry-Jones.png)
 * [Rupert Vansittart](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Vansittart.png)
 * [Rupert Wyatt](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rupert%20Wyatt.png)
+* [Ruri Arai](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruri%20Arai.png)
 * [Ruri Shinato](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Ruri%20Shinato.png)
 * [Rus Blackwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Rus%20Blackwell.png)
 * [Russ Fega](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/R/Images/Russ%20Fega.png)

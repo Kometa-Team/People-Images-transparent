@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - P (587 Images)
+# Kometa People Images - Transparent (transparent) - P (588 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.%20D.%20James.png)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/P.H.%20Moriarty.png)
@@ -29,6 +29,7 @@
 * [Pamela Ribon](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pamela%20Ribon.png)
 * [Pamela Salem](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pamela%20Salem.png)
 * [Pan Chunchun](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pan%20Chunchun.png)
+* [Pan Junya](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pan%20Junya.png)
 * [Pandro S. Berman](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pandro%20S.%20Berman.png)
 * [Pang Bo](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Pang%20Bo.png)
 * [Panos Cosmatos](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/P/Images/Panos%20Cosmatos.png)

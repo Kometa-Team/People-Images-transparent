@@ -1,4 +1,4 @@
-# Kometa People Images - Transparent (transparent) - S (1153 Images)
+# Kometa People Images - Transparent (transparent) - S (1154 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20Epatha%20Merkerson.png)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/S.%20N.%20Lakshmi.png)
@@ -111,6 +111,7 @@
 * [Samantha Coughlan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Coughlan.png)
 * [Samantha Ferris](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Ferris.png)
 * [Samantha Mathis](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Mathis.png)
+* [Samantha Melanie Coates](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Melanie%20Coates.png)
 * [Samantha Morton](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Morton.png)
 * [Samantha Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Russell.png)
 * [Samantha Sloyan](https://raw.githubusercontent.com/Kometa-Team/People-Images-transparent/master/S/Images/Samantha%20Sloyan.png)
